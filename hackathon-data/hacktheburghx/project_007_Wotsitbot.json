@@ -1,0 +1,177 @@
+{
+  "title": "Wotsitbot",
+  "url": "https://devpost.com/software/wotsitbot",
+  "description": "Devpost",
+  "technologies": [
+    "gamemaker",
+    "gml",
+    "hardware",
+    "python",
+    "raspberry-pi"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/903/datas/gallery.jpg",
+      "alt": "Wotsitbot – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/862/datas/gallery.jpg",
+      "alt": "Wotsitbot – screenshot 2"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/900/datas/gallery.jpg",
+      "alt": "Wotsitbot – screenshot 3"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/797/800/datas/profile.jpg",
+      "alt": "Adrian Vecina Tercero"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/114/816/datas/profile.jpeg",
+      "alt": "Toby Clark"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu00lPfgIqcWrIzmB9EF9lira3SEcONBJjBWSSC_vg=s96-c?height=180&width=180",
+      "alt": "amber swarbrick"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiqIRIzWrM2eAnegU7I5QAICjQPcV58Rl7TjDyrOA=s96-c?height=180&width=180",
+      "alt": "Daudi Wampamba"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/48382757?type=square&v=4",
+      "alt": "Joseph Heyes"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/19708658?type=square&v=4",
+      "alt": "Zac Garby"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/38766515?type=square&v=4",
+      "alt": "James Frost"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/88043949?type=square&v=4",
+      "alt": "Xyl  ‎"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/114/816/datas/medium.jpeg",
+      "alt": "Toby Clark"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu00lPfgIqcWrIzmB9EF9lira3SEcONBJjBWSSC_vg=s96-c?type=square",
+      "alt": "amber swarbrick"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/47606100?type=square&v=4",
+      "alt": "Irenitemi Agbejule"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/797/800/datas/profile.jpg",
+      "alt": "Adrian Vecina Tercero"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/903/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/862/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/900/datas/original.png"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Wotsitbot | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Wotsitbot A fun approach to learning! A custom-made controllable robot that allows kids to select objects or spaces, and learn all about their world! Like 7 Comment Story Updates Buttery Biscuit Base, the star of Wotsitbot Our fantastic UML diagram We wanted to make something hardware based, user-centric and fun! So we made a teleoperational robot that lets you collect 'things' in the real world, whilst simultaneously educating it's users! We really tried to make a hardware project scalable, so did alot of things by servers (see our architecture diagram!), and also tried to solve a real world problem: kids having fun in a physio-digital world. We had to make a video streaming standard for GMS2, as there is almost no support for loading images from a stream, let alone streaming. Inspiration We really wanted to build a robot this time, and thought that doing something where a use controls a robot and finds stuff would be fun! What it does Allows a user (presumably a young learner) to drive around a small robot, and click on things they can see in the world, allowing them to learn what they are, and a little more about them How we built it One of the heaviest projects we've ever undertaken! We built a home-made differential drive robot, along with a camera and a tilt servo. The entire thing is powered by a pi3 (thank you Eva!!). Then a game interface is produced using GameMaker Studio 2, which allows the user to control the robot, and see what it sees, which is all done through websockets and a UDP server. I never want to see another async in my life. When a user selects an object in the world, we run a local Segment Anything model to mask the object, and then pass it into OpenAI to retrieve what the object is. Information and pictures about the object are then scraped from the internet, and redisplayed to the user! Challenges we ran into RACE CONDITIONS, turns out that concurrency is really annoying! Building the robot was quite tricky, and our robot (Buttery Biscuit Base) had to be rebuilt 4 damned times. Getting the camera to publish an image was like Sisyphus pushing the boulder Accomplishments that we're proud of What we learned Building a robot from 0, and all the bs networking it requires to work What's next for Wotsitbot Built With gamemakergmlhardwarepythonraspberry-pi Submitted to HackTheBurgh X Winner Best Demo Created by I built the robot, and created the interfaces required to communicate with it, including receiving the camera data. This included a janky websocket server Adrian Vecina Tercero A lover of everything robotic. Hardware hacks galore! I worked on the front end, radio, stream rendering (with Amber!), controls and feedback. I also made something to webscrape images but we ran out of time to integrate! Toby Clark amber swarbrick Daudi Wampamba Like 7 7 people like this: Share this project: Updates Adrian Vecina Tercero started this project — Mar 02, 2024 04:11 PM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

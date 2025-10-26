@@ -1,0 +1,136 @@
+{
+  "title": "Slo-Fashion",
+  "url": "https://devpost.com/software/slo",
+  "description": "Devpost",
+  "technologies": [
+    "mongodb",
+    "python",
+    "react",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/717/datas/gallery.jpg",
+      "alt": "Slo-Fashion – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7MOQNIQMKH1iXl7P3PbhROWtpFusHMYRZCZmQp=s96-c?height=180&width=180",
+      "alt": "Ashok Saravanan"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-180-0301cf28954e6ce8ef036798be3a87b1f79306010122c2356cb9133bb10ed28d.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/279/431/datas/profile.jpg",
+      "alt": "Steven Uy"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/834/690/datas/profile.jpeg",
+      "alt": "Simi Saha"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/834/690/datas/profile.jpeg",
+      "alt": "Simi Saha"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/717/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/midoriengineer/HackPrinceton2024"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Slo-Fashion | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Slo-Fashion Seamlessly connecting consumers to suppliers for eco-friendly clothing recycling. Like Comment Story Updates Slo-Fashion: A Sustainable Fashion Initiative Inspiration According to TheRoundUp.org \" Between 80 and 100 billion new clothing garments are produced globally every year. 87% of the materials and fibers used to make clothing will end up in either incinerators or landfills. Only 20% of discarded textiles are collected. Only 1% of clothes will get recycled into new garments.\" The alarming rate of landfill waste produced by the fast fashion industry is concerning. The environmental degradation and the fashion industry's significant carbon footprint inspired us to make an effort for change. We discovered a gap between consumer intentions and actions towards sustainability. Fashion brands are trying to become more sustainable by providing discounts to customers for recycling clothes, but we all know how hard it is to physically go to a store to give up on old clothes to earn some discounts in our busy schedules. Inspired to bridge this gap, we set out to create a platform that makes sustainable living accessible and rewarding. What Slo-Fashion does Slo-Fashion is designed as a personal wardrobe inventory that encourages and facilitates clothing recycling. Users can easily upload pictures of garments they wish to recycle. Our service takes the hassle out of sustainability by picking up the items directly from the user's location and delivering them to fashion brands committed to sustainability. In return for their contribution, users are rewarded with cryptocurrency, which can be used within our marketplace to purchase outfits from approved sustainable brands. This system not only incentivizes recycling but also promotes the circulation of sustainable garments in the fashion ecosystem. How we built it In developing Slo-Fashion, we embraced a modern and responsive technology stack that catered to both frontend and backend needs, creating a strong platform that bridges sustainability and fashion. On the frontend, we utilized React.js for its efficient and flexible approach to building interactive user interfaces, complemented by Tailwind CSS for rapid, utility-first styling directly within our HTML, and Node.js to manage dependencies and run development tools via npm. For the backend, Python's readability and extensive library ecosystem streamlined our logic and data processing tasks, while Auth0 offered a secure and scalable authentication system. MongoDB's NoSQL structure provided the flexibility needed for our diverse data storage requirements, enhancing performance and scalability. Additionally, integrating VerbWire allowed seamless automation of logistics, furthering our mission to make sustainable fashion practices accessible and effortless for users. Together, these technologies facilitated the creation of a secure, scalable, and user-friendly platform, underscoring our commitment to promoting sustainable fashion. Challenges we ran into In developing our project, we encountered and overcame several challenges, including navigating CORS restrictions, configuring local and API environments, setting up and managing MongoDB, integrating Auth0 for production, refining the user login experience, and incorporating cryptocurrency transactions via Verbwire. Each hurdle was addressed through a combination of thorough research, leveraging community resources, adapting our configurations for local and production environments, and implementing best practices for security and user experience. These experiences not only helped us solve immediate technical issues but also enriched our understanding and skills across a diverse set of tools and technologies, reinforcing the importance of a meticulous, informed approach to problem-solving in software development. Accomplishments that we're proud of We're proud of successfully integrating a broad array of functionalities into our project, leveraging a diverse technology stack that includes React.js, Node.js, Python, MongoDB, Auth0, and Tailwind CSS among others. This achievement not only demonstrates our technical proficiency in working with different platforms, frameworks, and software but also underscores our commitment to crafting a comprehensive user experience. From implementing complex features like secure user authentication, real-time notifications, and seamless third-party service integrations to ensuring a responsive and accessible design, every aspect of our project reflects our dedication to this cause. Moreover, the sustainable impact of our initiative, aimed at promoting environmentally friendly fashion practices, stands out as a testament to our mission beyond mere technological achievement. The collaborative effort and continuous learning that propelled us through challenges have not only strengthened our team but also deepened our resolve to make a meaningful contribution to the tech and fashion industries. What we learned Through this project, we gained valuable insights and practical experience in several key areas of web development. We learned how to effectively utilize MongoDB, mastering the nuances of database design. Deploying applications with Next.js taught us about server-side rendering, static site generation, and optimizing our projects for production through Vercel's deployment platform, appreciating the seamless integration between development and deployment. Additionally, tackling CORS (Cross-Origin Resource Sharing) issues deepened our understanding of web security principles, enabling us to configure our applications to securely manage resources across different origins. This journey not only enhanced our technical skills but also improved our problem-solving capabilities, preparing us for future challenges in software development. What's next for Slo- Fashion Looking ahead, we are excited to evolve Slo-Fashion into a more user-friendly mobile application, expanding our reach and impact. We aim to broaden our marketplace, offering an even wider selection of sustainable shopping options. Our vision for Slo-Fashion is not just to be a platform for recycling clothes but to become a movement that reshapes the fashion industry into a more sustainable and environmentally conscious space. Built With mongodbpythonreacttypescript Try it out github.com Submitted to HackPrinceton Spring 2024 Winner Most Innovative Use Of Verbwire Created by Ashok Saravanan Private user Steven Uy Simi Saha Like Share this project: Updates Simi Saha started this project — Mar 30, 2024 10:19 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

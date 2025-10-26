@@ -1,0 +1,142 @@
+{
+  "title": "MLS Discord Bot",
+  "url": "https://devpost.com/software/mls-discord-bot",
+  "description": "Devpost",
+  "technologies": [
+    "discord",
+    "python"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/631/datas/gallery.jpg",
+      "alt": "MLS Discord Bot  – screenshot 1"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/766/datas/gallery.jpg",
+      "alt": "MLS Discord Bot  – screenshot 2"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/602/188/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/76460422?height=180&v=4&width=180",
+      "alt": "Naseha Chowdhury"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/76460422?height=180&v=4&width=180",
+      "alt": "Naseha Chowdhury"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/631/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/766/datas/original.png"
+    },
+    {
+      "text": "https://github.com/sameerkumar18/geek-joke-api",
+      "url": "https://github.com/sameerkumar18/geek-joke-api"
+    },
+    {
+      "text": "https://discordpy.readthedocs.io/en/stable/",
+      "url": "https://discordpy.readthedocs.io/en/stable/"
+    },
+    {
+      "text": "https://github.com/pixegami/simple-discord-bot",
+      "url": "https://github.com/pixegami/simple-discord-bot"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/nasehacho/mls-bot"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "MLS Discord Bot | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up MLS Discord Bot A simple discord bot to aid discord users in MLS server. Like Comment Story Updates Study Break Reminder: After pre-determined break is set, the bot will prompt user to take a break once they've reached the limit. Joke Command: Retrieves a joke from public API domain Inspiration After attending the \"API Fundamentals\" webinar at Technica, I learned the many applications of APIs in code as well as the fact that it is applied to discord bots. I run a server called \"Hunter College MLS\" and wanted to build a discord bot that will serve all functions that users desire instead of constantly inviting public discord bots into the server for different functions. What it does The bot is capable of saying hello, creating study sessions, and retrieving jokes from a public API domain. How we built it Using Python, I followed a tutorial on how to get started with creating a Discord bot. Following this, I understood how to make a command prompt for the bot and created a \"joke\" command prompt where the bot will retrieve a joke from the public API domain provided during the \"API Fundamentals\" webinar and paste the joke into the channel server. NOTE: The code that creates the study sessions is not my line of code, as I was following a tutorial. Challenges we ran into Unable to fix the time presented when study sessions start and end to showcase the correct time zone (EST) as well as making it easy to read Accomplishments that we're proud of Applying what I have learned from the Technica event to my project Starting my first draft of the discord bot that I will be applying to my server What we learned How to apply a public API into a line of code, particularly for a discord bot How to set up a virtual environment to create a discord bot What's next for MLS Discord Bot I would like to change how the time is showcased by the bot to be user-friendly. Additionally, I would like to add a public API that will retrieve questions from the NYS Clinical Laboratory Technologist Exam to aid fellow students with their studying for licensure. Finally, I would like to figure out how to host the discord bot 24/7 as it can only run through my line of code at the moment. References Public API: https://github.com/sameerkumar18/geek-joke-api Documentation: https://discordpy.readthedocs.io/en/stable/ Tutorial: https://github.com/pixegami/simple-discord-bot Built With discordpython Try it out github.com Submitted to Technica 2023 Winner Best Beginner Hack (College) Created by Naseha Chowdhury Like Share this project: Updates Naseha Chowdhury started this project — Oct 22, 2023 10:29 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

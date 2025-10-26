@@ -1,0 +1,183 @@
+{
+  "title": "TeleSpeech",
+  "url": "https://devpost.com/software/telespeech",
+  "description": "Devpost",
+  "technologies": [
+    "bootstrap",
+    "chrome",
+    "eleven-labs-api",
+    "firebase",
+    "javascript",
+    "next.js",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/416/datas/gallery.jpg",
+      "alt": "TeleSpeech – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/417/datas/gallery.jpg",
+      "alt": "TeleSpeech – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/418/datas/gallery.jpg",
+      "alt": "TeleSpeech – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/461/datas/gallery.jpg",
+      "alt": "TeleSpeech – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/636/234/datas/profile.png",
+      "alt": "Ronan Takizawa"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/8f530a77be45f3f77e9bff115b6fa9f5?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "David Prelinger"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/43f6867db79aea5f6e34ba599722183e?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "kylie bogar"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/117673229?height=180&v=4&width=180",
+      "alt": "Primera Hour"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI4Ea-imyqpGtBOODyO_SlSh8czk09MRlK2b6aK281YPJonCQ=s96-c?type=square",
+      "alt": "Rami Mamedov"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/49722313?type=square&v=4",
+      "alt": "Tshetrim (Tim) Lhendup"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7wWRLozq3Diji6Fkxkyhy8iA08zJqiiHludZ5z=s96-c?type=square",
+      "alt": "Luke Atkins"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocILyGDw_OK7ME2LfXg9bk04WEL5phuPA7rZ6qIhu0sA6zuV=s96-c?type=square",
+      "alt": "Soobin Rho"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/636/234/datas/profile.png",
+      "alt": "Ronan Takizawa"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/416/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/417/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/418/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/461/datas/original.png"
+    },
+    {
+      "text": "https://telespeakto.us",
+      "url": "https://telespeakto.us"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/David-Prelinger/hackharvard"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "TeleSpeech | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up TeleSpeech A Chrome Extension that converts Telegram messages into custom AI-generated speech, mimicking the distinct voice of each sender. Like 4 Comment 3 Story Updates Sound Screen (Chrome Extension) Audio Upload Screen (Web App) Login Screen (Chrome Extension) Audio Upload Complete Screen (Web App) Inspiration AI voices are stale and impersonal. Chrome extensions like \"Free Text To Speech Online\" use default voices to read text messages on the web out loud. While these default voices excel in cadence and clarity, they miss the nuance and emotion inherent in human speech. This emotional connection is important for a user, as it helps them feel engaged in online communication. Using personalized speech also helps users with special needs who rely on text-to-speech, as this feature assists them in identifying who is talking when vocalizing the messages. What it does TeleSpeech is a Chrome Extension that converts Telegram messages into custom AI-generated speech, mimicking the distinct voice of each sender. Using the chrome extension and the web app, you can upload anyone's voice and use it to read messages out loud in a Telegram group chat. How we built it We used a Chrome Extension (HTML/CSS, Vanilla JS) to read message data and run the text-to-speech, and a Next.js web app to manage the voices used for text-to-speech. To use TeleSpeech, a user will first upload their voice on our Next.js web app (https://telespeakto.us), which will then use the Eleven-Labs Text-to-Speech API to send the AI-generated voice back to the Chrome extension. All user credentials and voice data are securely stored in a Firebase database. On the Chrome extension, when a user has the Telegram Web App open, the extension's service worker will collect all the messages in a chat. When the Chrome extension is open and a user logs in, a \"Play Sound\" button appears. When pressed, the Chrome extension sends the web app all the message text, and the web app returns an audio file with an AI-generated voice saying the text data. Challenges we ran into We struggled the most with communicating between the Chrome extension and the web app. Using Vanilla JS with the extension's strict CSP policies made it hard to transfer data between the 2. We also struggled with learning how to use the Eleven-Labs API because we'd never used it before. Finally, two of the members of our team didn't know typescript as well had a decently steep learning curve as we headed into the projects. Accomplishments that we're proud of When we were first able to get one teammate's voice to come out of the speakers reading a message was so incredible. We all thought we could do this project before that happened, but after that, it felt so much more real and attainable. Another is that we built a fully functioning project despite it being our first time at a Hackathon. What we learned Two of the members in the group did not know a lot of JavaScript or typescript going in. The short time was not enough to completely prepare them. But, over the last 36 hours, they were able to figure it out to a higher degree than thought. The other two members learned a lot about how to use Chrome extensions, such as how to use service workers and how to have it communicate with a web app. Besides coding, the four of us also learned a lot about accessibility on screens. What's next for TeleSpeech The next big thing for TeleSpeech is for it to work for multiple platforms, not just Telegram. We want to expand it to WhatsApp, Instagram, and Facebook. It would also be nice if we could use it for news articles, where it would read news articles in the author's voice, or have the articles' quotes be read by the person's voice. Built With bootstrapchromeeleven-labs-apifirebasejavascriptnext.jstypescript Try it out github.com Submitted to HackHarvard 2023 Winner 1st Best Overall Hack Created by I worked on the chrome extension web scraping and the nextjs frontend. Ronan Takizawa I worked on chrome extension and creating the nextjs api endpoints David Prelinger kylie bogar Primera Hour Like 4 4 people like this: Share this project: Updates Ronan Takizawa started this project — Oct 22, 2023 07:03 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

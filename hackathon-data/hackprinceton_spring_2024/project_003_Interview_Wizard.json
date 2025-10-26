@@ -1,0 +1,148 @@
+{
+  "title": "Interview Wizard",
+  "url": "https://devpost.com/software/interview-wizard",
+  "description": "Devpost",
+  "technologies": [
+    "django",
+    "llm",
+    "machine-learning",
+    "mongodb"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/074/datas/gallery.jpg",
+      "alt": "Interview Wizard – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/831/829/datas/profile.png",
+      "alt": "Jacob Cardoso"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/56975094?height=180&v=4&width=180",
+      "alt": "Michael Fedotov"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/135041601?height=180&v=4&width=180",
+      "alt": "Anvii Mishra"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocITf3gMB-yEiXDrklecfHhrJ1uhE1MFFNNHTAu_OF2BVccIdik=s96-c?type=square",
+      "alt": "Arnav Deepaware"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/135041601?type=square&v=4",
+      "alt": "Anvii Mishra"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/67403229?type=square&v=4",
+      "alt": "Imran R."
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJxduD5f9papjm6QWYJ0ArIMzJQAvC-ZNKdKEYrkpH1kBM=s96-c?type=square",
+      "alt": "Pankaj Mishra"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/135041601?height=180&v=4&width=180",
+      "alt": "Anvii Mishra"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/074/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/michael-fedotov/hackprinceton-interviewAI/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Interview Wizard | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Interview Wizard Interview Wizard is a web application that makes interview training for candidates easier by tailoring interview practice to roles they apply to and grades and analyses their interview answers! Like 4 Comment Story Updates HomePage Education Track Inspiration At Interview Wizard, our mission is to empower job and internship candidates with the skills and confidence they need to succeed in interviews. We provide a personalized and comprehensive platform that tailors interview practice to the specific roles candidates apply for. By offering sophisticated grading and analysis of interview answers, we aim to cultivate a community of skilled professionals ready to excel in their careers. What it does Interview Wizard is a web application that makes interview training for candidates applying for jobs & internships easier by tailoring interview practice to the roles they apply to and also grading and analysing their interview answers! How we built it Built with FrontEnd: HTML, CSS BackEnd: MongoDB, Modal, OpenAI API, Django Challenges we ran into We had troubles with integrating the machine learning model taking in the video to respon into the flow of events. Accomplishments that we're proud of We built a website in 36 hours with tools we learned during that time. What we learned Django, Website Development, Integrating Modal What's next for Interview Wizard Integrating the Backend with Frontend for a coherent workflow Training our emotion AI model on higher GPU power Adding in a text to speech functionality to showcase sample response Giving candidate customized resources Integrate a Interviewer/ Recruiter Login for interviewers to look at sample questions to ask Built With djangollmmachine-learningmongodb Try it out github.com Submitted to HackPrinceton Spring 2024 Winner Best Beginner Created by I developed the front-end user interface in HTML and CSS as well as the backend with Django. Additionally, I integrated a MongoDB Atlas database within the Django backend to save the generated interview questions. Jacob Cardoso 4th year CS student @ McMaster University I worked on developing the video recording functionality and combining the machine learning models to produce and end result. Michael Fedotov Anvii Mishra I'm interested in using tech for social good! Like 4 4 people like this: Share this project: Updates Anvii Mishra started this project — Mar 31, 2024 07:50 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

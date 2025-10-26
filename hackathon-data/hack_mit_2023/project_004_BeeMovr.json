@@ -1,0 +1,156 @@
+{
+  "title": "BeeMovr",
+  "url": "https://devpost.com/software/beemovr",
+  "description": "Devpost",
+  "technologies": [
+    "cloudflare",
+    "docker",
+    "mapbox",
+    "next.js",
+    "nginx",
+    "node.js",
+    "open-meteo-api",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/617/838/datas/gallery.jpg",
+      "alt": "BeeMovr – screenshot 1"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/116/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/D5603AQHBUHkP2D1e6g/profile-displayphoto-shrink_800_800/0/1688447022584?e=1698278400&height=180&t=8nfFTXvl5wdAyTq7bePzx314lGNRoLPldOi__zG97Sw&v=beta&width=180",
+      "alt": "Jasper Ha"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJBRVJagHz-OFx7bj9bD2NLjreoRpkeX3bt4PIQxSdw=s96-c?height=180&width=180",
+      "alt": "Eric Gonzalez Duro"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocILyGDw_OK7ME2LfXg9bk04WEL5phuPA7rZ6qIhu0sA6zuV=s96-c?height=180&width=180",
+      "alt": "Soobin Rho"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AAcHTtcaY-3FMBSyeEh0HM2m3kE_I_VAu7tqTmxgvWN51TnQ4A=s96-c?height=180&width=180",
+      "alt": "Schaler Starks"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocILyGDw_OK7ME2LfXg9bk04WEL5phuPA7rZ6qIhu0sA6zuV=s96-c?type=square",
+      "alt": "Soobin Rho"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-32-b1904d87f9b96daac9211badffd5f60d8f9a7b4715feb9b5e5e641bcf714733b.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocILyGDw_OK7ME2LfXg9bk04WEL5phuPA7rZ6qIhu0sA6zuV=s96-c?height=180&width=180",
+      "alt": "Soobin Rho"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocILyGDw_OK7ME2LfXg9bk04WEL5phuPA7rZ6qIhu0sA6zuV=s96-c?height=180&width=180",
+      "alt": "Soobin Rho"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/617/838/datas/original.png"
+    },
+    {
+      "text": "https://github.com/soobinrho/BeeMovr",
+      "url": "https://github.com/soobinrho/BeeMovr"
+    },
+    {
+      "text": "development logs",
+      "url": "https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "BeeMovr | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up BeeMovr Helping beekeepers save their bees. Like 2 Comment Story Updates 1 BeeMovr Architecture 2023-10-10 Update We've moved all of our project information to our GitHub repo so that it's up to date. Our project is completely open source, so please feel free to contribute if you want! https://github.com/soobinrho/BeeMovr Built With cloudflaredockermapboxnext.jsnginxnode.jsopen-meteo-apitypescript Submitted to HackMIT 2023 Winner 3rd Place Created by Jasper Ha Eric Gonzalez Duro Soobin Rho Schaler Starks Like 2 2 people like this: Share this project: Updates Soobin Rho posted an update — Oct 26, 2023 04:04 PM EDT We created a separate section for all of our development logs. Log in or sign up for Devpost to join the conversation. Soobin Rho started this project — Sep 17, 2023 10:49 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

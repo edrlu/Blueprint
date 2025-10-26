@@ -1,0 +1,195 @@
+{
+  "title": "Datability",
+  "url": "https://devpost.com/software/datability",
+  "description": "Devpost",
+  "technologies": [
+    "apexcharst",
+    "apple-maps",
+    "bootstrap",
+    "css",
+    "firebase",
+    "google-cloud",
+    "google-cloud-apis",
+    "google-maps",
+    "html",
+    "huggingface-ml-models",
+    "javascript",
+    "natural-language-processing",
+    "plant-identification",
+    "swift",
+    "swift-ui"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/401/datas/gallery.jpg",
+      "alt": "Datability – screenshot 1"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/403/datas/gallery.jpg",
+      "alt": "Datability – screenshot 2"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/405/datas/gallery.jpg",
+      "alt": "Datability – screenshot 3"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/406/datas/gallery.jpg",
+      "alt": "Datability – screenshot 4"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-WfJ0F3WFCJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldc0YnHpr13k51q8q0Du3SzMy6EQ/s96-c/c/photo.jpg?height=180&width=180",
+      "alt": "Pranit Agrawal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GhcJ-N9cKIYzl4kDaEmH_0bH23tvT3bYhSHlCh0AA=s96-c?height=180&width=180",
+      "alt": "Sashank Balusu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiBGojX2g9W2EaAX4mryDC_G-w6Hw9LYorBIFbIuA=s96-c?height=180&width=180",
+      "alt": "Krish Iyengar"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucrGBW40XUqH3ZgYdx8qciEVLtAOcULfDZhkpmeOQA=s96-c?type=square",
+      "alt": "Aditya Pachpande"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GhcJ-N9cKIYzl4kDaEmH_0bH23tvT3bYhSHlCh0AA=s96-c?type=square",
+      "alt": "Sashank Balusu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucqqhlXMpaWx5U2fBK54rljlu0J-yOqZtrY8iW3b7og=s96-c?type=square",
+      "alt": "Kratik Agrawal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucrq1-kMZ5nx2IV0So5EWEaL-MEq9n7WWsCE_s1YlKc=s96-c?type=square",
+      "alt": "Sajal agarwal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiBGojX2g9W2EaAX4mryDC_G-w6Hw9LYorBIFbIuA=s96-c?type=square",
+      "alt": "Krish Iyengar"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-WfJ0F3WFCJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldc0YnHpr13k51q8q0Du3SzMy6EQ/s96-c/c/photo.jpg?type=square",
+      "alt": "Pranit Agrawal"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-WfJ0F3WFCJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldc0YnHpr13k51q8q0Du3SzMy6EQ/s96-c/c/photo.jpg?height=180&width=180",
+      "alt": "Pranit Agrawal"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/401/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/403/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/405/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/406/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/SashankBalusu/datability"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/KI54321/Datability"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Datability | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Datability Saving the environment, one point at a time. Crowdsourcing Important Data by Gamifying and Incentivizing the Process Like 6 Comment Story Updates Entering Into Challenges/Learning Facts About the Plant Has all of the users snaps and their location displayed on map with pin drops Analysis & Dashboard Map of all of the businesses received data from users Inspiration Pranit and Sashank are a part of Boy Scouts, and we both spend a lot of time helping our community and giving back. We have had personal accounts with the organizations we aim to help. Krish is also a local advocate for sustainability, he regularly looks for opportunities to help. We saw a need and we thought of a cool way to process and collect data and wanted to build it out. Who wouldn’t want to be earning Money and feeling like you're playing a game? What it does Datability is an app and web platform that gamifies and incentivizes crowdsourcing data. The problem we are trying to solve is simple: sustainable organizations struggle to receive the data they need because it is either scattered, expensive, or extremely difficult to access. Without this data, organizations can’t take action where their efforts make the most difference. Datability works by allowing organizations to request data and we crowdsource data from users by gamifying and incentivizing the process. Organizations give data requests and give us information on what data they want to capture and from where. Next, users in the geofence of the challenge are eligible to participate and can upload data they collect. In turn they get points and real money. At the end of it, organizations get actionable data and users get to compete with each other and make real money all while helping the environment. Our business model is simple too, the top 3 contributing users of a challenge get 35% of the pot and the rest is proportionality distributed to all contributors using this formula. We take a small cut from the payouts offered by Organizers and we want to give 50% of our profits back to sustainable efforts How we built it We built 2 platforms. One geared toward organizations and the other toward the public. And an IOS App for the users, and the web app for non-profits/business. Our tech stack included Swift, Swift UI, Firebase, Google Cloud APIs, Plant Identification, HuggingFace ML Models, NLP, Javascript, CSS, HTML, Bootstrap, Apexcharst, Google Maps API, Apple Maps On the organization side, we streamlined the onboarding process and added a smooth Stripe Setup. Using multithreading we can get immediate API responses and dynamic updating on the screen. We allow organizations to enable geofencing and location boundaries. On top of that we provide advanced analytics with Google Maps APIs as well as data aggregations and collections. We also have the cool feature of exporting all the data into a JSON format. On the consumer side, we were able to create an easy-to-use application that allowed easy interaction and understanding of all of its features. We were able to create NLP based descriptions for each of the plants to make sure everyone learns something from sustainability. All of the user data/images/coordinates were uploaded to our database to make sure that the web app could easily interact with that data too. Challenges we ran into This was our 4th Hackathon, but first time competing on a college campus. We went through multiple phases of ideation and several technical challenges. For example, when we were first discussing how to implement a psp (payment service provider) into our platform we exhaustively went through all the potential options before landing back on stripe as the optimal solution for us. Though these discussions could be seemingly tedious at times, it taught us a great deal on why planning is incredibly important, especially in computer science. The lack of sleep is also always a challenge :) Accomplishments that we're proud of We have a working product that with a few tweaks would be beta launch ready. That means we wrote a whole lot of code this weekend and are happy to see the final product. We’re proud of making a full stack iOS & Web application that works with various parts of Machine Learning and other APIs to deliver an impactful yet clean user interface. In addition, we are proud that the iOS and the web app seamlessly work together with no difficulties to make the overall platform better. What we learned We learned a whole lot. From several technical challenges and countless debugging hours, we learned the ins and outs of Swift/Swift UI, integrating stripe into web payments and mobile payouts, Google Maps API… What's next for Datability Over the weekend we loved the process of building and ideating over Datability. We want to continue so we are going to start a Beta Launch in just 2 weeks. Yes that’s right we are doing a beta launch in two weeks in the Bay Area community. We want to continue iterating on our tech and get it ready for scale. We look forward to what’s next. Built With apexcharstapple-mapsbootstrapcssfirebasegoogle-cloudgoogle-cloud-apisgoogle-mapshtmlhuggingface-ml-modelsjavascriptnatural-language-processingplant-identificationswiftswift-ui Try it out github.com github.com Submitted to PennApps XXIII: Sustainability Winner (Sponsored by Locket) Best iOS Hack Created by Pranit Agrawal Sashank Balusu Krish Iyengar Like 6 6 people like this: Share this project: Updates Pranit Agrawal started this project — Sep 03, 2022 02:04 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

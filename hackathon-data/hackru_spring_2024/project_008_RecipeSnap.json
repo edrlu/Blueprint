@@ -1,0 +1,197 @@
+{
+  "title": "RecipeSnap",
+  "url": "https://devpost.com/software/recipesnap",
+  "description": "Devpost",
+  "technologies": [
+    "ai",
+    "axios",
+    "cloudflare",
+    "cloudflare-ai",
+    "edamam-nutrition",
+    "expo.io",
+    "fast-api",
+    "html",
+    "javascript",
+    "python",
+    "react",
+    "react-native",
+    "wakefern"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/418/datas/gallery.jpg",
+      "alt": "RecipeSnap – screenshot 1"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/410/datas/gallery.jpg",
+      "alt": "RecipeSnap – screenshot 2"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/411/datas/gallery.jpg",
+      "alt": "RecipeSnap – screenshot 3"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/905/datas/gallery.jpg",
+      "alt": "RecipeSnap – screenshot 4"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/904/datas/gallery.jpg",
+      "alt": "RecipeSnap – screenshot 5"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/886/869/datas/profile.jpeg",
+      "alt": "Terry Nguyen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/93350789?height=180&v=4&width=180",
+      "alt": "Andrew Chang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiTAWIXYGbQObaN5pYGvlX7Ls5_gMIl-KfwFkZJMA=s96-c?height=180&width=180",
+      "alt": "Artem Torubarov"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/110296079?height=180&v=4&width=180",
+      "alt": "ldh 174"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/108630212?type=square&v=4",
+      "alt": "Yogesh Sampathkumar"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiTAWIXYGbQObaN5pYGvlX7Ls5_gMIl-KfwFkZJMA=s96-c?type=square",
+      "alt": "Artem Torubarov"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/93350789?type=square&v=4",
+      "alt": "Andrew Chang"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/886/869/datas/medium.jpeg",
+      "alt": "Terry Nguyen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/110296079?type=square&v=4",
+      "alt": "ldh 174"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/886/869/datas/profile.jpeg",
+      "alt": "Terry Nguyen"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/418/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/410/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/411/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/905/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/904/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/InfinitePower85/ruHacks2"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "RecipeSnap | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up RecipeSnap RecipeSnap 📸, search recipes and budget meals with just a photo snap! Like 5 Comment Story Updates RecipeSnap: Simplifying Cooking & Budgeting 🍳 Introduction RecipeSnap 📸, search recipes and budget meals with just a snap of your camera! RecipeSnap is the ultimate culinary companion, seamlessly integrating Cloudflare AI image recognition, ingredient identification, and real-time price tracking through Wakefern, providing a list of ingredients, their prices from Wakefern data, and recipes of any meals you want to cook! 🥗 Inspiration Our team's struggle with efficient meal planning and grocery shopping as college students sparked the idea for RecipeSnap. We aimed to streamline these tasks, creating a tool that instantly generates an ingredient list and their prices just from a photo of the desired food. 📚 What We Learned Developing RecipeSnap taught us the nuances of using APIs and connecting React Native front end with Python back end. We also learned more about how to use Cloudflare's AI models and frontend development with React Native and Expo Go, which are tools we are trying for the first time. 🛠️ How We Built Our Project RecipeSnap utilizes Cloudflare Workers AI ResNet-50 for image recognition, Edamam API to find recipes, and Wakefern for price tracking of ingredients. The frontend was developed using React Native and Expo Go. We used Python for data processing, Axios for API calls, and FastAPI for communication between the frontend and backend. 🚀 Challenges Faced We faced difficulties in integrating the frontend with the backend and using React Native for the first time. 🥘 Accomplishments that we're proud of Successfully integrating Cloudflare AI for food image recognition. Developing a user-friendly interface with React Native and Expo Go. Reliable real-time price tracking through Wakefern API. Overcame our challenges to make our app run smoothly. 😋 What's next for RecipeSnap Implementing user registration and login. Move from local to cloud storage. Expanding the database of recognized food items to cover a wider range of cuisines and products. Integrating more nutritional information and dietary preferences to offer personalized recipe recommendations. Connecting with grocery stores to create online shopping lists. Built With aiaxioscloudflarecloudflare-aiedamam-nutritionexpo.iofast-apihtmljavascriptpythonreactreact-nativewakefern Try it out github.com Submitted to HackRU Spring 2024 Winner Maverick Track Created by I worked on the front end and helped with creating buttons to gather camera input and image input. I also worked on creating a component to read the json of ingredients from the backend and displaying it Terry Nguyen I worked on front-end mostly and created some things like navbar functionality, parts of cameraInput and ImageInput. I utilized Axios on frontend and FastAPI with Uvicorn on backend to connect the different components of the app. Andrew Chang Worked with python on the backend employing Cloudflare Workers AI to utilize ResNet-50 for image classification, Edamam API to find recipes, and Wakefern API for store prices (using Hamming distance to find items when they don't have the exact same name). Artem Torubarov Student at Rutgers University–New Brunswick School of Arts and Sciences Honors Program I mostly worked on creation of the front end and helping to make it functional. I also contributed through visuals especially with the logo creation. I helped plan out certain aspects of the app including layout in an attempt to create an easy experience for users. ldh 174 Like 5 5 people like this: Share this project: Updates Terry Nguyen started this project — Mar 24, 2024 11:57 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

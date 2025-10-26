@@ -1,0 +1,190 @@
+{
+  "title": "Resume ArchiTech",
+  "url": "https://devpost.com/software/resume-architech",
+  "description": "Devpost",
+  "technologies": [
+    "bootstrap",
+    "flask",
+    "github",
+    "huggingface",
+    "openai",
+    "python",
+    "react",
+    "tailwind"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/405/datas/gallery.jpg",
+      "alt": "Resume ArchiTech – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/456/datas/gallery.jpg",
+      "alt": "Resume ArchiTech – screenshot 2"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/492/datas/gallery.jpg",
+      "alt": "Resume ArchiTech – screenshot 3"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/481/datas/gallery.jpg",
+      "alt": "Resume ArchiTech – screenshot 4"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/818/datas/gallery.jpg",
+      "alt": "Resume ArchiTech – screenshot 5"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/829/227/datas/profile.png",
+      "alt": "Athan Zhang"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/34976482?height=180&v=4&width=180",
+      "alt": "Tim Gubski"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/144400104?height=180&v=4&width=180",
+      "alt": "Laura Hwa"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/180793266?type=square&v=4",
+      "alt": "William Li"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/144400104?type=square&v=4",
+      "alt": "Laura Hwa"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/34976482?type=square&v=4",
+      "alt": "Tim Gubski"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/829/227/datas/medium.png",
+      "alt": "Athan Zhang"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/829/227/datas/profile.png",
+      "alt": "Athan Zhang"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/405/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/456/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/492/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/481/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/818/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/athanzxyt/resume-architech"
+    },
+    {
+      "text": "resume-architech.onrender.com",
+      "url": "https://resume-architech.onrender.com/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Resume ArchiTech | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Resume ArchiTech Maximizing Job Application Success By Customizing Resumes For Each Job With An Automatic Tailor. Like 4 Comment Story Updates Homepage Create User Page GitHub/Project Scraper LLM Bullet Generation + Editing Tailored Sample Resume Inspiration 💡 I'm sure all of you have also experienced the pain of trying to apply to hundreds of job postings only to hear back 4 months later that the position you applied to has already been filled. Well, we were sick of it! What It Does ⚙️ Resume ArchiTech is a custom resume tailor that will help maximize your chances of success by hand-picking your projects and work experience for each job you apply to. A task that would normally take 10-20 minutes can now be done in seconds, maximizing the quantity and quality of your job applications. How We Build It 🛠️ Resume ArchiTech is an amalgamation of various cutting-edge technologies to make the tasks of resume tailoring for jobs possible. We run a Flask backend with a MongoDB database along with a React front end, hosted on Render.com. To automatically tailor your resume for every job application we use a combination of GitHub API scraping to automatically gather information about your proudest projects, OpenAIs GPT3.5-turbo to generate resume bullet points for all of your projects, a HuggingFace Semantic Search Model to match the most relevant projects and experiences to a job posting, and python DOCX to automatically generate a ready to go PDF and Word document that you can apply with right away! Challenges We Ran Into 🧱 UI: One challenge we ran into was integrating all of the different parts of our app. We built up different parts of our App concurrently and integrating all of this in the front end was a big user experience challenge. Optimization: Using so many different APIs and AI models at times created a lot of delay when tailoring a users experiences to a given job. We managed to work around this by implementing asynchronous requests to different APIs, for instance using asyncio to send all of our OpenAI calls simultaneously so that users with many projects wouldn't have to wait too long to generate their resume bullet points. We also heavily optimized our scraping of users' GitHubs, by avoiding doing manual scraping and leveraging the GitHub API, which provides a lot of convenient data about user projects. Accomplishments that we're proud of 🎓 We believe our final webapp provides a very smooth and polished experience for the user to generate their custom-tailored resume which we are very proud of. This was our first time building an application using the OpenAI API, or Flask, and was a huge learning experience for using all of the different technologies that went into making this project a reality. We are extremely proud of how much we've learned while building ArchiTech and are excited to use these technologies in future projects! What's next for Resume ArchiTech 🚀 We want to continue developing bullet-point generation by using larger models trained on shorter sentences. We also want to improve our prompt engineering to more effectively implement the STAR (Situation, Task, Approach, Result) method for bullet-point generation. Furthermore, we want to figure out our parallelization for semantic embeddings such that a user will be able to apply to more jobs quickly. Built With bootstrapflaskgithubhuggingfaceopenaipythonreacttailwind Try it out github.com resume-architech.onrender.com Submitted to HackPrinceton Spring 2024 Winner Best Education Hack -- Track Prize Winner Best .Tech Domain Name Winner Best Use of AI for the Interview Process by Simplify Interviews Created by I worked on building out the AI backend. This was my first time working with generative AI open source models. I also helped configure the styling. Athan Zhang I worked on building out the backend in flask, scraping github projects using requests, and integrating our app with OpenAI for bullet point generation. Tim Gubski I worked on creating the styling and frontend of this project, using React and Tailwind for the first time. Laura Hwa Like 4 4 people like this: Share this project: Updates Athan Zhang started this project — Mar 31, 2024 08:25 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

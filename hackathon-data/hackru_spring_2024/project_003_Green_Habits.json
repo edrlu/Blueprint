@@ -1,0 +1,208 @@
+{
+  "title": "Green Habits",
+  "url": "https://devpost.com/software/green-habits",
+  "description": "Devpost",
+  "technologies": [
+    "cloudflare",
+    "css",
+    "flask",
+    "html5",
+    "javascript",
+    "python"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/509/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 1"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/510/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 2"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/570/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 3"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/698/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 4"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/891/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 5"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/892/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 6"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/893/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 7"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/894/datas/gallery.jpg",
+      "alt": "Green Habits – screenshot 8"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GgGQJMHnDH_iuBSWX9liCcUbS6KHD0EwOhV5L1i0w=s96-c?height=180&width=180",
+      "alt": "Kusum Gandham"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/64708153?height=180&v=4&width=180",
+      "alt": "Elian Deogracia-Brito"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-OY63MwAhdiE/AAAAAAAAAAI/AAAAAAAAMjg/AMZuuclrAhQgd_Wlb7e1NFHZjrnfBA7y8Q/s96-c/c/photo.jpg?height=180&width=180",
+      "alt": "Pedro Pa"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJbi2btfkLSsgu9tlmTbWcH9D5K8_4_XYniKTsYpeAuNkA=s96-c?height=180&width=180",
+      "alt": "Sibi Suriyanarayan Tiruchirapalli"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-OY63MwAhdiE/AAAAAAAAAAI/AAAAAAAAMjg/AMZuuclrAhQgd_Wlb7e1NFHZjrnfBA7y8Q/s96-c/c/photo.jpg?type=square",
+      "alt": "Pedro Pa"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/886/869/datas/medium.jpeg",
+      "alt": "Terry Nguyen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/106120628?type=square&v=4",
+      "alt": "Shatakshi Ranjan"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJbi2btfkLSsgu9tlmTbWcH9D5K8_4_XYniKTsYpeAuNkA=s96-c?height=180&width=180",
+      "alt": "Sibi Suriyanarayan Tiruchirapalli"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/509/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/510/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/570/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/698/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/891/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/892/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/893/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/824/894/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/pedropa140/HACKRU2024"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Green Habits | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Green Habits Let's aim to push back climate change (CC). Pick up some Green Habits by learning more about your carbon footprint, sustainable practices, and organized CC event. Like 3 Comment Story Updates Green Habits! Join The Community! Events Page! (You can add these events to Google Calendar!) Carbon Footprint! Auth0 Google Calendar! Cloudflare AI! Green Habit Front Page! Inspiration In the face of rising temperatures and growing climate challenges, we're compelled to act. With our expertise in Computer Science, we're believed that we could identify a solution in the form of a website to help people become aware of more sustainable lifestyle practices. Our goal is simple: to use technology for a sustainable future and raise awareness of climate change organized events. Join us in making a difference and protecting our planet. What it does Our project has a number of components, each focused on combatting climate change to some extent. For example, we have an events page that has events from the Rutgers Climate Action page. We provide the event details in an organized format while also linking further event details and allowing users to add the events to their google calendars. We also have a discord bot that acts as a sustainability task manager. In other words, if you have sustainability task such as taking out the trash, recycling, community service, or volunteering, the discord bot can keep track of these events you planned, including the time of the event, the details involved, and other pertinent information. We also have a Carbon Footprint (CF) calculator that indicates to you the level of CF based on your daily behaviors. Understanding your CF and the impact it has towards climate change is radically downplayed; we wanted to make sure people are aware of exactly how much they specifically are impacting climate change. Finally, we sustainability planner which uses a Cloudflare AI model. More specifically, we are able to pass in prompts to add events to your Google Calendar. The prompts are typically phrased with event logistics like \"Bike to work at 10AM tomorrow\" and this can also be added to your google calendar. How we built it We had the backend implemented through python flask and the front end implemented with HTML5 and Bootstrap-CSS, along with some JavaScript. We also utilized Cloudflare AI models (Text Generation - int8), Auth0 for user login, and Google Calendar API to support many of our goals. Challenges we ran into We ran into several challenges such as figuring out how to web-scrape the Rutgers Climate Action Offer website with beautifulsoup. We also had trouble determining the best Cloudflare model and understanding exactly how we need it act as a sustainable task creator. We also had a lot of trouble actually adding the event to google calendar. Accomplishments that we're proud of We are proud to say that figured out how to use the Cloudflare model to effectively build tasks for the users. Additionally, our discord bot does a stellar job of discussing task details with the user and providing instruction on exactly how to communicate with it. In terms of implementing AI, we have made a lot of great strides in these past couple hours. Of course, there are several things we could definitely improve, but we'd be happy to take this project past just this hackathon. What we learned We learned how to work under a more agile environment. With such a large scale project in mind, we had to split up the work effectively and efficiently, while also making sure that our code files convene smoothly once we push any changes. The event also reminded us how huge of a role communication plays when working on large scale projects as well. This is something we will remember while working on future projects, and potentially in industry. What's next for Green Habits Our next goal for Green Habits is to conduct more image processing, which could use another model of the Cloudflare AI. Through image processing we'd like to use CV to see if items can be recyclable or not. Ultimately, we'd like to implement more features that promote sustainability practices and further our total mission. Built With cloudflarecssflaskhtml5javascriptpython Try it out github.com Submitted to HackRU Spring 2024 Winner Social Good Track Winner Best University Sustainability Hack Winner [MLH] Best Use of Auth0 Created by Back-end Kusum Gandham may good karma be with you Played a part in full-stack development, managing the frontend interface of different routes and implementing a scraper for the Rutgers Climate Action page. Furthermore, managed prompt engineering and revamped algorithms handling consistency of the data returned by Cloudflare Llama model to be later be passed to Google Calendar's API. Elian Deogracia-Brito Pedro Pa Sibi Suriyanarayan Tiruchirapalli Like 3 3 people like this: Share this project: Updates Sibi Suriyanarayan Tiruchirapalli started this project — Mar 24, 2024 11:57 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

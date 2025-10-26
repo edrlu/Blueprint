@@ -1,0 +1,189 @@
+{
+  "title": "AskAnon",
+  "url": "https://devpost.com/software/askanon",
+  "description": "Devpost",
+  "technologies": [
+    "auth0",
+    "firebase",
+    "nextjs",
+    "tailwind",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/066/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 1"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/109/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 2"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/160/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 3"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/157/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 4"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/164/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 5"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/250/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 6"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/249/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 7"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/248/datas/gallery.jpg",
+      "alt": "AskAnon – screenshot 8"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/77121344?height=180&v=4&width=180",
+      "alt": "Dylan Pina"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/73082872?height=180&v=4&width=180",
+      "alt": "Jack Bogart"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/73082872?type=square&v=4",
+      "alt": "Jack Bogart"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/73082872?height=180&v=4&width=180",
+      "alt": "Jack Bogart"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/066/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/109/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/160/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/157/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/164/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/250/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/249/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/825/248/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/DylanPina/AskAnon/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "AskAnon | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up AskAnon Ever had a question in lecture but too anxious to ask? Introducing AskAnon! Get answers from your professor during lecture without any of the fear to ask. Like 1 Comment Story Updates Session selection screen Empty session room User POV Professor POV Emojis Firebase Dashboard Auth0 Dashboard Auth0 Signin Inspiration This semester in Deep Learning, our professor Dr. Cowan was noticing a lot of people weren't asking questions. As an experiment he started posting a google document to be used in class so people could anonymously ask questions. It's been a complete success all semester and engagement has been through the roof. We're hoping that by providing a platform that professors can use during lecture to allow students to anonymously ask questions, students will feel more inclined to participate and ask questions. What it does AskAnon allows verified professors in Rutgers to create chat sessions. Creating a session generates a unique session ID that students can enter on the site to join the lecture chat and ask questions without the fear of asking a \"stupid question\". How we built it We utilized the next.js framework to create the site with Firebase as our database to store a session's message history along with new messages. Auth0 is used to allow users and professors to login, along with verifying a professor so they are able to create sessions. Auth0 also lets us verify that users are using the Rutgers email domain. Challenges we ran into We originally wanted to implement class polls so that the professor could generate a poll and have the entire class vote on it. However due to the time constraint we were unable to implement this feature. We also ran into a near last minute disaster in which we exceeded our quota on Firebase and could not load any rooms or messages but were fortunate enough to spin up and configure a new Firebase app right before the submission was due. Accomplishments that we're proud of Within a small time span we were able to completely implement a web app that allows professors to create a chatting room for their students. This felt very ambitious due to the backend and frontend requirements along with us being a team of 2. What we learned There's a lot that goes into the development of any web app with a basic chatting functionality. To correctly store and display user messages in multiple rooms requires careful planning along with a reasonable amount of time. What's next for AskAnon Adding classroom polls, question threads, reacting to other user's messages, and more admin privileges such as muting and banning users. Built With auth0firebasenextjstailwindtypescript Try it out github.com Submitted to HackRU Spring 2024 Winner Education Track Created by Worked on the backend and various UI components Dylan Pina Fullstack demon, aka the Vim Reaper Worked on frontend UI components for chatting and layouts along with some backend interactions Jack Bogart I can center a div Like 1 1 person likes this: Share this project: Updates Jack Bogart started this project — Mar 24, 2024 11:59 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

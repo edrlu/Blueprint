@@ -1,0 +1,265 @@
+{
+  "title": "ShipSense.app (+ novel AI-powered data augmentation method)",
+  "url": "https://devpost.com/software/shipsense-ai-novel-data-augmentation-protocol",
+  "description": "Devpost",
+  "technologies": [
+    "chakra",
+    "folium",
+    "keras",
+    "multiprocessing",
+    "nextjs",
+    "numpy",
+    "openai",
+    "opencv",
+    "pandas",
+    "pillow",
+    "python",
+    "react",
+    "stablediffusion",
+    "tensorflow"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner",
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/165/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 1"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/979/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 2"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/182/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 3"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/980/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 4"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/391/635/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 5"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/181/datas/gallery.jpg",
+      "alt": "ShipSense.app (+ novel AI-powered data augmentation method) – screenshot 6"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/331/982/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp61y7wh5dkTmTr0wqNbH8XVESy9T_STLNCLGCEv7cw=s96-c?height=180&width=180",
+      "alt": "Soham Govande"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/24441720?height=180&v=4&width=180",
+      "alt": "Andrew Gao"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/388/175/datas/profile.png",
+      "alt": "Molly Cantillon"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/26493795?height=180&v=4&width=180",
+      "alt": "Sayak Maity"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/35238826?type=square&v=4",
+      "alt": "Emily Yu"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/747/301/datas/medium.png",
+      "alt": "Evin Li"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GgCZd4DKLP2q0HJJR6m10B__vb_vChwmoZGBEV23g=s96-c?type=square",
+      "alt": "Sana Basheer"
+    },
+    {
+      "src": "https://lh5.googleusercontent.com/-8uwLK6OfRIk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBGEvO1ha976ykEHcAX-rVuOUW4w/c/photo.jpg?type=square",
+      "alt": "Catherine Rasgaitis"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/26493795?type=square&v=4",
+      "alt": "Sayak Maity"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/C5603AQG_rGTJivtIjw/profile-displayphoto-shrink_800_800/0/1634071679098?e=1682553600&t=XBbwXndPX2vyaR8XVB2J0UcC7PMcCMpaIzryx9GVKA0&type=square&v=beta",
+      "alt": "Aviral Aggarwal"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/7908472?type=square&v=4",
+      "alt": "Muhamed AlGhzawi"
+    },
+    {
+      "src": "https://avatars1.githubusercontent.com/u/39802459?type=square&v=4",
+      "alt": "Le Zhu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp5bTVXKL42Ld6Za_z50w665FYl3rRrkEeISwLc09g=s96-c?type=square",
+      "alt": "Stan Lee"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp61y7wh5dkTmTr0wqNbH8XVESy9T_STLNCLGCEv7cw=s96-c?type=square",
+      "alt": "Soham Govande"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/24441720?height=180&v=4&width=180",
+      "alt": "Andrew Gao"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/388/175/datas/profile.png",
+      "alt": "Molly Cantillon"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/24441720?height=180&v=4&width=180",
+      "alt": "Andrew Gao"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/24441720?height=180&v=4&width=180",
+      "alt": "Andrew Gao"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/24441720?height=180&v=4&width=180",
+      "alt": "Andrew Gao"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/165/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/979/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/182/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/980/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/391/635/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/181/datas/original.png"
+    },
+    {
+      "text": "49%",
+      "url": "https://www.scientificamerican.com/article/ocean-fish-numbers-cut-in-half-since-1970/"
+    },
+    {
+      "text": "90%",
+      "url": "https://datatopics.worldbank.org/sdgatlas/archive/2017/SDG-14-life-below-water.html"
+    },
+    {
+      "text": "1 trillion",
+      "url": "https://www.forbes.com/sites/michaelpellmanrowland/2017/07/24/seafood-sustainability-facts/?sh=2a46f1794bbf"
+    },
+    {
+      "text": "shipsense.app",
+      "url": "https://shipsense.app/"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/SohamGovande/treehacks-2023"
+    },
+    {
+      "text": "docs.google.com",
+      "url": "https://docs.google.com/document/d/1HXQFVR9KneeYJkby3gI7vXaiBwKuPViMJpXMb-mG0sQ/edit?usp=sharing"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "ShipSense.app (+ novel AI-powered data augmentation method) | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up ShipSense.app (+ novel AI-powered data augmentation method) Mitigating overfishing through AI-augmented satellite imagery and data viz dashboard. Novel few-shot synthetic image data augmentation method using fine-tuned Stable Diffusion for any object. Like 21 Comment 4 Story Updates 4 Fine-tuned Stable Diffusion outperforms GANs on much less data. Fine-tuning is also 10x faster to train. Low data? No prob. Screenshot of our visualization platform. Forget overfitting. What about overfishing? Everything in this project was completed during TreeHacks. By the way, we've included lots of hidden fishy puns in our writeup! Comment how many you find! TL; DR Illegal overfishing is a massive issue (>200 billion fish/year), disrupting global ecosystems and placing hundreds of species at risk of extinction. Satellite imagery can detect fishing ships but there's little positive data to train a good ML model. To get synthetic data: we fine-tuned Stable Diffusion on 1/1000ths of the data of a typical GAN (and 10x training speed) on images of satellite pictures of ships and achieved comparable quality to SOTA. We only used 68 original images! We trained a neural network using our real and synthetic data that detected ships with 96% accuracy. Built a global map and hotspot dashboard that lets governments view realtime satellite images, analyze suspicious activity hotspots, & take action. Created a custom polygon renderer on top of ArcGIS Our novel Stable Diffusion data augmentation method has potential for many other low-data applications. Got you hooked? Keep reading! Let's get reel... Did you know global fish supply has decreased by 49% since 1970? While topics like deforestation and melting ice dominate sustainability headlines, overfishing is a seriously overlooked issue. After thoroughly researching sustainability, we realized that this was an important but under-addressed challenge. We were shocked to learn that 90% of fisheries are over-exploited or collapsing. What's more, around 1 trillion (1,000,000,000,000) fish are caught yearly. Hailing from San Diego, Boston, and other cities known for seafood, we were shocked to hear about this problem. Research indicates that despite many verbal commitments to fish sustainably, one in five fish is illegally caught. What a load of carp! People are shellfish... Around the world, governments and NGOs have been trying to reel in overfishing, but economic incentives and self-interest mean that many ships continue to exploit resources secretly. It's hard to detect small ships on the world's 140 million square miles of ocean. What we're shipping In short (we won't keep you on the hook): we used custom Stable Diffusion to create realistic synthetic image data of ships and trained a convolutional neural networks (CNNs) to detect and locate ships from satellite imagery. We also built a data visualization platform for stakeholders to monitor overfishing. To enhance this platform, we identified several hotspots of suspicious dark vessel activity by digging into 55,000+ AIS radar records. While people have tried to build AI models to detect overfishing before, accuracy was poor due to high class imbalance. There are few positive examples of ships on water compared to the infinite negative examples of patches of water without ships. Researchers have used GANs to generate synthetic data for other purposes. However, it takes around 50,000 sample images to train a decent GAN. The largest satellite ship dataset only has ~2,000 samples. We realized that Stable Diffusion (SD), a popular text-to-image AI model, could be repurposed to generate unlimited synthetic image data of ships based on relatively few inputs. We were able to achieve highly realistic synthetic images using only 68 original images. How we shipped it First, we read scientific literature and news articles about overfishing, methods to detect overfishing, and object detection models (and limitations). We identified a specific challenge: class imbalance in satellite imagery. Next, we split into teams. Molly and Soham worked on the front-end, developing a geographical analysis portal with React and creating a custom polygon renderer on top of existing geospatial libraries. Andrew and Sayak worked on curating satellite imagery from a variety of datasets, performing classical image transformations (rotations, flips, crops), fine-tuning Stable Diffusion models and GANs (to compare quality), and finally using a combo of real and synthetic data to train an CNN. Andrew also worked on design, graphics, and AIS data analysis. We explored Leap ML and Runway fine-tuning methods. Challenges we tackled Building Earth visualization portals are always quite challenging, but we could never have predicted the waves we would face. Among animations, rotations, longitude, latitude, country and ocean lines, and the most-feared WebGL, we had a lot to learn. For ocean lines, we made an API call to a submarine transmissions library and recorded features to feed into a JSON. Inspired by the beautiful animated globes of Stripe's and CoPilot's landing pages alike, we challengingly but succeedingly wrote our own. Additionally, the synthesis between globe to 3D map was difficult, as it required building a new scroll effect compatible with the globe. These challenges, although significant at the time, were ultimately surmountable, as we navigated through their waters unforgivingly. This enabled the series of accomplishments that ensued. It was challenging to build a visual data analysis layer on top of the ArcGIS library. The library was extremely granular, requiring us to assimilate the meshes of each individual polygon to display. To overcome this, we built our own component-based layer that enabled us to draw on top of a preexisting map. Making waves (accomplishments) Text-to-image models are really cool but have failed to find that many real-world use cases besides art and profile pics. We identified and validated a relevant application for Stable Diffusion that has far-reaching effects for agricultural, industry, medicine, defense, and more. We also made a sleek and refined web portal to display our results, in just a short amount of time. We also trained a CNN to detect ships using the real and synthetic data that achieved 96% accuracy. What we learned How to tackle overfishing: We learned a lot about existing methods to combat overfishing that we didn't know about. We really became more educated on ocean sustainability practices and the pressing nature of the situation. We schooled ourselves on AIS, satellite imagery, dark vessels, and other relevant topics. Don't cast a wide net. And don't go overboard. Originally, we were super ambitious with what we wanted to do, such as implementing Monte Carlo particle tracking algorithms to build probabilistic models of ship trajectories. We realized that we should really focus on a couple of ideas at max because of time constraints. Divide and conquer We also realized that splitting into sub-teams of two to work on specific tasks and being clear about responsibilities made things go very smoothly. Geographic data visualization Building platforms that enable interactions with maps and location data. What's on the horizon (implications + next steps) Our Stable Diffusion data augmentation protocol has implications for few-shot learning of any object for agricultural, defense, medical and other applications. For instance, you could use our method to generate synthetic lung CT-Scan data to train cancer detection models or fine-tune a model to detect a specific diseased fruit not covered by existing general-purpose models. We plan to create an API that allows anyone to upload a few photos of a specific object. We will build a large synthetic image dataset based off of those objects and train a plug-and-play CNN API that performs object location, classification, and counting. While general purpose object detection models like YOLO work well for popular and broad categories like \"bike\" or \"dog\", they aren't feasible for specific detection purposes. For instance, if you are a farmer trying to use computer vision to detect diseased lychees. Or a medical researcher trying to detect cancerous cells from a microscope slide. Our method allows anyone to obtain an accurate task-specific object detection model. Because one-size-fits-all doesn't cut it. We're excited to turn the tide with our fin-tech! How many fish/ocean-related puns did you find? Built With chakrafoliumkerasmultiprocessingnextjsnumpyopenaiopencvpandaspillowpythonreactstablediffusiontensorflow Try it out shipsense.app github.com docs.google.com Submitted to TreeHacks 2023 Winner Sustainability Grand Prize: 4 x Apeman M4 DLP Projector 1080P Winner Most Innovative Hack by Meta: 4 x Meta Swag - Backpack & Blankets & Sweatshirts & T-Shirts & Beanies Winner Best Use of Data Hack by HRT: 4 x Access to online HRT VIP Swag Store & $150 Amazon Gift Card Winner Replit's Choice Award: 3000 Replit Cycles + 3 mo of Hacker Subscription (1st Place) & 2000 Replit Cycles + 2 mo of Hacker Subscription (2nd Place) & 1000 Replit Cycles + 1 mo of Hacker Subscription (3rd Place) Created by I created a data analysis layer to empower under-resourced governments to understand and tackle overfishing in their local waters. To do this, I used a framework of NextJS + React + Charka, and learned new geographic frameworks like ArcGIS. Building a visual data analysis layer on top of the ArcGIS library was a challenge as the library required us to assimilate the meshes of each individual polygon to display. To overcome this challenge, we created our own component-based layer framework that allowed us to draw on top of an existing map. Soham Govande I contributed the idea of using fine-tuned Stable Diffusion models to generate synthetic image data. I was inspired by research I read a long time ago on using GANs to create synthetic medical scan data. I performed fine-tuning of Stable Diffusion, trained GANs, and analyzed AIS radar data. I worked with Sayak on data augmentation and CNN training. I also worked on the design, graphics, and copy. Andrew Gao I helped form the geographical analysis on naval and satellite data that formed the backbone of the data visualization dashboard. I focused primarly on front-end, building on top of WebGL, React-Globe GL, to create and facilitate an immersive and nuanced user experience. Additionally, I focused on site translations and accessibility globally as well as a bit on problem-framing. Molly Cantillon Sayak Maity Like 21 21 people like this: + 11 more Share this project: Updates Andrew Gao posted an update — Feb 19, 2023 12:43 PM EST Shipped! Log in or sign up for Devpost to join the conversation. Molly Cantillon posted an update — Feb 19, 2023 12:43 PM EST Super excited to share with the world! Log in or sign up for Devpost to join the conversation. Andrew Gao started this project — Feb 19, 2023 12:18 PM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Andrew Gao posted an update — Feb 19, 2023 11:29 AM EST Just an hour left! Super excited to ship! Log in or sign up for Devpost to join the conversation. Andrew Gao posted an update — Feb 18, 2023 11:23 PM EST About 12 hours left! Let's go! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,200 @@
+{
+  "title": "SusFood",
+  "url": "https://devpost.com/software/susfood-bpt561",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "folium",
+    "geocode",
+    "html",
+    "openstreetmap",
+    "pandas",
+    "python",
+    "twilio"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/374/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 1"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/375/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 2"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/376/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 3"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/377/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 4"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/378/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 5"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/379/datas/gallery.jpg",
+      "alt": "SusFood – screenshot 6"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AItbvmkk2gw6irLGFDPvXCmoHXAVUtnuZJzjYzPimuEo=s96-c?height=180&width=180",
+      "alt": "Bharathi Sridhar"
+    },
+    {
+      "src": "https://media-exp1.licdn.com/dms/image/C5603AQHRJPbOxCpTlw/profile-displayphoto-shrink_800_800/0/1636682144608?e=1649894400&height=180&t=jzX9amW56SSqYHTF5dBsj2dXsG40p4gj72IF9CBm3HA&v=beta&width=180",
+      "alt": "Swati Anshu"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/206/870/datas/profile.jpeg",
+      "alt": "Nicole Feng"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzaxZ8aJ_kh0JmcgRHOyfQBgXCR03Saa_QP0pOx=s96-c?height=180&width=180",
+      "alt": "Alexis Duong"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/60510960?type=square&v=4",
+      "alt": "Alexis Duong"
+    },
+    {
+      "src": "https://media-exp1.licdn.com/dms/image/C5603AQHRJPbOxCpTlw/profile-displayphoto-shrink_800_800/0/1636682144608?e=1649894400&t=jzX9amW56SSqYHTF5dBsj2dXsG40p4gj72IF9CBm3HA&type=square&v=beta",
+      "alt": "Swati Anshu"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/206/870/datas/medium.jpeg",
+      "alt": "Nicole Feng"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AItbvmkk2gw6irLGFDPvXCmoHXAVUtnuZJzjYzPimuEo=s96-c?type=square",
+      "alt": "Bharathi Sridhar"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzaxZ8aJ_kh0JmcgRHOyfQBgXCR03Saa_QP0pOx=s96-c?type=square",
+      "alt": "Alexis Duong"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AItbvmkk2gw6irLGFDPvXCmoHXAVUtnuZJzjYzPimuEo=s96-c?height=180&width=180",
+      "alt": "Bharathi Sridhar"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/374/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/375/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/376/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/377/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/378/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/379/datas/original.jpeg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/bharathi2203/SusFood"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "SusFood | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up SusFood An online food ordering and delivery application with an emphasis on sustainable eating. Like 5 Comment Story Updates Inspiration Our inspiration comes from the favorable push towards food delivery for almost any event such as lethargic evenings, lunch with someone special or even catering for a birthday party. Rapid technological advances have allowed for a new generation of the food industry and although beneficial, we heedlessly brush over some important aspects. Everything arrives in an instant and we often exchange nutritional value and sustainable practices for time. Our application would address these issues and help engage users to uptake practices that would better serve our communities and environments. This is why we created SusFood. What it does SusFood is an online ordering and delivery application focused on encouraging users to eat more sustainably without giving up on the convenience of ready-made food. The users can choose locations by type of cuisine, name, or location. Each eatery is assigned a score out of 100 which is its Sustainability Score. The Sustainability Score is computed as a function of the distance that a certain delivery needs to travel, use of sustainable and/or organic products in food preparation, materials used to package, prepare food, additional cutlery, bags etc. Users are incentivized to pick more sustainable food options and adapt more environmentally friendly practices through rewards earned by collected points in proportion to the sustainability of their food choices. In addition, eateries are also incentivized to adopt more environmentally friendly practices given the rewards system which would boost business activites. How we built it Information about the various restaurants, fast food eateries, cafes etc and their location, hours, contact information etc were extracted using a combination of OpenStreetMap API, OverPass API, and other standard python modules such as os, webbrowser, pandas, random, and json. The map was built using a combination of the Folium library and OpenStreetMap API. The Twilio python module and API were used to provide notifications and communication support for the user. The area ID assisted in placing markers on the map to show the location of restaurants and cafes. The user location is live and based on the network IP address allowing the query to sync accordingly to find nearby food options. Distance metrics were calculated using average time traveled and route conditions. The color system goes as follows: green is most sustainable, followed by yellow and red being the least sustainable. While connecting front-end to back-end we decided on a local environment due to unforeseen issues and time constraints to fully implement a back-end database. We took a CSV file containing the restaurants’ data and converted it to a JSON file that was parsed through with javascript and embedded within the application. On the front-end a combination of python, javascript, HTML and CSS were used to implement SusFood. We developed a website that is user friendly and it features a navigation bar that has a search bar, cart, and profile page. The home screen offers users the choice of preferred food categories that have a sustainability rating associated with it and is within your vicinity. There are two custom-made carousels: one for the food categories and the second for displaying the various restaurants. These restaurants are ranked by most sustainable to least sustainable. Each restaurant card contains the name of the restaurant and its Sustainability Score along with a tier badge. There are 4 badges: sprout, potted plant, bonsai, and golden stickers; as the user engages in healthier behaviors and uses the application more, they can build up points in which they would be able to redeem it at their favorite eating spots. The adorable pile of leaves indicates the accumulation of such rewards! Also there is a map system where users can visually explore their eating options around where they currently are. When you select a restaurant, the standard menu and business information is displayed along with the Sustainability Score. The metrics that determine this score are distance, packaging, sourcing, and leftovers that restaurants may offer to customers the following business day. Each of these factors are weighted, with distance being the highest and the other categories being equally weighted. The restaurant page also features standard ratings, reviews, and additional information on the calculations for the Sustainability Score. Challenges we ran into Lack of availability of extensive data about the sustainability and contact information for eateries made it challenging to tabulate appropriate search results for all queries. We encountered challenges with quality open sourced data. On the front end, we had to navigate through formatting and alignment issues with CSS and integrating different modules which we ended up not utilizing. Some applications that we would have liked to use include Open Route Service and Django, one of python’s database services. Accomplishments that we're proud of One of our main accomplishments is extracting geospatial information, processing it efficiently, and displaying it on the map. We are also very proud of our UI design. What we learned Geospatial programming, REST APIs, non-REST APIs, web-development with python, HTML, and CSS. Although we had a few major setbacks, overall we are extremely proud of what we were able to create with an idea that we were all excited to pursue. What's next for SusFood Build a more extensive database containing information concerning various facets of sustainability for each eatery Adding additional features to order and deliver food Improve and optimize the algorithm to compute the sustainability score Build a robust customer support system using Twilio Expand on the mapping feature to include road traffic conditions and additional variables A searching algorithm to cater to the user Authentication of a new user (Login / Sign Up) Building a database that would be fully implemented and used in conjunction with the front-end Partner with restaurants to give users a functioning rewards system to encourage them to have sustainable buying habits. Built With cssfoliumgeocodehtmlopenstreetmappandaspythontwilio Try it out github.com Submitted to PennApps XXIII: Sustainability Winner (PennApps Track) Sustainability Prize Created by I worked on the back-end using Python. I used OpenStreetMap API, OverPass API, combined with other Python modules to extract and filter information about eateries based on a given query. I then used this information to compute a sustainability score as a function of distance, sourcing, packaging etc. I also worked on setting up notifications, messages using Twilio. Bharathi Sridhar I worked on the back-end using python. Using the OSM API along with overpass, geocode, folium and pandas, I created the interactive map that allows users to determine sustainable restaurant options in the vicinity. Additionally I worked on creating the user account database Swati Anshu I worked on front-end, using HTML, CSS, and Javascript to create the UI/UX of our web application. I created all the custom graphics and worked on integrating back-end components into the front-end. Nicole Feng ECE '25 @CMU Alexis Duong Like 5 5 people like this: Share this project: Updates Bharathi Sridhar started this project — Sep 03, 2022 03:35 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

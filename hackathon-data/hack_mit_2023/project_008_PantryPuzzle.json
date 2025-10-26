@@ -1,0 +1,164 @@
+{
+  "title": "PantryPuzzle",
+  "url": "https://devpost.com/software/pantrypuzzle",
+  "description": "Devpost",
+  "technologies": [
+    "firebase",
+    "flask",
+    "google-cloud-vision",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/000/datas/gallery.jpg",
+      "alt": "PantryPuzzle – screenshot 1"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/047/datas/gallery.jpg",
+      "alt": "PantryPuzzle – screenshot 2"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/116/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62665918?height=180&v=4&width=180",
+      "alt": "Maxim Attiogbe"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/72232563?height=180&v=4&width=180",
+      "alt": "Zayaan Rahman"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/86133477?height=180&v=4&width=180",
+      "alt": "Angela Yuan"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzh8g3m55C8WbPT3bQodEEwb15zzfSUIB2YghQp=s96-c?height=180&width=180",
+      "alt": "gaurab das"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-32-b1904d87f9b96daac9211badffd5f60d8f9a7b4715feb9b5e5e641bcf714733b.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/86133477?type=square&v=4",
+      "alt": "Angela Yuan"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62665918?type=square&v=4",
+      "alt": "Maxim Attiogbe"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzh8g3m55C8WbPT3bQodEEwb15zzfSUIB2YghQp=s96-c?type=square",
+      "alt": "gaurab das"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/72232563?type=square&v=4",
+      "alt": "Zayaan Rahman"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62665918?height=180&v=4&width=180",
+      "alt": "Maxim Attiogbe"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/000/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/047/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/gaurab1/PantryPuzzle/tree/main"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "PantryPuzzle | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up PantryPuzzle Feeding the future of food sustainability Like 5 Comment Story Updates Enter food in your pantry through text or image Share with your community if you don't want the food! Inspiration It’'s pretty common that you will come back from a grocery trip, put away all the food you bought in your fridge and pantry, and forget about it. Even if you read the expiration date while buying a carton of milk, chances are that a decent portion of your food will expire. After that you’ll throw away food that used to be perfectly good. But, that’s only how much food you and I are wasting. What about everything that Walmart or Costco trashes on a day to day basis? Each year, 119 billion pounds of food is wasted in the United States alone. That equates to 130 billion meals and more than $408 billion in food thrown away each year. About 30 percent of food in American grocery stores is thrown away. US retail stores generate about 16 billion pounds of food waste every year. But, if there was a solution that could ensure that no food would be needlessly wasted, that would change the world. What it does PantryPuzzle will scan in images of food items as well as extract its expiration date, and add it to an inventory of items that users can manage. When food nears expiration, it will notify users to incentivize action to be taken. The app will take actions to take with any particular food item, like recipes that use the items in a user’s pantry according to their preference. Additionally, users can choose to donate food items, after which they can share their location to food pantries and delivery drivers. How we built it We built it with a React frontend and a Python flask backend. We stored food entries in a database using Firebase. For the food image recognition and expiration date extraction, we used a tuned version of Google Vision API’s object detection and optical character recognition (OCR) respectively. For the recipe recommendation feature, we used OpenAI’s GPT-3 DaVinci large language model. For tracking user location for the donation feature, we used Nominatim open street map. Challenges we ran into React to properly display Storing multiple values into database at once (food item, exp date) How to display all firebase elements (doing proof of concept with console.log) Donated food being displayed before even clicking the button (fixed by using function for onclick here) Getting location of the user to be accessed and stored, not just longtitude/latitude Needing to log day that a food was gotten Deleting an item when expired. Syncing my stash w/ donations. Don’t wanna list if not wanting to donate anymore) How to delete the food from the Firebase (but weird bc of weird doc ID) Predicting when non-labeled foods expire. (using OpenAI) Accomplishments that we're proud of We were able to get a good computer vision algorithm that is able to detect the type of food and a very accurate expiry date. Integrating the API that helps us figure out our location from the latitudes and longitudes. Used a scalable database like firebase, and completed all features that we originally wanted to achieve regarding generative AI, computer vision and efficient CRUD operations. What we learned We learnt how big of a problem the food waste disposal was, and were surprised to know that so much food was being thrown away. What's next for PantryPuzzle We want to add user authentication, so every user in every home and grocery has access to their personal pantry, and also maintains their access to the global donations list to search for food items others don't want. We integrate this app with the Internet of Things (IoT) so refrigerators can come built in with this product to detect food and their expiry date. We also want to add a feature where if the expiry date is not visible, the app can predict what the likely expiration date could be using computer vision (texture and color of food) and generative AI. Built With firebaseflaskgoogle-cloud-visionreact Try it out github.com Submitted to HackMIT 2023 Winner Sustainability Track Winner Created by I helped with React for the front-end and implemented the image uploading functionality for the back-end in Flask. Maxim Attiogbe I worked on the OCR AI text extraction, research into image recognition, and the ai recipe generation. Frontend-backend communication as well. Zayaan Rahman I helped with posting and getting data from/to Firebase, and communicated data to React. Also, built out core features like donation submission process, and location API integration. Angela Yuan gaurab das Like 5 5 people like this: Share this project: Updates Maxim Attiogbe started this project — Sep 17, 2023 10:47 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

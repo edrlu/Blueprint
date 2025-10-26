@@ -1,0 +1,160 @@
+{
+  "title": "TrustTrace",
+  "url": "https://devpost.com/software/trusttrace",
+  "description": "Devpost",
+  "technologies": [
+    "javascript",
+    "mongodb",
+    "react",
+    "solidity"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/087/datas/gallery.jpg",
+      "alt": "TrustTrace – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKyHf3FRRTdemmf3sUL71n2EXCtCvo4q0hKYVi_U5hj=s96-c?height=180&width=180",
+      "alt": "Shermaine Ong"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/52826683?height=180&v=4&width=180",
+      "alt": "Sean Manik"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJ8HHFlCz_cLFTNKUr8di3dWGZzb1-NQ3hKqjHYrcsHb5E=s96-c?height=180&width=180",
+      "alt": "Bozheng (Eric) Zhang"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/81297805?height=180&v=4&width=180",
+      "alt": "Gareth Ong"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIvvFA45xQXtGbTxrzKBOPEBx5pO6KvP1iiKPT3DwzH=s96-c?type=square",
+      "alt": "ALFRED MANIK"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLWPlZaVE5M56rWMfD9pkHeDC0dliBbI8wmMX56eHCIO60=s96-c?type=square",
+      "alt": "Beverly Wan"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJ8HHFlCz_cLFTNKUr8di3dWGZzb1-NQ3hKqjHYrcsHb5E=s96-c?type=square",
+      "alt": "Bozheng (Eric) Zhang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKyHf3FRRTdemmf3sUL71n2EXCtCvo4q0hKYVi_U5hj=s96-c?type=square",
+      "alt": "Shermaine Ong"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/52826683?type=square&v=4",
+      "alt": "Sean Manik"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJ8HHFlCz_cLFTNKUr8di3dWGZzb1-NQ3hKqjHYrcsHb5E=s96-c?height=180&width=180",
+      "alt": "Bozheng (Eric) Zhang"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/52826683?height=180&v=4&width=180",
+      "alt": "Sean Manik"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/087/datas/original.jpg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/GarethOng/TrustTrace"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "TrustTrace | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up TrustTrace Have confidence in how your donations are used. Like 5 Comment 1 Story Updates 1 Donation Landing Page Inspiration We were inspired by how there were many instances of fraud with regards to how donations were handled. It is heartbreaking to see how mismanagement can lead to victims of disasters not receiving the help that they desperately need. What it does TrustTrace introduces unparalleled levels of transparency and accountability to charities and fundraisers. Donors will now feel more comfortable donating to causes such as helping earthquake victims since they will now know how their money will be spent, and where every dollar raised is going to. How we built it We created a smart contract that allowed organisations to specify how much money they want to raise and how they want to segment their spending into specific categories. This is then enforced by the smart contract, which puts donors at ease as they know that their donations will not be misused, and will go to those who are truly in need. Challenges we ran into The integration of smart contracts and the web development frameworks were more difficult than we expected, and we overcame them with lots of trial and error. Accomplishments that we're proud of We are proud of being able to create this in under 36 hours for a noble cause. We hope that this creation can eventually evolve into a product that can raise interest, trust, and participation in donating to humanitarian causes across the world. What we learned We learnt a lot about how smart contract works, how they are deployed, and how they can be used to enforce trust. What's next for TrustTrace Expanding towards serving a wider range of fundraisers such as GoFundMes, Kickstarters, etc. Built With javascriptmongodbreactsolidity Try it out github.com Submitted to HackHarvard 2023 Winner 3rd Best Overall Hack Created by Shermaine Ong Sean Manik Bozheng (Eric) Zhang Gareth Ong Like 5 5 people like this: Share this project: Updates Bozheng (Eric) Zhang posted an update — Oct 22, 2023 05:15 AM EDT I hesitated on donating money after the Turkey earthquake, but with this I'm much more confident that my money will end up helping those in need. Log in or sign up for Devpost to join the conversation. Sean Manik started this project — Oct 22, 2023 05:13 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

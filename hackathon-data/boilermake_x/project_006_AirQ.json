@@ -1,0 +1,171 @@
+{
+  "title": "AirQ",
+  "url": "https://devpost.com/software/airq",
+  "description": "Devpost",
+  "technologies": [
+    "dagshub",
+    "dvc",
+    "git",
+    "mlflow",
+    "pandas",
+    "python",
+    "pytorch"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/352/103/datas/gallery.jpg",
+      "alt": "AirQ – screenshot 1"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/352/085/datas/gallery.jpg",
+      "alt": "AirQ – screenshot 2"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/587/datas/gallery.jpg",
+      "alt": "AirQ – screenshot 3"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/596/datas/gallery.jpg",
+      "alt": "AirQ – screenshot 4"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/599/datas/gallery.jpg",
+      "alt": "AirQ – screenshot 5"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/333/485/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJwz-KHKxYv6b0NhlQexku5WWOgMhVWQvdBg2O-Q=s96-c?height=180&width=180",
+      "alt": "Brian Gan"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/58446594?height=180&v=4&width=180",
+      "alt": "Alexiy Buynitsky"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJwz-KHKxYv6b0NhlQexku5WWOgMhVWQvdBg2O-Q=s96-c?height=180&width=180",
+      "alt": "Brian Gan"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/352/103/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/352/085/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/587/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/596/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/599/datas/original.png"
+    },
+    {
+      "text": "main.ipynb",
+      "url": "https://dagshub.com/Abuynits/airQ/src/main/src/main.ipynb"
+    },
+    {
+      "text": "dags_hub config",
+      "url": "https://dagshub.com/Abuynits/airQ/src/main/src/daghub_config.ipynb"
+    },
+    {
+      "text": "dagshub.com",
+      "url": "https://dagshub.com/Abuynits/airQ/src/main/src/daghub_config.ipynb"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "AirQ | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up AirQ Air quality is a critical issue affecting the health and well-being of communities worldwide. Our solution provides a framework for studying the leading factors of air quality. Like Comment Story Updates Seq2seq Prediction for 10 units training and validation loss for 1k epochs Training and Validation Loss in MLFlow DVC in Dagshub Experiments in Dagshub Inspiration With the rise of wildfires on the West Coast, it is important now more than ever to fully be able to understand, interpret, and predict air quality data. That is why we decided to make AirQ, a versatile machine learning model to predict air quality data based on a widely customizable range of inputs and parameters. Trained with data from UC Irvine, is is capable of informing researchers and the general population about future air quality well in advance. Many people don't take wildfires/smoke seriously but it is critical to have early warning systems in place that monitor air quality and can notify residents in advance to close their windows and stay indoors. What it does This is a LSTM and seq2seq model (transformer-like model) that predicts specified air quality metrics using input and output features (data columns). One can select the input feature(s), desired output feature(s), loookback range, and prediction range to see which input features have the most weight in determining the output features. One can also experiment with adjusting the models, their architecture, and other hyper parameters without worry about the the implementation. It is built using Pytorch, with DVC and MLflow to allow for easy testing and augmentation through the constant.py file. How we built it Preparing the data We started by finding a data set on air quality, which we found in UC Irvine’s data archive. We then preprocessed this data. To do this we first interpolated missing/malformed data points, and then normalized the data between 0 and 1 to make it ready for training. After preparing the data, we split it into training and validation sets and batched it. We then created custom datasets and loaded them into dataloaders to be used by our model. Designing the model: For our model design, we initially started with an LSTM, but after training it, we noticed that even with any combination of hidden layers or lstm cells, the model would struggle with predicting two or more time steps ahead which is why we switched to using a seq2seq model, commonly used in NLP techniques. Such models are based on an encoder-decoder architecture: Data is fed to the encoder, and we store the hidden state for the last timestep in the encoder we take the last input, and the last hidden state, and feed it into the decoder which produce the required hidden states We pass this through a linear layer to decrease the output dimensions from the hidden size to the desired amount of outputs and a new input state to the model. This process continues until we generate the required amount of time steps Training the model: Learning Rate: We selected a learning rate of 0.001 and a ExponentialLR scheduler from pytorch with Gamma = 0.99 to exponentially decay the learning rate by gamma as we move through the epochs. (see more in main.ipynb) Epochs: We train for 1000 epochs, saving a model whenever we reach a new best validation loss. Optimizer: We use a MSEloss to calculate the loss between our quantitative outputs. Version Control We use DagsHub with DVC for our data, git for our code, and MLflow to analyze the training results. (see more in dags_hub config) Challenges we ran into implementing the seq2seq model We decided to use batches and therefore had to adjust the dimensions from batch,past_time_steps,features to past_time_steps,batches,features. This lead to bugs and we still occasionally receive a model that would predict the same sequence every time because of this. Configuring Dagshub We have grow accustomed to storing all of our data in a single github repo so it took more time to configure a Dagshub repo, learn about DVC, MLflow, but after doing this, we saw the clear benefits of using Dagshub and our development became faster, we didn't have to worry about loosing our weights for each training run, and had a clear split between our data, code files, and ML runs. Time We were also constrained by the limited time of this event, which caused us to not be able to finish the GUI. Accomplishments that we're proud of We are proud of building our first version controlled project through DagsHub with DVC and MLFlow. Furthermore, this was our first attempt at creating a transformer-like model which didn't have a lot of existing implementation for non-NLP data, so we had to look into each layer, track the matrix multiplications and really understand the model instead of simply using a provided abstraction. What we learned Coming into this project, both of us were unfamiliar with dagshub. We had to learn how to integrate our work with their systems and use it to manage the data pipeline for our model. Additionally, one of our team members came into this hackathon without any prior machine learning experience and had to learn the basics during the hackathon. We will both start using DagsHub for all of our ML projects as there are clear benefits to spliting up data and preventing our google drives from filling up with final_weights.pkl, FINAL.pkl and so on. What's next for AirQ If we had more time on this project, we would create a deployable model with a frontend GUI that users could use to dynamically interact with the model and input their own testing data. We would also continue debugging the transformer to really understand why it would give such weird outputs. Built With dagshubdvcgitmlflowpandaspythonpytorch Try it out dagshub.com Submitted to BoilerMake X Winner Best Use of DagsHub 1st Prize Created by Brian Gan Alexiy Buynitsky Like Share this project: Updates Brian Gan started this project — Jan 22, 2023 03:34 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,200 @@
+{
+  "title": "Insight",
+  "url": "https://devpost.com/software/insight-m0ew74",
+  "description": "Devpost",
+  "technologies": [
+    "cockroach-db",
+    "css",
+    "digitalocean",
+    "flask",
+    "html",
+    "ios",
+    "javascript",
+    "leaflet.js",
+    "machine-learning",
+    "openstreetmap",
+    "python",
+    "pytorch",
+    "swift",
+    "xcode",
+    "yolo"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/884/datas/gallery.jpg",
+      "alt": "Insight – screenshot 1"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/885/datas/gallery.jpg",
+      "alt": "Insight – screenshot 2"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/894/datas/gallery.jpg",
+      "alt": "Insight – screenshot 3"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/333/485/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62923164?height=180&v=4&width=180",
+      "alt": "Aryamaan Dhomne"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/43097991?height=180&v=4&width=180",
+      "alt": "Leon Yee"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/37767310?height=180&v=4&width=180",
+      "alt": "Sarthak Mangla"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/356/365/datas/profile.png",
+      "alt": "Caleb Chua"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/34083543?type=square&v=4",
+      "alt": "Soham Jog"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp4_vCFoNEtyeSqKrwtVPTvesR8d_lwh0fu3GoE=s96-c?type=square",
+      "alt": "William Thompson"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/293/095/datas/medium.jpeg",
+      "alt": "Anshul Saha"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/59679921?type=square&v=4",
+      "alt": "Anna Shen"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/215/215/datas/medium.jpg",
+      "alt": "Jacob Zietek"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/43097991?type=square&v=4",
+      "alt": "Leon Yee"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62923164?type=square&v=4",
+      "alt": "Aryamaan Dhomne"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/37767310?type=square&v=4",
+      "alt": "Sarthak Mangla"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/356/365/datas/medium.png",
+      "alt": "Caleb Chua"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62923164?height=180&v=4&width=180",
+      "alt": "Aryamaan Dhomne"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/884/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/885/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/894/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/knightron0/insight"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Insight | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Insight know every bump on the road. Like 9 Comment Story Updates Every time you stumble across a small crack in the road, that’s the beginning of something very dangerous. They develop into potholes, causing damage to vehicles and fatal car accidents. It often takes years to fix these defects, leading to even more traffic, pollution, and new cracks forming. It's important to address these issues early to prevent a downward spiral. In fact, research has shown that approximately 1/3rd of traffic accidents involve poor road conditions. This, is what we aim to solve. Introducing Insight, a cutting-edge technology solution that uses machine learning to identify and map dangerous cracks on the road. Our mission is to make roads safer for drivers by providing them with real-time information about the condition of the roads they travel on. Through our mobile app, we make it easy for anyone to take a picture of any defects they see on the road and upload it to our database. Our machine learning model also analyzes open-source street images and data and adds them to our map, creating a comprehensive and up-to-date view of the condition of the roads in a particular region. Our iOS app written in Swift is supported with a custom REST API with methods that permit the flow of data throughout our entire pipeline. On our website, users can select a region and see all the labeled & reported cracks, flagged on the map with colored markers. This information can be used by municipalities, road maintenance companies, and transportation departments to prioritize repairs and ensure that the roads are safe for drivers. Our web app is supported by a Flask server running on a Digital Ocean droplet and Cockroach DB. We retrained YOLO-v8, a popular state-of-the-art object detection machine learning model, on our custom database combining data from academic publications, Google StreetView, and Open Street Cam. To improve model performance we referenced previous works in Computer Vision in the transportation sector, annotating relevant features with additional information, such as damage type. This is how we detect and locate dangerous road cracks. Insight is not only a tool for road safety, but it's also a tool for community engagement and citizen science. By encouraging people to report road defects, we are creating a sense of shared responsibility for road safety and empowering people to take action to improve the roads in their community. Of course, one may have concerns about uploading location data, but all reports are anonymous to protect users’ privacy. Insight has the potential to make a significant impact on road safety, and we are excited to continue developing and improving our technology. Built With cockroach-dbcssdigitaloceanflaskhtmliosjavascriptleaflet.jsmachine-learningopenstreetmappythonpytorchswiftxcodeyolo Try it out github.com Submitted to BoilerMake X Winner 1st Place Prize Winner Best Innovative Data Hack Created by Aryamaan Dhomne Leon Yee purdue Sarthak Mangla Caleb Chua Like 9 9 people like this: Share this project: Updates Aryamaan Dhomne started this project — Jan 22, 2023 03:31 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,218 @@
+{
+  "title": "Aly [HackNYU '23]",
+  "url": "https://devpost.com/software/aly",
+  "description": "Devpost",
+  "technologies": [
+    "chakra-ui",
+    "coolness",
+    "epic",
+    "firebase",
+    "javascript",
+    "next.js",
+    "react",
+    "react-native",
+    "swag",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/655/datas/gallery.jpg",
+      "alt": "Aly [HackNYU '23] – screenshot 1"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/219/datas/gallery.jpg",
+      "alt": "Aly [HackNYU '23] – screenshot 2"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/222/datas/gallery.jpg",
+      "alt": "Aly [HackNYU '23] – screenshot 3"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/263/datas/gallery.jpg",
+      "alt": "Aly [HackNYU '23] – screenshot 4"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/268/datas/gallery.jpg",
+      "alt": "Aly [HackNYU '23] – screenshot 5"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/961/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/801/705/datas/profile.jpeg",
+      "alt": "Samyok Nepal"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/109794838?height=180&v=4&width=180",
+      "alt": "Brandon Lam"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/115097531?height=180&v=4&width=180",
+      "alt": "Stuti Shah"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/253/270/datas/profile.png",
+      "alt": "Ansh Patel"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/44009027?type=square&v=4",
+      "alt": "Ren-Zhi Zheng"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/678/663/datas/medium.png",
+      "alt": "Mike Odnis"
+    },
+    {
+      "src": "https://media-exp1.licdn.com/dms/image/C4E03AQE4vLJDiN5O-A/profile-displayphoto-shrink_800_800/0/1613539026844?e=1650499200&t=3rIf49RTCXYK_fQYVQDpt22NdN26bT9wVmt6RKXF83Y&type=square&v=beta",
+      "alt": "Madhav  Nepal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzv2PKxBe8BO9XyXmXWFDPbMpFHSt4ILMYibcOI=s96-c?type=square",
+      "alt": "Ishan Shetty"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiEJ0rg3Qy9h9rpbo4e5e-CzCZoQB7_1_UXakv-QA?type=square",
+      "alt": "Shreyas Mayya"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp5ijHpEykADT6bT-bWKGp5rxTjQT5ICQIsPxk0uUIY=s96-c?type=square",
+      "alt": "Nidhi Kamath"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/200/304/datas/medium.png",
+      "alt": "Minnerva Zou"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/799/865/datas/medium.jpeg",
+      "alt": "Ritik Mishra"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/253/270/datas/medium.png",
+      "alt": "Ansh Patel"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/109794838?type=square&v=4",
+      "alt": "Brandon Lam"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/801/705/datas/profile.jpeg",
+      "alt": "Samyok Nepal"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/655/datas/original.JPG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/219/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/222/datas/original.PNG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/263/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/268/datas/original.PNG"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/minihacks/aly"
+    },
+    {
+      "text": "aly.so",
+      "url": "https://aly.so/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Aly [HackNYU '23] | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Aly [HackNYU '23] Keeping you accountable, one awkward text at a time. Like 21 Comment Story Updates Keeping you accountable, one awkward text at a time, Aly is an app, website, and chrome extension that serves a tool for users to hold themselves accountable. Inspiration After finishing our first semester of college, we found it difficult on certain days to go to class and staying focused while studying. While there are other apps that help you focus, we didn't like how they were locked behind a paywall or how they completely blocked certain apps. Our solution was to make Aly an app that embarrasses the user if they aren't on task by sending texts to their friends/parents. What it does Database syncing activity over website, app, and chrome extension. Uses machine learning to scan webpages to see if you're staying focused. Functionality to add multiple different tasks on a mobile app with a user-friendly and responsive interface. How we built it App: Our app was built using React Native, JavaScript, Firebase, and Apple Maps. Chrome Extension: Javascript Website: The website was built using Next.js, TypeScript, and Chakra UI. Challenges we ran into We were overly ambitious trying to accomplish everything in 21 hours so we had to compromise at the end on some of the things we wanted to do. The ones who developed our app had also never touched app development before so it was their first time using React Native. In addition, we were also just a bit mentally fatigued because we flew in from Minnesota on Thursday and walked over 50k steps exploring New York in the past two days. Accomplishments that we're proud of We think that this project is one of our best works in terms of polish and product. In addition, a lot of the work we did was split evenly and it really felt like we wouldn't have been able to do it if we weren't in a team together. What we learned Having mozzarella sticks when you're lactose is not a good idea and 21 hours goes by very fast... On a serious note, we learned that React Native is rather painful to work with, but we're glad to have gotten experience with app development! What's next for Aly Polish up on the components we had to skip over due to time restrictions. Implement a system to lower strike count, probably with a streak of 7 removing 1 strike. Fun Fact While we were about to submit our project, our chrome extension noticed that we swapped off from our calculus videos to Devpost and Aly noticed that we were off topic and sent a text to one of our friends. Built With chakra-uicoolnessepicfirebasejavascriptnext.jsreactreact-nativeswagtypescript Try it out github.com aly.so Submitted to HackNYU 2023 Winner Track: Education Created by embedder of words Samyok Nepal thinker of goose react native is in my nightmares now. Brandon Lam turtle making a website and official button hater Stuti Shah flex box visionary Ansh Patel Like 21 21 people like this: + 11 more Share this project: Updates Samyok Nepal started this project — Feb 19, 2023 06:43 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

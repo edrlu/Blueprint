@@ -1,0 +1,177 @@
+{
+  "title": "UShare - campus umbrella borrowing system",
+  "url": "https://devpost.com/software/ushare-campus-umbrella-borrowing-system",
+  "description": "Devpost",
+  "technologies": [
+    "airtable",
+    "bravostudio",
+    "figma",
+    "googlemapapi",
+    "googlesheets"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/304/datas/gallery.jpg",
+      "alt": "UShare - campus umbrella borrowing system – screenshot 1"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/305/datas/gallery.jpg",
+      "alt": "UShare - campus umbrella borrowing system – screenshot 2"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/306/datas/gallery.jpg",
+      "alt": "UShare - campus umbrella borrowing system – screenshot 3"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/618/datas/gallery.jpg",
+      "alt": "UShare - campus umbrella borrowing system – screenshot 4"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/617/datas/gallery.jpg",
+      "alt": "UShare - campus umbrella borrowing system – screenshot 5"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/961/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp6tRkNhDuHCrtT-2aa0L_Ir3mzaqd3DvJctvuY=s96-c?height=180&width=180",
+      "alt": "Chloe Wu-Breshears"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39874143?height=180&v=4&width=180",
+      "alt": "Zixuan James Li"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp5-dstd-849gBp5X6hCOxTYKG3JBl06m61bjAQh=s96-c?type=square",
+      "alt": "Shanthi Sree Devaraju"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39874143?height=180&v=4&width=180",
+      "alt": "Zixuan James Li"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39874143?height=180&v=4&width=180",
+      "alt": "Zixuan James Li"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/304/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/305/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/306/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/618/datas/original.PNG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/617/datas/original.PNG"
+    },
+    {
+      "text": "www.figma.com",
+      "url": "https://www.figma.com/file/cZYMC8KRr9D5iWuRFQJGGS/UShare-Prototyping?node-id=126%3A259&t=GMZZm7u6qw31Dx2a-1"
+    },
+    {
+      "text": "airtable.com",
+      "url": "https://airtable.com/shrvWhPU3t89PogVP"
+    },
+    {
+      "text": "bravostudioapp.page.link",
+      "url": "https://bravostudioapp.page.link/?link=https%3A%2F%2Fapps-service.bravostudio.app%2Fdevices%2Fapps%2F01GSM0K4JWEW053TM88Q16RS4E&ofl=https%3A%2F%2Fbravostudio.app%2Fdownload-bravo-vision&apn=com.appfoundry.previewer&ibi=com.codelesslabs.app"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "UShare - campus umbrella borrowing system | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up UShare - campus umbrella borrowing system Borrow an umbrella just in time. With sustainability. we can start small by reducing excessive consumption. Ushare is a borrowing service that allows you to get what you need. when you need it. Like 1 Comment 3 Story Updates 1 Inspiration We all have walked out of Bobst, looked up, and was hit by the fact that it was raining. Hard. If our friends aren't here, and our only solution is to either run all the way home or buy an umbrella from CVS, what is the correct choice? Being the generation that has been aware of climate change and sustainability from a young age, we all want to try our best in our efforts to reduce our carbon footprint -- and the best way to do that is to stop buying things that we don't need to. Our inspiration is simple, if we need something for only a bit and don't want to buy it, what do we usually do? Borrow it. What it does Our business structure combines backend logistics and an in-person accessible storage system with a user-friendly interface to simplify the process of borrowing from a user. Instead of entire complicated checkout process involving a team member, Ushare is completely automated. Simply put, we connect the user's profile with the umbrella that was taken so you can just grab and go. How we built it Keyword: super low-code stack We went with the no-code stack. Our frontend system is entirely generated from the Figma prototype, where we set up the navigation and design layouts for all our pages. All of these are later imported into Bravo Studio, a low-code platform that parses Figma prototypes and provides special directives to integrate Figma with any backend of our choice. Since Figma on its own doesn't have access to a Map API, we integrated an interactive map showing all the service locations visualized as markers. We also utilized a Google Sheets plugin to make requests to Google Maps API in bulk for the coordinates and street view images. This generates a runnable app on mobile devices. The backend system is hosted live on AirTable, which is also a powerful, low-code system that provides extensive APIs for us to manage the data flow without building everything from scratch. We implement checks for overdue returns and host images, descriptions, and locations of where our services are available on campus. Challenges we ran into Since our idea combines backend, frontend, and hardware, a challenge we ran into was how to get it to integrate smoothly together. It taught us the value of having team members from different and diverse backgrounds so we could both do what we do best and also develop our abilities in a different skillset. Accomplishments that we're proud of First, we're all extremely proud of finishing this project from start to finish -- especially because it deals with a situation that we have all experienced. Beyond that, we are also proud of learning from each other's specialty areas in such a short time frame and being able to bring all of our separate backgrounds together to create something cool. What we learned Going through the entire process, we really learned the importance of being clear in the original ideology and to keep going back to it whenever we hit a wall. Although it was appealing to grow ideas in many different directions, ultimately we found that coming back to the roots was the most satisfying and efficient. What's next for UShare - campus umbrella borrowing system The mission of Ushare is to promote sustainability through a reduction of spur-of-the-moment purchases. As such. Ushare is not limited to just umbrellas, but can also be expanded to other items that people may need for only a short time. For example, charging cables. Additionally, we would like to bring this service to many other campuses and expand geographically as well. Built With airtablebravostudiofigmagooglemapapigooglesheets Try it out www.figma.com airtable.com bravostudioapp.page.link Submitted to HackNYU 2023 Winner Track: Sustainability Created by UI/UX Design, and project ideation and management. Chloe Wu-Breshears Zixuan James Li Full stack development with ERN stack. I like TypeScript, Python, and Docker as well. Like 1 1 person likes this: Share this project: Updates Zixuan James Li posted an update — Feb 19, 2023 12:48 PM EST Just a small reminder here, the bravostudioapp link can only be opened from a mobile device. You can view the app preview with BravoVision. Also, feel free to look at our Figma prototype and Airtable (the database that we use!). Log in or sign up for Devpost to join the conversation. Zixuan James Li started this project — Feb 19, 2023 08:52 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

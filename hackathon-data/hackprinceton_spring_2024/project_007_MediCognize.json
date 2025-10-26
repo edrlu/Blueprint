@@ -1,0 +1,168 @@
+{
+  "title": "MediCognize",
+  "url": "https://devpost.com/software/medicognize",
+  "description": "Devpost",
+  "technologies": [
+    "auth0",
+    "azure",
+    "css3",
+    "html5",
+    "javascript",
+    "magicpilot.ai",
+    "python",
+    "relu",
+    "starknet",
+    "tensorflow",
+    "verbwire"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/580/datas/gallery.jpg",
+      "alt": "MediCognize – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/561/datas/gallery.jpg",
+      "alt": "MediCognize – screenshot 2"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/562/datas/gallery.jpg",
+      "alt": "MediCognize – screenshot 3"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/564/datas/gallery.jpg",
+      "alt": "MediCognize – screenshot 4"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIuyLrp5zPmNAQ9t-ujR_SGAd8iDknwgu9kYxFrDCC1HQ=s96-c?height=180&width=180",
+      "alt": "Arshad Shaik"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIzCguOqNjgZGeZDxF1cWWi_H3BGM0ovnEfN1BVB6P8oA=s96-c?height=180&width=180",
+      "alt": "Saipavan Perepa"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJRIJucFgKDVQC8v-eMf--3T7h07jXoll5yP_DzrtpH=s96-c?height=180&width=180",
+      "alt": "Karthik Nutulapati"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLJon-AqDk025OGSkP2oshiEIamtVszErAbwl86c_QT=s96-c?type=square",
+      "alt": "N P"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIuyLrp5zPmNAQ9t-ujR_SGAd8iDknwgu9kYxFrDCC1HQ=s96-c?height=180&width=180",
+      "alt": "Arshad Shaik"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/580/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/561/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/562/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/830/564/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/Karthikn9883/hack_princeton-.git"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "MediCognize | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up MediCognize Medicognize: AI-Powered Healthcare, Speedy Diagnostics, Global Specialist Access, and Multilingual Patient Support Like 1 Comment 1 Story Updates \"\"\" MediCognize: Revolutionizing Telehealth with AI and Blockchain Inspiration Accessing quality specialist doctors is often hindered by long wait times, different appointment dates, and geographical barriers, making it difficult for people worldwide to receive the best healthcare possible. MediCognize aims to bridge these gaps, ensuring accessible, quality healthcare for everyone, regardless of location. Additionally, we address the crucial issue of health data privacy and security by leveraging blockchain technology to maintain the integrity of patient data. What It Does MediCognize offers a platform where doctors and patients connect via video conference, enhanced by AI to bridge the physical gap. This system is backed by Verbwire API and MagicPilot.ai, ensuring a secure environment through IPFS and blockchain wallet verifications for data access. Our AI analyzes patient data, briefing doctors efficiently. Our video conference tool, powered by Azure, provides session summaries and task scheduling for ongoing care. For minor physical issues, patients can upload photos for AI-driven diagnostics. Furthermore, our platform supports doctors with an AI assistant for instant access to patient details, utilizing StarkNet technology for secure blockchain contracts and Auth0 for robust authentication. How We Used Verbwire API, MagicPilot.ai, Auth0, and StarkNet Verbwire API and MagicPilot.ai: Essential for secure medical data transmission, enabling encrypted information sharing between healthcare providers and our platform, ensuring privacy and security compliance. As an AI platform specializing in building applications, MagicPilot.ai was instrumental in automating and optimizing the development of patient-centric features on our platform. Auth0: User Authentication: Implemented streamlined authentication processes, including secure login mechanisms for a safe user experience. Multifactor Authentication: Added an extra security layer through multifactor authentication, ensuring users are verified through multiple verification methods. StarkNet: Blockchain Contracts: Developed smart contracts for secure and transparent transactions and data access. Data Security: Ensured immutable record-keeping and secure, decentralized access to medical records. Challenges We Ran Into Training our neural network for the AI diagnostic tool involved significant challenges, particularly in gathering diverse datasets for accurate diagnostics. Implementing our video service and integrating Verbwire, StarkNet, and Auth0 presented steep learning curves due to their complex requirements for secure data handling and user authentication. Accomplishments That We're Proud Of We are proud to have developed a platform that not only facilitates basic to semi-advanced medical needs globally but also incorporates cutting-edge technology to ensure the best possible user experience. Our platform stands out by offering inclusive services that cater to a global audience, transcending language and geographical barriers. What We Learned The development process was a profound learning experience in several key areas: Blockchain Application in Healthcare: We gained insights into the complexities of implementing blockchain for secure and private health data storage. AI in Medical Diagnostics: We explored the challenges and potential of AI for accurate and timely healthcare diagnostics. Telemedicine Enhancements: We learned about the integration of video conferencing and AI assistance to improve patient care and doctor efficiency. What's Next for MediCognize Our next steps include enhancing the platform's AI capabilities and expanding our services to support doctors and patients more effectively, further revolutionizing the telehealth landscape. \"\"\" Built With auth0azurecss3html5javascriptmagicpilot.aipythonrelustarknettensorflowverbwire Try it out github.com Submitted to HackPrinceton Spring 2024 Winner Best Use of AI & Verbwire API Winner Best Use of Starknet Created by Arshad Shaik Student at George Mason University specializing in Machine Learning Saipavan Perepa Karthik Nutulapati Like 1 1 person likes this: Share this project: Updates Arshad Shaik started this project — Mar 31, 2024 08:14 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

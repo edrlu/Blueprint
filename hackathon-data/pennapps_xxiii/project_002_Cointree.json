@@ -1,0 +1,243 @@
+{
+  "title": "Cointree",
+  "url": "https://devpost.com/software/cointree",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "express.js",
+    "javascript",
+    "mysql",
+    "nextjs",
+    "react",
+    "solidity",
+    "swift",
+    "swiftui",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/934/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 1"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/140/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 2"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/142/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 3"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/141/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 4"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/143/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 5"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/144/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 6"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/145/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 7"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/261/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 8"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/263/datas/gallery.jpg",
+      "alt": "Cointree – screenshot 9"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/84296624?height=180&v=4&width=180",
+      "alt": "Alexander Nanda"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/037/838/datas/profile.jpeg",
+      "alt": "Nikita Mounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/67712161?height=180&v=4&width=180",
+      "alt": "John Murphy"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/037/838/datas/medium.jpeg",
+      "alt": "Nikita Mounier"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/84296624?type=square&v=4",
+      "alt": "Alexander Nanda"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GiRJRGlumGprs3zVUuF2DaV-4WIf_LCgvKhqI-P=s96-c?type=square",
+      "alt": "Sri M"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/84296624?height=180&v=4&width=180",
+      "alt": "Alexander Nanda"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/209/934/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/140/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/142/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/141/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/143/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/144/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/145/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/261/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/263/datas/original.png"
+    },
+    {
+      "text": "Cointree iOS App",
+      "url": "https://github.com/nikitamounier/Cointree-iOS"
+    },
+    {
+      "text": "Cointree Smart Contracts & REST API",
+      "url": "https://github.com/sidereior/cointree-smartcontract"
+    },
+    {
+      "text": "Cointree web client",
+      "url": "https://github.com/jmurphy5613/cointree-web"
+    },
+    {
+      "text": "Cointree backend",
+      "url": "https://github.com/jmurphy5613/cointree-backend"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/nikitamounier/Cointree-iOS"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/sidereior/cointree-smartcontract"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/jmurphy5613/cointree-web"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/jmurphy5613/cointree-backend"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Cointree | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Cointree Go green, get paid. Cointree connects companies looking to offset carbon emissions with users looking to live a more sustainable life, allowing individuals to fulfill sustainable goals and earn money. Like 3 Comment Story Updates What is Cointree? Cointree is a platform where users get paid to go green. Because living more sustainably shouldn't be more expensive. In fact, we should be rewarded for living sustainably – and that's exactly what Cointree does. Cointree connects companies looking to offset carbon emissions with users looking to live a more sustainable life. How does Cointree accomplish this? More and more companies want to become carbon neutral. Carbon offsets are a means for companies to become carbon neutral even if they still have to emit carbon dioxide in the air – by paying a third party to remove or not emit carbon dioxide by means such as reducing driving pollution, cutting down less trees, or building wind farms. But as these third parties have nearly quadrupled in size in just the past two years, debates have arised about the effectiveness and value which these carbon offsetting companies really provide. Cointree takes a drastically different approach, instead connecting individual people to these companies who are willing to pay carbon offsets. Cointree accomplishes this by having two different clients: an iOS app, and a web client. The web client is for the companies paying carbon offsets, who can sign in, deposit currency, and view the progress on their carbon offset goals. In the process, we take a small cut out of the companie's deposit. Meanwhile users install our Cointree iOS app. There they can announce that they, say, installed solar panels, or bought an electric vehicle, or even planted a tree. Then they demonstrate proof of completion (by scanning an invoice for instance), and they get paid. Simple as that. You might be wondering, how exactly do we connect the two, and more importantly how do we store data in a safe, efficient, and accountable system? The answer, blockchain. What is unique about Cointree? At Cointree, all of our data is on the blockchain. And to us, that’s really important. We want the radical transparency that blockchain offers – it means that anyone can see what carbon offsets companies are paying, and keep them accountable. Indeed, the web client also acts as a log where anyone can see all the carbon offsets that a certain company bought. Real transparency. We use Polygon's MATIC currency and Ethereum platform in order to develop a system where companies deposit MATIC into a smart contract that functions almost like a vault. When users demonstrate proof of completion of a certain task, we send money to their wallet (as a function of how much CO2 they removed / won't put into the atmosphere thanks to their task). Thanks to the speed and security of Polygon, we offer a really great experience here. Check out our video for a deep-dive into how Cointree works on the blockchain. There's some pretty novel stuff in there (also check out our attached slides). Challenges we ran into The biggest challenge was interfacing with the blockchain from a native iOS app. It's nearly impossible – blockchain is almost exclusively made for the web. But we didn't want to ditch using an iOS app though, since we wanted the smoothest possible experience for the end user. So instead we had to come up with clever work arounds to offload any interfacing done with the blockchain to our express.js backend. Accomplishments that we're proud of We're really proud of the range of things we were able to make – from an iOS client to a web client, from smart contracts to REST APIs. All of our past experience as developers across our whole (short) lives came into use here. Want to view the source code? Cointree iOS App Cointree Smart Contracts & REST API Cointree web client Cointree backend What's next for Cointree Expanding to new sustainable projects (planting of trees and growth of them, using public transport, etc.), third party company verification of invoices & receipts (these companies will check with their own databases to verify that invoices are not fraudulent), providing uses for sustainable companies or retailers to benefit (companies that sell products which we offer payment for--for example electric cars--can give a percent discount and can better reach their market segment), improvement of security with Vault Smart Contract and communication between Vault Smart Contract and IOS app, rework of NFT minting process and rather than minting NFT's which are expensive we can have a Parent Smart Contract and make children smart contracts for each company and use data in these to verify proofs of transactions without the cost. Built With cssexpress.jsjavascriptmysqlnextjsreactsolidityswiftswiftuitypescript Try it out github.com github.com github.com github.com Submitted to PennApps XXIII: Sustainability Winner (PennApps Track) General Prize Winner (Sponsored by Polygon & Sonr) Best Blockchain Hack Created by Alexander Nanda Nikita Mounier John Murphy Like 3 3 people like this: Share this project: Updates Alexander Nanda started this project — Sep 04, 2022 06:50 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

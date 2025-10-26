@@ -1,0 +1,146 @@
+{
+  "title": "Ligo",
+  "url": "https://devpost.com/software/ligo",
+  "description": "Devpost",
+  "technologies": [
+    "javascript",
+    "mongodb",
+    "sveltekit",
+    "tailwindcss",
+    "vercel"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/688/datas/gallery.jpg",
+      "alt": "Ligo – screenshot 1"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/333/485/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/397/884/datas/profile.JPG",
+      "alt": "Ellie Popoca"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/90640394?height=180&v=4&width=180",
+      "alt": "Jamie Rollison"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/20449375?height=180&v=4&width=180",
+      "alt": "Liza George"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/13869303?type=square&v=4",
+      "alt": "Pete Stenger"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/397/884/datas/profile.JPG",
+      "alt": "Ellie Popoca"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/688/datas/original.png"
+    },
+    {
+      "text": "Ligo",
+      "url": "https://ligoismore.tech"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/jamieRollison/ligo"
+    },
+    {
+      "text": "www.ligoismore.tech",
+      "url": "https://www.ligoismore.tech"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Ligo | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Ligo Your new tool to calculate the environmental impact of your coordinated event and help the environment by analyzing your carbon footprint. Like 1 Comment Story Updates The Problem Currently, there is no way for events at a large scale such as conventions, premieres, events, and even hackathons to track their carbon footprint. However, by measuring the number of plastics, waste, and sustainable options they have, we can understand their impact. Therefore, we have created Ligo, a tool to track an event and its attendees' carbon footprint. How we built it 🏄🏻‍♀️ Our tech stack includes SvelteKit MongoDB TailwindCSS To deploy, we used Vercel, with the .tech domain with Domain.com. Challenges 😵‍💫 Using Sveltekit was a challenge! It's a new framework for everyone on our team, and while we're used to the typical MERN stack, we had to do a throwback to just plain vanilla javascript for Ligo. Deploying our site was a setback for a while, but we fixed bug after bug and managed to pull through! Using SQL with CockroachDB challenged our SQL competency, and while it was a very rewarding experience, we unfortunately switched to MongoDB at the very end due to issues with SSL. Reflections 📚 ✨ We pulled through with a completely new tech stack and learned about some of the benefits that Sveltekit has to offer. The very nature of this project forced us to look around for what sustainable and unsustainable habits we take for granted Built With javascriptmongodbsveltekittailwindcssvercel Try it out github.com www.ligoismore.tech Submitted to BoilerMake X Winner Best Water, Food, Health, or Climate Hack Winner MLH: Best Domain Name Using Domain.com Created by Ellie Popoca Information Science @ UIUC Jamie Rollison CS @ UIUC Liza George Like 1 1 person likes this: Share this project: Updates Ellie Popoca started this project — Jan 22, 2023 03:37 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

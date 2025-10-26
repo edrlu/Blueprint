@@ -1,0 +1,144 @@
+{
+  "title": "Pipeline Pandits",
+  "url": "https://devpost.com/software/pipeline-pandits",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "docker",
+    "flask",
+    "fling",
+    "html",
+    "java",
+    "javascript",
+    "kafka",
+    "particle",
+    "postgresql",
+    "python",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/627/datas/gallery.jpg",
+      "alt": "Pipeline Pandits – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39857926?height=180&v=4&width=180",
+      "alt": "Eren Mendi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/77960398?height=180&v=4&width=180",
+      "alt": "Souparna-Mandal Souparna"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39857926?type=square&v=4",
+      "alt": "Eren Mendi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/77960398?type=square&v=4",
+      "alt": "Souparna-Mandal Souparna"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/77960398?height=180&v=4&width=180",
+      "alt": "Souparna-Mandal Souparna"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/627/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/siddharthsakriya/htb-marshallwace"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Pipeline Pandits | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Pipeline Pandits Our wealth management app transforms your investment experience, eliminating the transparency gap found in traditional asset management, offering clear insight into your portfolio in real-time. Like 2 Comment Story Updates Inspiration Traditional asset management often suffers from a lack of real-time transparency. Our scalable app aims to build a client-first platform that fosters the trust between clients and the asset manager via increased real-time visibility. What it does We've developed a versatile wealth management system tailored for funds of all sizes, designed to revolutionise how wealth management firms access and utilise information. Our system features a streamlined pipeline delivering real-time price data on funds and equities. This includes a admin panel to customise the pipeline, a client facing app to view your investment funds and track them in real time, and a trader panel to get real time data and indicators on equities. How we built it We have utilised ReactJS for our frontend and we have used a robust and scalable backend utilising apache's Kafka and Spark. This means we can scale our system to 100s of thousands of users and stock prices. We have implemented a stream processing pipeline, meaning that as soon as data enters our system it is processed and sent to our users. Challenges we ran into Learning new technologies like the apache ones used for scalability. We tried experimenting with different stream processing pipelines, and had difficulty working with tools like Apache fling, and beam due to limited documentation and difficulty integrating into our Python pipeline. We had to eventually use Spark which we managed to get to work, and has been a really useful tool, as it is extremely scalable, and usable. Furthermore we had integration issues with out Kafka consumers from the Node.js side, however once we got it up and running, we were seamlessly able to stream data onto our frontend. Accomplishments that we're proud of Getting the application very scalable with Apache Kafka, Apache Spark and Docker containers. What we learned We learned to use Apache Kafka, Apache Spark, Postgres and some front end development in ReactJs. What's next for Pipeline Pandits Integrating a more scalable user creation system (we didn't finish this as we didn't have time) Built With cssdockerflaskflinghtmljavajavascriptkafkaparticlepostgresqlpythonreact Try it out github.com Submitted to HackTheBurgh X Winner Most Scalable Solution Created by Eren Mendi Souparna-Mandal Souparna Like 2 2 people like this: Share this project: Updates Souparna-Mandal Souparna started this project — Mar 03, 2024 05:42 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

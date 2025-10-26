@@ -1,0 +1,227 @@
+{
+  "title": "FinLitFrenzy",
+  "url": "https://devpost.com/software/not-decided-yet-qdy2k7",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "hedera",
+    "html",
+    "javascript",
+    "jquery",
+    "matlab",
+    "node.js",
+    "twilio",
+    "velo",
+    "wix"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/037/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 1"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/829/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 2"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/331/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 3"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/332/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 4"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/802/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 5"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/804/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 6"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/334/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 7"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/333/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 8"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/330/datas/gallery.jpg",
+      "alt": "FinLitFrenzy – screenshot 9"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/961/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/338/949/datas/profile.jpeg",
+      "alt": "Aryan Agrawal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp4AMc32k6n8vWw_uWLbcSEv64DaPIXtkGHDK0Ln=s96-c?height=180&width=180",
+      "alt": "Aman Talreja"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/369/410/datas/profile.jpeg",
+      "alt": "Agastya Mukherjee"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp58wOuREof3iI-IKyL2v3APUrTvumEQNvRvBtlS=s96-c?height=180&width=180",
+      "alt": "Chirag Jain"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/369/410/datas/medium.jpeg",
+      "alt": "Agastya Mukherjee"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7zQAvTXYVh3fD3yLNl2eCHcBjoTW4VZJD7ZToBkac=s96-c?type=square",
+      "alt": "Suhani Mehra"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp4AMc32k6n8vWw_uWLbcSEv64DaPIXtkGHDK0Ln=s96-c?type=square",
+      "alt": "Aman Talreja"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/338/949/datas/medium.jpeg",
+      "alt": "Aryan Agrawal"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14Gi6YBKJlbdjIksQb8dLQ7udWrARQc-1208uruT0tw=s96-c?type=square",
+      "alt": "Rishabh Chheda"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/338/949/datas/profile.jpeg",
+      "alt": "Aryan Agrawal"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/037/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/829/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/331/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/332/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/802/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/804/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/334/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/333/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/330/datas/original.png"
+    },
+    {
+      "text": "aryan527.wixsite.com",
+      "url": "https://aryan527.wixsite.com/finlitfrenzy/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "FinLitFrenzy | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up FinLitFrenzy Empowering Financial Literacy through Innovative Learning and Blockchain Rewards Like 5 Comment Story Updates home Home Page Contact Form Login/Signup page OTP received on mobile otp verified. welcome. HBars updates. Programs list (has more below) about us Our team Inspiration As a group that is passionate about finance and financial literacy, we saw a need for accessible and comprehensive financial education. Even today, high school graduates are not financially literate because it is usually not incorporated into the school curriculum but it is one of the most important skills to have as an adult. We wanted to create a platform that would offer a range of courses and resources that would empower people to take control of their finances and make informed decisions. We also wanted to create a unique payment system that would incentivize users to engage with the platform and earn rewards that could be used to access premium content, which has a psychological effect on people and results in them taking more courses and ultimately learning more. What it does FinLitFrenzy (Financial Literacy Frenzy) is a website that offers a range of courses on financial literacy and related topics like Personal Finance, taxation, retirement planning, etc. Our mission at FinLit Frenzy is to empower individuals with the knowledge and tools they need to make informed financial decisions. We believe that everyone deserves access to quality financial education, regardless of their background or financial situation. Some courses are free, while others require payment in Hbar, the platform's own currency, which users can earn by completing free courses and taking skill assessment tests. They can store the Hbar in their account and use it to access premium content and gain entry into contests. The platform also includes a secure user authentication system implemented with Twilio and a backend system for managing user accounts. How we built it The platform was built using Velo by Wix, which provided a range of tools for building and managing the website's front end. Twilio was used for phone numbers and human verification during the account creation process. Hedera was used as the payment system, allowing users to earn and spend Hbar. MATLAB was used to test people on some skills like calculating their retirement savings fund using their age, savings rate, and current/projected salary (premium content). Challenges we ran into Some of the main challenges we faced included integrating multiple platforms and technologies, implementing a secure payment system, and creating a user-friendly interface that would encourage engagement with the platform. We also had to deal with API integration errors and other technical issues along the way. Most of us were undertaking this kind of project for the first time but with the help of mentors, we learned a lot along the way and were able to complete the project. Accomplishments that we're proud of One of the main accomplishments we're proud of is successfully integrating multiple platforms and technologies to create a comprehensive and unique platform. We're also proud of the payment system we created using Hedera, which provides a secure and transparent way for users to earn and spend Hbar. We are proud of achieving Twilio integration flawlessly. Additionally, we're proud of the range of courses and resources we were able to offer on the platform and the positive feedback we've received from the few users who have already enrolled for the platform (mostly hackers but it's a start!). What we learned Through building this project, we learned a great deal about integrating different platforms and technologies, creating secure payment systems, and developing user-friendly interfaces. We also gained valuable experience in building a comprehensive e-learning platform and using different programming languages and tools. Additionally, we learned about the benefits and challenges of creating a new cryptocurrency and using blockchain technology for payments. What's next for FinLitFrenzy In the future, we plan to continue expanding and improving the platform. This includes adding more courses and resources, improving the user interface and user experience, and integrating new technologies and platforms. We also plan to explore additional use cases for Hbar, such as incentivizing user contributions and creating a marketplace for financial services and products. Ultimately, our goal is to create a platform that provides comprehensive financial education and empowers users to take control of their financial futures. Built With csshederahtmljavascriptjquerymatlabnode.jstwiliovelowix Try it out aryan527.wixsite.com Submitted to HackNYU 2023 Winner Track: Financial Empowerment Winner [MLH] Best Blockchain Project Using Hedera Created by I worked on the back-end. It was my first time using JavaScript and the job was made tougher because of strict restrictions by velo, which did not let us edit the javascript files of the web pages however we wanted. I also used the Twilio API but implementing it meant customizing the web page which was very difficult with the free plan but not impossible which is shown by the final result. Aryan Agrawal . Aman Talreja I worked on the front end, and designed the website. It was my first time using Java Script so it was a bit challenging but I'm glad we won Agastya Mukherjee Tech and Finance Enthusiast Chirag Jain Like 5 5 people like this: Share this project: Updates Aryan Agrawal started this project — Feb 19, 2023 08:51 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

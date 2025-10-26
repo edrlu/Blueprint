@@ -1,0 +1,140 @@
+{
+  "title": "GottaGo!",
+  "url": "https://devpost.com/software/gottago",
+  "description": "Devpost",
+  "technologies": [
+    "firebase",
+    "leaflet.js",
+    "node.js",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/644/datas/gallery.jpg",
+      "alt": "GottaGo! – screenshot 1"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/646/datas/gallery.jpg",
+      "alt": "GottaGo! – screenshot 2"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/333/485/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GitM9X5OhJ0pQHdBrX2Cs79VIgGPk00MiRPcYlyyw=s96-c?height=180&width=180",
+      "alt": "Emily Sam"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/22421329?height=180&v=4&width=180",
+      "alt": "Matt Headley"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GitM9X5OhJ0pQHdBrX2Cs79VIgGPk00MiRPcYlyyw=s96-c?height=180&width=180",
+      "alt": "Emily Sam"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/644/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/351/646/datas/original.png"
+    },
+    {
+      "text": "https://gottago.tech",
+      "url": "https://gottago.tech"
+    },
+    {
+      "text": "gottago-512bd.web.app",
+      "url": "https://gottago-512bd.web.app/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "GottaGo! | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up GottaGo! A mapping app to help individuals with irritable bowel syndrome (IBS) find available public bathrooms no matter where they are! Like Comment Story Updates Application Main Screen - Vancouver Inspecting the details of a particular restroom Inspiration We have several friends with IBS and related digestive issues, and they need to constantly take into account the location and accessibility of nearby restrooms whenever planning activities, should the need for their use arise. A centralized, user-friendly app designed to collect this information in one convenient location would do them wonders in improving their everyday lives. What it does GottaGo! is an app that locates the nearest bathrooms for anyone looking for a quick bathroom stop no matter where they are located, developed with the needs of those with IBS in mind. How we built it GottaGo! was built using the following technologies: leaflet.js is a cartographic library for node.js, and was used as a primary technology for the rendering of maps, markers, and other navigation details ReactJS is one of the biggest web development libraries to exist today, and is the foundation of a vast number of modern webapps and web development projects. It was used as the main library to create the application. Domains.com is a registrar and hosting provider, and was used to obtain the domain name of https://gottago.tech. Google Firebase is a popular hosting provider, used for innumerable projects, both amateur and professional, which we used to host and deploy the app. Challenges we ran into Neither of us have used React before or have much experience with web development technology. These presented a challenge due to the pivot from backend development to frontend technologies. We were able to overcome the challenges through perseverance, effort, and only a little bit of sleeplessness. Accomplishments that we're proud of We as a team are proud of our willingness to learn new technologies and expand into areas of knowledge that neither of us were previously familiar with. Overcoming the difficulties of this paradigm shift took some grit, but we were rewarded for our efforts in the form of new horizons of development which we were able to interface with. What we learned We learned a lot about web development, web hosting, and mapping software throughout the development of this application. All of these technologies were new to us, and we enjoyed learning more about front-end development, as our personal expertise lies mostly in backend and data science. What's next for GottaGo! Next steps include integration of crowdsourced data, by adding the options for users to add reviews and one-to-five star ratings, as well as the ability to add and remove restrooms. We'd also like to add resources for users to educate themselves on IBS, and build discussion boards to encourage a safe space for conversation among IBS community patients and families. Built With firebaseleaflet.jsnode.jsreact Try it out gottago-512bd.web.app Submitted to BoilerMake X Winner Best Use of Google Cloud Created by Emily Sam Data Science, CS + Applied Statistics @ Purdue Matt Headley Like Share this project: Updates Emily Sam started this project — Jan 22, 2023 01:36 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

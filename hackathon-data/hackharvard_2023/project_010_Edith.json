@@ -1,0 +1,192 @@
+{
+  "title": "Edith",
+  "url": "https://devpost.com/software/edith-brshpa",
+  "description": "Devpost",
+  "technologies": [
+    "css3",
+    "express.js",
+    "firebase",
+    "github",
+    "github-jobs",
+    "html5",
+    "javascript",
+    "mui",
+    "ngrock",
+    "node.js",
+    "react",
+    "react-native",
+    "spotify",
+    "terra",
+    "typescript",
+    "vs"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/390/datas/gallery.jpg",
+      "alt": "Edith – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/665/103/datas/gallery.jpg",
+      "alt": "Edith – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/890/datas/gallery.jpg",
+      "alt": "Edith – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/889/datas/gallery.jpg",
+      "alt": "Edith – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/886/datas/gallery.jpg",
+      "alt": "Edith – screenshot 5"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/735/291/datas/profile.png",
+      "alt": "Shubh Thorat"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7YAR0xhj6jcoUgzo1GPgUKdOktflQzc1Ve0tAsJ_g=s96-c?height=180&width=180",
+      "alt": "Siddhartha Reddy Pullannagari"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/62635032?height=180&v=4&width=180",
+      "alt": "TJun-Jie Tai"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJpstNHVDVcwOm6zvh4Eq-DjZ8knw74afkItQbeGTx0=s96-c?height=180&width=180",
+      "alt": "Arnab Das Utsa"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI4Ea-imyqpGtBOODyO_SlSh8czk09MRlK2b6aK281YPJonCQ=s96-c?type=square",
+      "alt": "Rami Mamedov"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/735/291/datas/medium.png",
+      "alt": "Shubh Thorat"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7YAR0xhj6jcoUgzo1GPgUKdOktflQzc1Ve0tAsJ_g=s96-c?height=180&width=180",
+      "alt": "Siddhartha Reddy Pullannagari"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/390/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/665/103/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/890/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/889/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/886/datas/original.jpeg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/TJun-Jie/edithGPT"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/TJun-Jie/edith-backend"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Edith | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Edith We are Edith. Beyond Dates, Into Well-Being. Like 2 Comment Story Updates Vision Dashboard Dashboard the spotify api ui Inspiration Answer: Our increasingly complex lives demand more than just a reminder tool; they need an understanding partner. We witnessed the strain of juggling health, work, academic responsibilities, and social lives. This inspired the creation of Edith – a comprehensive, intuitive, and health-conscious planner. What it does Answer: Edith is an intelligent calendar that not only plans your day but also considers your health, stress levels, and preferences. Through integration with multiple APIs, it suggests Spotify playlists for stress, plans academic tasks, offers horoscope-based guidance, allows conversational planning, and even suggests activities based on the weather. It's a complete, holistic approach to daily planning. How we built it Answer: Edith is a product of diverse API integrations. By harnessing the power of Terra API for health metrics, Spotify API for mood music, Canvas/Blackboard for academic commitments, Horoscope for celestial insights, OpenAI for chat-based planning, and Weather APIs, we developed a cohesive, user-friendly application. Our team utilized agile development, ensuring regular iterations and refinements based on user feedback. Challenges we ran into Answer: Combining multiple API integrations seamlessly was our primary challenge. Ensuring real-time updates while maintaining the app's speed and responsiveness required optimized backend solutions. Also, refining Edith's AI to offer genuinely useful, not overwhelming, suggestions was a careful balancing act. Accomplishments that we're proud of Answer: We are immensely proud of Edith's ability to \"understand\" individual users. Its adaptive learning and predictive capabilities set it apart from conventional planners. Our beta testing showed a significant reduction in users' reported stress levels and an increase in their daily productivity. What we learned Answer: We learned the importance of user-centric design. By conducting surveys and continuous feedback loops, we understood the real needs of our audience. Technically, we also grasped the nuances of integrating diverse APIs to work harmoniously within a singular platform. What's next for Edith Answer: We envision expanding Edith's capabilities with more integrations, like fitness trackers and meal planning tools. We're also looking into developing a community feature, allowing users to share tips, strategies, and success stories, fostering a supportive Edith community. Built With css3express.jsfirebasegithubgithub-jobshtml5javascriptmuingrocknode.jsreactreact-nativespotifyterratypescriptvs Try it out github.com github.com Submitted to HackHarvard 2023 Winner Smash Challenge - Terra API Created by One of the Full Stack Developer & Strategist Technical Contribution: 1. API Integration: - Helped in integration of multiple APIs including Canvas and setup the entire login page linked to google sign in and GitHub sign in. 2. UX/UI Design: Collaborated in the design and implementation of a user-friendly interface, allowing for intuitive interactions and enhancing user experience. 3. Algorithm Development: Played a pivotal role in creating the algorithms that enabled Edith to provide tailored suggestions based on user health metrics, musical preferences, academic commitments, horoscope insights, and weather conditions. Strategic Contribution: 1) Team Collaboration: Worked closely with team members from diverse universities, fostering a cooperative environment that merged unique perspectives and expertise. 2) Presentation & Pitching: Developed and presented the promo video for Edith, highlighting its features and potential impact, which was instrumental in securing the Terra API Prize at HackHarvard. 3) Post-event Engagements: Leveraged the win at HackHarvard to explore further developmental opportunities and collaborations, leading to an interview invitation from Terra. Shubh Thorat CS undergrad @Northeastern. Passionate about AI, big data, and social good. Siddhartha Reddy Pullannagari TJun-Jie Tai Arnab Das Utsa Like 2 2 people like this: Share this project: Updates Siddhartha Reddy Pullannagari started this project — Oct 22, 2023 07:53 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

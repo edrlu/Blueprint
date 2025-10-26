@@ -1,0 +1,152 @@
+{
+  "title": "SpotOn Billboards",
+  "url": "https://devpost.com/software/personalized-billboards",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "docker",
+    "flask",
+    "html5",
+    "javascript",
+    "python",
+    "sql",
+    "tailwind"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/691/datas/gallery.jpg",
+      "alt": "SpotOn Billboards – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/793/805/datas/profile.jpg",
+      "alt": "Marton Nemeth"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36131887?height=180&v=4&width=180",
+      "alt": "RealistikDash"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/ac818d89e87365f35fb45e2d01cabebf?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "S N"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/44058159?height=180&v=4&width=180",
+      "alt": "Saleh Bubshait"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/36131887?type=square&v=4",
+      "alt": "RealistikDash"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/ac818d89e87365f35fb45e2d01cabebf?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "S N"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/793/805/datas/medium.jpg",
+      "alt": "Marton Nemeth"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/793/805/datas/profile.jpg",
+      "alt": "Marton Nemeth"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/691/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/sBubshait/spoton"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "SpotOn Billboards | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up SpotOn Billboards Using device signatures to target ads on real-world billboards. Ads can be bid on by advertisers based on the characteristics of the viewers present. Like 3 Comment Story Updates Portion of the advertiser panel Inspiration We thought about how personalized ads revolutionized the online marketing landscape and implemented a way of using similar principles to adapt the technique into the real world. What it does The project in general aims to identify people currently standing near a billboard and using their online ad profiles provided by data brokers, displays the best possible ad, tailored to that particular crowd of people. Ads can be submitted in campaigns by advertisers, specifying tags and a maximal budget per view for that specific ad, using this data to maximize the reach of advertising campaigns. How we built it We split up the work into the Database and the different APIs. Everything was managed in scalable manner in the cloud. We developed the panel for submitting advertising campaigns and the controlling software for the billboards separately. The central API handles sensor data from the billboard and outputs the ad for the maximal reach and revenue. The API is also responsible for handling the user tags and determining the characteristics of the cloud. Challenges we ran into Initially we faced problems with getting the bluetooth data correctly when a device was not in discovery mode. We also faced some last-minute challenges with the cloud but overcame those in time. Accomplishments that we're proud of Overall we're quite happy with how the project turned out, the demo in particular is really cool. What we learned Interfacing with bluetooth devices in Python. Division of workload could have been done differently. What's next for Personalized Billboards Potentially utilizing more bluetooth sensors for more accurate position determination. Enticing users with free wifi. Partnering with a large databroker Built With cssdockerflaskhtml5javascriptpythonsqltailwind Try it out github.com Submitted to HackTheBurgh X Winner Best Domain Name from GoDaddy Registry Created by Marton Nemeth RealistikDash S N Saleh Bubshait Like 3 3 people like this: Share this project: Updates Marton Nemeth started this project — Mar 02, 2024 05:12 PM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,212 @@
+{
+  "title": "Proactive Refresh",
+  "url": "https://devpost.com/software/proactive-refresh",
+  "description": "Devpost",
+  "technologies": [
+    "GIF",
+    "circom",
+    "elliptic-curve-cryptography",
+    "nextjs",
+    "rust",
+    "typescript",
+    "zero-knowledge"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/072/datas/gallery.jpg",
+      "alt": "Proactive Refresh – screenshot 1"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/395/datas/gallery.jpg",
+      "alt": "Proactive Refresh – screenshot 2"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/331/982/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/30359739?height=180&v=4&width=180",
+      "alt": "Lyron Co Ting Keh"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/2485fed16c5a0542c23ec19929b696fe?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Nathan Leung"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/393/964/datas/profile.jpg",
+      "alt": "Kaylee George"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/916/430/datas/profile.png",
+      "alt": "Jaclyn straightupjac"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/b11a473d1c66da07b8abb6d0afe27282?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "amin amin"
+    },
+    {
+      "src": "https://lh5.googleusercontent.com/-8uwLK6OfRIk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBGEvO1ha976ykEHcAX-rVuOUW4w/c/photo.jpg?type=square",
+      "alt": "Catherine Rasgaitis"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/389/520/datas/medium.jpg",
+      "alt": "Shivam Patel"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/45244108?type=square&v=4",
+      "alt": "Trent Conley"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu3-kv8jW2-8jE47Ps_cAFo8nb6RLCJBuWZxwzs_=s96-c?type=square",
+      "alt": "Derrick Cui"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/395/017/datas/medium.jpg",
+      "alt": "Akshyan Anandakrishnan"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/393/964/datas/medium.jpg",
+      "alt": "Kaylee George"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/916/430/datas/medium.png",
+      "alt": "Jaclyn straightupjac"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/42438803?type=square&v=4",
+      "alt": "Rahul Kandekar"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/2485fed16c5a0542c23ec19929b696fe?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "Nathan Leung"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/916/430/datas/profile.png",
+      "alt": "Jaclyn straightupjac"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/072/datas/original.gif"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/387/395/datas/original.png"
+    },
+    {
+      "text": "2022 theory paper",
+      "url": "https://eprint.iacr.org/2022/1656"
+    },
+    {
+      "text": "custom fork of Gnosis Safe",
+      "url": "https://github.com/nathanhleung/ats-pr-bls-contracts"
+    },
+    {
+      "text": "GnosisSafeZetaChainClient",
+      "url": "https://goerli.etherscan.io/address/0x34e2cd2967bbe834a41dde368ad2b239d765f378#code"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/lyronctk/ats-pr-bls"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/nathanhleung/ats-pr-bls-frontend"
+    },
+    {
+      "text": "proactive-refresh.vercel.app",
+      "url": "https://proactive-refresh.vercel.app/"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/nathanhleung/ats-pr-bls-contracts"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Proactive Refresh | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Proactive Refresh The first implementation of accountable threshold signatures with proactive refresh. We are the safest way to secure funds and protect what's most important to your organization. Like 19 Comment 1 Story Updates GIF demo overview poster Inspiration Threshold signatures secure billions in assets across crypto and traditional finance. They're meant to increase vault security by splitting up a digital signature across N parties, requiring at least T of them to sign off before any action (e.g. \"liquidate funds\" or \"pay contractor\") is taken. Though adversaries now need to compromise at least T parties to exploit, vanilla schemes come with a significant drawback. Signature shares are stagnant, so adversaries can target the T parties over the course of months, eventually resulting in a hack regardless of the threshold parameter. It's a common occurrence. The Ronin Bridge was secured by a 5-of-7 multisig. Adversaries compromised keys one at a time to drain the contract of $650M. The Harmony Bridge was secured by a 2-of-5 multisig. Again, adversaries compromised two keys separately for a $100M exploit. What it does Proactive refresh is a promising solution to these vulnerabilities. It's a way to renew signature shares every 30 seconds. Think of it as Google Authenticator for threshold signatures. Adversaries would then need to compromise all T keys (eg. all 5 keys for Ronin) within the span of 30 seconds- a much harder task. A simple concept, but building it to be cryptographically secure is fairly challenging. So much so that a valid construction was only recently proposed in a 2022 theory paper coming out of the Boneh laboratory. It satisfied many challenging requirements, namely: 1) having no central point of failure, 2) preserving the original vault, and 3) tracing back to signers. The scheme does so while providing security guarantees of unforgeability and accountability. We built out this primitive from scratch (first team to do so, to our knowledge). To demonstrate how powerful it is, we deployed a cross-chain vault on ZetaChain that's secured by a 5-of-7 threshold signature. Any adversary that wishes to drain the vault must compromise 5 signature shares in the span of 30 seconds. We think this would be unlikely. How we built it The scheme is instantiated by sampling N secret keys from the base field of the BLS12-381 curve. One key is handed to each party via a secure communication channel. T parties can then come together, with each individually signing the message to create T signatures. We use lagrange interpolation to find the lowest degree polynomial that \"fits\" to these signatures, with f(0) on the polynomial set as the collective signature. Notice that each set of T signers has a unique collective signature, allowing us trace back to who signed. Accountability! A big deal when dealing with mission-critical requests. To verify these signatures, we can again fit the lowest degree polynomial over the public keys for these parties. Due to the handy linearity property of BLS signatures (tracing back to the linearity of pairings over elliptic curves), this collective public key verifies the signature as expected. That's how we implement accountable threshold BLS signatures. Now for proactive refresh. Every 30 seconds, all N parties are required to sample a new T-1 degree polynomial that passes through the origin. Every party then needs to add the corresponding point from all N polynomials to their local secret key. This completely changes what their secret key is. But, since all the new polynomials pass through the origin, all collective signatures at f(0) are still the same (read: vault kept intact). What's more, each party contributed equally to the update process, so there's no single point of failure. A key that is compromised in one update round by an adversary is now useless in the following update round since the joint polynomial is completely different. Mission accomplished. To demonstrate how powerful this primitive is, we deployed an asset vault on ZetaChain based on a custom fork of Gnosis Safe. We modified the isValidSignature function and the signature verification logic in the execTransaction method of the Safe to instead rely on an on-chain ZK proof of a valid BLS signature generated using this signature scheme. Beyond modifying the signature scheme, we also took advantage of ZetaChain's zEVM features: the vault can accept messages from any blockchain supported by ZetaChain. To demonstrate this capability, we wrote a GnosisSafeZetaChainClient contract which we deployed to Goerli. A call to execTransaction on this Goerli contract which contains a valid signature parameter will trigger a transaction on the main ZetaChain vault using ZetaChain's cross-chain messaging. This simplifies multisig management as now there is a single source of truth for managing the assets and signature verification of the vault — the Safe instance on ZetaChain. Challenges we ran into Implementing the scheme was pretty difficult. It's elegant and doable to understand from a high level, but the nitty gritty lost us a good bit of sleep: 1) Existing libraries with components we needed had group elements that didn't play well together, so we had to implement the primitive from scratch. Our rust implementation included BLS signatures (elliptic curve pairings and group operations on BLS12-381), accountability (variant of Shamir's secret sharing scheme with lagrange interpolation), and proactive refresh (sampling these strategic polynomials). 2) Needed zkSNARKs. ZetaChain (& EVM) doesn't have the BLS precompile, so verifying the signature on-chain would've costed an ungodly amount of gas. We remedied this with a SNARK. Instead of checking the BLS signature on chain, we check it in a circuit and verify just the proof on chain. This was a hefty engineering lift since the computational model in a circuit is fairly different from what we dealt with in rust. It was especially difficult because we needed to do complex field arithmetic (pairings) that doesn't play well with the field that bn128 (the main zkSNARK elliptic curve) provides. We built this on the circom/snarkjs stack and used groth16 as our proving system. NOTE: The correct circuit is still compiling here, so the vault we have live right now can be spoofed by a well-informed adversary. 3) The default Gnosis Safe deployment process recommended by the Gnosis Safe team relies on presigned transactions generated from a key that only the Gnosis Safe team controls. These presigned transactions only work for deployment on certain whitelisted chains. Unfortunately, ZetaChain was not on the whitelist, so we had to make significant modifications to the Safe's constructor and deployment scripts in order to get a working Safe instance on ZetaChain. After getting the Safe working on ZetaChain, we spent extensive time digging into Solidity abi-coding and memory vs. calldata nuances to make sure data was passed in the correct encoding and format from Goerli to ZetaChain (e.g. we needed to calculate the correct offset to slice a calldata byte array by to get calldata bytes instead of memory bytes). We also ran into some contract size ceilings that we ended up mitigating by deleting legacy signature verification code used by the default Gnosis Safe verification algorithm that wasn't necessary under the new BLS signature scheme. Accomplishments that we're proud of 1) Rust crate that's the first working example of proactive refresh for accountable threshold signatures. 2) Cross-chain vault on ZetaChain that we're willing to put money on (maybe?). 3) ZK proofs that solidified the end-to-end implementation from primitive to dapp. What we learned Though our team had some cryptography / ZK background going into this, this was still massively difficult. We're much more comfortable with all types of threshold signatures and circuit work. What's next for Proactive Refresh Increased security for vaults is one among many threshold-related use cases such as bridging, timelock encryption, and commitment pools. We're excited to see what projects spawn from accountable threshold signatures with proactive refresh. Cleaning up the code now and fleshing out tests, then will make the crate available for the open source community! Built With circomelliptic-curve-cryptographynextjsrusttypescriptzero-knowledge Try it out github.com github.com proactive-refresh.vercel.app github.com Submitted to TreeHacks 2023 Winner Most Technically Complex Hack: 4 x Mac Minis Winner Best Omnichain Smart Contract Application by Zetachain: $2500 Created by Implemented BLS threshold signatures + accountability + paired proactive refresh w/ Kaylee Lyron Co Ting Keh Smart contract development: Gnosis Safe + Zetachain integration, Goerli -> Zetachain communication, Gnosis Safe signature verification mods Nathan Leung Student at UCLA ZK, proactive refresh in ats-pr scheme (rust), front-end Kaylee George Stanford CS, dabble in applied cryptography Jaclyn straightupjac I'm a builder, (sometimes) CS student at UWaterloo, and a lover of language + art. Web3 and Fullstack software engineer. Like 19 19 people like this: + 9 more Share this project: Updates Jaclyn straightupjac started this project — Feb 19, 2023 12:59 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

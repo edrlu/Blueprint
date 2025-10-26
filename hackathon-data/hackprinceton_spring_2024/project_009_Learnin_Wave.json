@@ -1,0 +1,131 @@
+{
+  "title": "Learnin' Wave",
+  "url": "https://devpost.com/software/learnin-wave",
+  "description": "Devpost",
+  "technologies": [
+    "javascript",
+    "langchain",
+    "mern",
+    "openaiapi",
+    "searchapi",
+    "tailwind",
+    "verbwireapi"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/909/984/datas/profile.jpeg",
+      "alt": "Ankit Amin"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AOh14GjJG9Nq98e-OZ25F0qMg6E_3_ganf5WkmZ1sbXCYg=s96-c?height=180&width=180",
+      "alt": "Ishan Revankar"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/909/984/datas/profile.jpeg",
+      "alt": "Ankit Amin"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "docs.google.com",
+      "url": "https://docs.google.com/presentation/d/1SkacFLzqhCFJBS-RivOk-wUqSaY6N-Ot6yqQSxrJQQU/edit#slide=id.g2c7de8ea934_0_17"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/ishanrev/princetonHacks.git"
+    },
+    {
+      "text": "learninwave-c629a4eb000c.herokuapp.com",
+      "url": "https://learninwave-c629a4eb000c.herokuapp.com/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Learnin' Wave | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Learnin' Wave Learnin' Wave: Ignite Your Coding Journey - Customized, Competitive, and Celebrated. Like Comment Story Updates Inspiration The inspiration behind Learnin' Wave sprang from a desire to bridge the gap between traditional learning and the evolving needs of the digital age. Observing the widespread enthusiasm for coding but a lack of engaging, flexible, and comprehensive platforms, we set out to create a solution that not only makes learning coding accessible and personalized but also fun and socially engaging. The vision was to cultivate a vibrant community of learners who could grow together, challenge each other, and celebrate their achievements in a dynamic, interactive environment. We believe that by making learning an enjoyable and social experience, we can inspire more individuals to embark on their coding journey with confidence and curiosity. What it does Frontend: Tailwind, MERN Stack Backend: Javascript, LangChain API Integration: OpenAI SearchAPI Verbwire API How we built it Challenges we ran into Accomplishments that we're proud of We take immense pride in the achievements of Learnin' Wave, particularly in how it has democratized the learning process for aspiring coders worldwide. Our platform's ability to generate personalized learning paths tailored to each user's interests and skill level stands out as a testament to our commitment to educational innovation. The enthusiastic feedback from our community, highlighting the effectiveness of our interactive challenges and social learning features, fuels our passion further. Moreover, witnessing users from diverse backgrounds earn badges and advance their skills, often beyond their initial expectations, is incredibly rewarding. These accomplishments underscore our mission to make coding accessible, enjoyable, and rewarding for everyone, and they motivate us to continue enhancing Learnin' Wave for learners around the globe. What we learned Throughout the development of Learnin' Wave, our journey was rich with learning experiences, especially in mastering cutting-edge technologies and frameworks. On the frontend, diving deep into Tailwind and the MERN Stack (MongoDB, Express.js, React, and Node.js) allowed us to create a highly responsive and visually appealing interface that enhances user engagement. In backend development, leveraging JavaScript and exploring the capabilities of LangChain provided us with robust tools for building intelligent, scalable systems. The integration of APIs such as OpenAI for advanced content generation, SearchAPI for expansive resource accessibility, and Verbwire API for seamless communication features, opened new avenues for us to deliver a comprehensive and interactive learning environment. This journey has not only expanded our technical expertise but also sharpened our problem-solving skills, paving the way for us to innovate and adapt in the ever-evolving landscape of educational technology. What's next for Learnin' Wave The future of Learnin' Wave is brimming with potential and driven by a commitment to continuous innovation. Our roadmap includes the integration of more advanced AI and machine learning features to further personalize learning experiences and offer even more insightful feedback on user progress. We plan to expand our content library, incorporating a wider array of coding languages and technologies to cater to an even broader audience. Additionally, enhancing the social and gamification elements of the platform is a priority, with the aim of introducing more live competitions, coding events, and community-building features. By focusing on these areas, we aspire to not only solidify Learnin' Wave's position as a leader in tech education but also to create a global community of learners who are empowered to achieve their coding aspirations, regardless of their starting point. Built With javascriptlangchainmernopenaiapisearchapitailwindverbwireapi Try it out docs.google.com github.com learninwave-c629a4eb000c.herokuapp.com Submitted to HackPrinceton Spring 2024 Winner Most Innovative Use Of Verbwire Created by Ankit Amin Ishan Revankar Like Share this project: Updates Ankit Amin started this project — Mar 31, 2024 08:28 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,182 @@
+{
+  "title": "SnackSnap - recycle to feed your pet",
+  "url": "https://devpost.com/software/snacksnap-lw4b9q",
+  "description": "Devpost",
+  "technologies": [
+    "firebase",
+    "firebasestorage",
+    "gemini-1.5-pro",
+    "googlegenerativeai",
+    "swift",
+    "swiftui"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/381/datas/gallery.jpg",
+      "alt": "SnackSnap - recycle to feed your pet – screenshot 1"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/382/datas/gallery.jpg",
+      "alt": "SnackSnap - recycle to feed your pet – screenshot 2"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/383/datas/gallery.jpg",
+      "alt": "SnackSnap - recycle to feed your pet – screenshot 3"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/384/datas/gallery.jpg",
+      "alt": "SnackSnap - recycle to feed your pet – screenshot 4"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/083/836/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/088/540/datas/profile.JPEG",
+      "alt": "Christian Yun"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/093/969/datas/profile.jpeg",
+      "alt": "Jeremy Chen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/73626236?type=square&v=4",
+      "alt": "Sai Ravi Teja Gangavarapu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJVVR8jUEROo3QHCEAysTqkS5kyfcO51dZRl5AhcqhDlXXVlp03=s96-c?type=square",
+      "alt": "John Zheng"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/71154396?type=square&v=4",
+      "alt": "Mani. I"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/664/095/datas/medium.JPG",
+      "alt": "Enkhbold Ganbold"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/44690200?type=square&v=4",
+      "alt": "Ryan Amiri"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKyasdXP1ZoeFYN7Iu4_C3aqBAZydapjom4J5eUUn_KVPajXBRv=s96-c?type=square",
+      "alt": "Jeff Chen"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/093/969/datas/medium.jpeg",
+      "alt": "Jeremy Chen"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/088/540/datas/medium.JPEG",
+      "alt": "Christian Yun"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/088/540/datas/profile.JPEG",
+      "alt": "Christian Yun"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/381/datas/original.PNG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/382/datas/original.PNG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/383/datas/original.PNG"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/384/datas/original.PNG"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "SnackSnap - recycle to feed your pet | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up SnackSnap - recycle to feed your pet SnackSnap is an iOS app leveraging Gemini's ML image recognition to verify recycling. Snap a picture while recycling to earn snacks to feed your digital pet. As the pet grows, carbon waste is reduced. Like 8 Comment 1 Story Updates recycle in-real-life to feed baby chester Gemini's ML Image Recognition makes sure the photo is valid snap a photo of yourself recycling (validated by Gemini!!!) redeem your XP points for exclusive rewards like early access to new products as a result of your clean lifestyle Inspiration Let's be honest. Sometimes, we have a paper cup, and we look at both the trash can and the recycling bin. We might throw the paper cup away in the trash because the recycling is just a little further. I'm definitely a culprit. Our team set out to invent a fun perception of recycling by creating a digital pet that can only be cared for through recycling verified by Gemini's ML image recognition. Something as simple as a tiny pet, backed by the complexity of Gemini, makes me take that extra step to throw away that paper cup into the recycling bin—to make sure my pet survives and keeps the world green. What it does Take a photo of yourself recycling an item, and using image recognition, Gemini checks if it is a valid photo. After a successful photo, you can feed your digital pet a ton of snacks making your pet get progressively get bigger and bigger... How we built it We began sketching each page to track the user's potential dopamine flow. Usually, recycling is seen as an inconvenience, especially since they are outnumbered by regular trashcans 2-to-1. We wanted the users to associate with recycling positively, so we created a pet for them to take care of. This emotional investment changes the idea of recycling from a burden to an opportunity to care for your digital pet. Challenges we ran into Integrating Gemini API was difficult at the start, but it was smooth the second time we tried. Easily viewable color scheme. Staying awake. Accomplishments that we're proud of 'Baby Chester' turning out as a cute pet The quick start to building SnackSnap making the rest of the days less stressful. What we learned Shipping Fast!!! Pushing the limits of getting deep work done. The excitement of working with Gemini. Working with each other's strengths. Trust in each other. What's next for SnackSnap Your pet can have babies. Discover new verticals. Future integration into spatial computing where there is virtually no friction for the user and we can auto-track their recycling activity. Built With firebasefirebasestoragegemini-1.5-progooglegenerativeaiswiftswiftui Submitted to Cal Hacks 11.0 Winner Cal Hacks: 3rd Overall Created by I built the software and got it running with Gemini Christian Yun distance running, software, startups!! I worked on the UI/UX and Graphic Design of our SnackSnap app. Organized user flow to make it simple and enjoyable. Jeremy Chen Like 8 8 people like this: Share this project: Updates Christian Yun started this project — Oct 20, 2024 11:19 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

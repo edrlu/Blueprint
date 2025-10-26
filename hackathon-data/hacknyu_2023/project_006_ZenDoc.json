@@ -1,0 +1,185 @@
+{
+  "title": "ZenDoc",
+  "url": "https://devpost.com/software/zendoc",
+  "description": "Devpost",
+  "technologies": [
+    "figma",
+    "firebase",
+    "github",
+    "node.js",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/787/datas/gallery.jpg",
+      "alt": "ZenDoc – screenshot 1"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/786/datas/gallery.jpg",
+      "alt": "ZenDoc – screenshot 2"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/789/datas/gallery.jpg",
+      "alt": "ZenDoc – screenshot 3"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/788/datas/gallery.jpg",
+      "alt": "ZenDoc – screenshot 4"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/961/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/388/255/datas/profile.jpg",
+      "alt": "Abdul Rafi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/88301319?height=180&v=4&width=180",
+      "alt": "Angel Avila"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/93888864?height=180&v=4&width=180",
+      "alt": "Amir Hossain"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/772/978/datas/profile.jpeg",
+      "alt": "Johan Delao"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIe0i8meqaluNifOOJkHAcH6TlUvYS5iP49RSsBfTd6=s96-c?type=square",
+      "alt": "Shehab Mohsen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/86802346?type=square&v=4",
+      "alt": "Abdul Andha"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/b11a473d1c66da07b8abb6d0afe27282?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "amin amin"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/93888864?type=square&v=4",
+      "alt": "Amir Hossain"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/88301319?type=square&v=4",
+      "alt": "Angel Avila"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/388/255/datas/profile.jpg",
+      "alt": "Abdul Rafi"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/787/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/786/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/789/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/389/788/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/JohanDelao/hackNYU"
+    },
+    {
+      "text": "docs.google.com",
+      "url": "https://docs.google.com/presentation/d/1Dga4c6RJxivEgO6k6y4hPbMtdm2n2FuQrRzrQWzqv0A/edit?usp=sharing"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "ZenDoc | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up ZenDoc ZenDoc is a Healthcare web application that bridges the gap between appointments. Users and their doctors can track their mental health by answering a daily questionnaire and a video submission. Like 5 Comment Story Updates Login Homepage Video Journal Interface Previous Form Submissions Inspiration One of the most important things, if not the most important, is our health. What keeps us healthy? Doctors. A massive problem in the healthcare industry is the huge gaps that many of us have between appointments. Luckily we have a solution. ZenDoc is a Healthcare web application that bridges the gap between appointments. What it does We made an intuitive web application that allows users to fill out a form about their well-being on that particular day. Users can also add a video Journal with themselves with each form entry. Seamlessly allows users to see their previous entries and look at their progress over time. How we built it This project is created with: React.js for the frontend framework Node.js for the backend Firebase Firestore & Storage Figma for mockups Domain: ZensDoc.tech Challenges we ran into We were trying to implement a transcription feature for user-recorded video Journals so that we, the user, can look back on them. But we ran into challenges trying to convert our mp4 file to base64 string and add it to a rest endpoint to transcribe it and send a response. Additionally, we wanted to add a feature to allow users to communicate with a bot doctor over text, but we ran into technical challenges trying to implement openAi's API. Accomplishments that we're proud of We're really proud of the user experience and how intuitive we made the app for ordinary users and their healthcare professionals to keep track of day-to-day mental health. We're also proud of the ability to record and store video journals using Firebase storage in order to give even more insight into one's personal health journey. What we learned We learned how to utilize technologies like React and Firebase to create a scalable and composable application that has a real-world impact on healthcare. We also learned a great deal about the importance of collaboration and teamwork through all stages of development. What's next for ZenDoc We want to add an analytics section with graphs to visually represent the user's change over time. Perform analytics to maximize the value of user data to the user. We'd like to include a transcription feature for user-recorded videos. We'd like to include a transcription feature for user-recorded video Journals. We would like to implement a feature that enables doctors to create customized forms for their patients. Built With figmafirebasegithubnode.jsreact Try it out github.com docs.google.com Submitted to HackNYU 2023 Winner Track: Health & Wellness Created by Abdul Rafi Angel Avila Amir Hossain Johan Delao Like 5 5 people like this: Share this project: Updates Abdul Rafi started this project — Feb 19, 2023 08:52 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

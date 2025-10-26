@@ -1,0 +1,118 @@
+{
+  "title": "Meal Planner",
+  "url": "https://devpost.com/software/meal-planner-g4nl59",
+  "description": "Devpost",
+  "technologies": [
+    "java",
+    "python"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/109419780?height=180&v=4&width=180",
+      "alt": "Soham Phargade"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/109419780?height=180&v=4&width=180",
+      "alt": "Soham Phargade"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "meal-planner-wakefern-api.streamlit.app",
+      "url": "https://meal-planner-wakefern-api.streamlit.app/"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/soham-phargade/meal-planner"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Meal Planner | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Meal Planner Get three tailored meal prep plans that fit your goals, budget, and taste. Like Comment Story Updates Inspiration As college students, we're always juggling the need for affordable, convenient meals with the desire to eat healthily. Too often, the quest for convenience leads to overspending or compromising on nutrition. Recognizing this common dilemma, we sought to create a solution that balances cost, convenience, and health. What Meal Planner Does Enter Meal Planner: a bespoke meal planning service tailored for budget-conscious, nutrition-savvy individuals. By simply entering your dietary preferences, budget, and any additional notes, Meal Planner crafts three personalized meal plans. These plans are not only nutritious but also designed for easy purchase at your nearest Wakefern superstore, ensuring both convenience and affordability. How We Built It Leveraging the Wakefern API, we accessed a comprehensive database of store items, which we categorized by food type for easy processing. Our system employs OpenAI's GPT-3.5 Turbo to interpret user inputs—including dietary restrictions, budget, and personal notes—and match them with suitable food items. The platform, deployed via Streamlit, offers a seamless, user-friendly interface. Challenges We Overcame A significant hurdle was ensuring consistency in the AI-generated meal plans, as output formats were initially varied. By fine-tuning the model's parameters and setting a strict output format, we significantly improved the user experience, ensuring clear, concise meal plans every time. Our Proud Accomplishments We are thrilled with Meal Planner's ability to deliver consistent, precise pricing within its meal plans, including thoughtful recommendations for common household items like salt and pepper. This not only demonstrates the model's nuanced understanding of culinary needs but also enhances practicality for users. Lessons Learned This project was a valuable lesson in applying AI models to specific domains, showcasing the potential of artificial intelligence to revolutionize everyday tasks like meal planning. What's Next for Meal Planner Looking ahead, we aim to refine our model's accuracy by incorporating domain-specific embeddings. Furthermore, we plan to integrate Meal Planner directly with Wakefern's shopping system, allowing users to automatically generate shopping carts based on their meal plans. This next step will bridge the gap between planning and purchasing, making Meal Planner an indispensable tool for healthy, budget-friendly eating. Built With javapython Try it out meal-planner-wakefern-api.streamlit.app github.com Submitted to HackRU Spring 2024 Winner Health Track Created by Soham Phargade Like Share this project: Updates Soham Phargade started this project — Mar 24, 2024 12:26 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

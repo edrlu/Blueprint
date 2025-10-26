@@ -1,0 +1,191 @@
+{
+  "title": "EdZy",
+  "url": "https://devpost.com/software/edzy",
+  "description": "Devpost",
+  "technologies": [
+    "bootstrap",
+    "canva",
+    "chromeextension",
+    "css",
+    "github",
+    "html",
+    "huggingsface",
+    "javascript",
+    "microsoftazure",
+    "python",
+    "rag",
+    "textvisionmodel",
+    "vectorembeddings",
+    "youtubesearchapi",
+    "youtubetranscriptapi"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/802/datas/gallery.jpg",
+      "alt": "EdZy – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/803/datas/gallery.jpg",
+      "alt": "EdZy – screenshot 2"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/804/datas/gallery.jpg",
+      "alt": "EdZy – screenshot 3"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/807/datas/gallery.jpg",
+      "alt": "EdZy – screenshot 4"
+    },
+    {
+      "src": "https://www.shutterstock.com/shutterstock/photos/487709347/display_1500/stock-photo-a-man-sleeping-over-laptop-computer-in-bed-487709347.jpg",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/096/180/datas/profile.jpg",
+      "alt": "Royce Arockiasamy"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIBBreENymV4FUXtxvslqBqTkOqZPOcZdT6EZMscx4xcm5hOMM=s96-c?type=square",
+      "alt": "Stephen Nguyen"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/096/180/datas/medium.jpg",
+      "alt": "Royce Arockiasamy"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/229/085/datas/medium.jpeg",
+      "alt": "Farnaz Zinnah"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/106120628?type=square&v=4",
+      "alt": "Shatakshi Ranjan"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/34288846?type=square&v=4",
+      "alt": "Qijia &quot;Joy&quot; Liu"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/096/180/datas/profile.jpg",
+      "alt": "Royce Arockiasamy"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/802/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/803/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/804/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/807/datas/original.png"
+    },
+    {
+      "text": "TransDETR",
+      "url": "https://github.com/weijiawu/TransDETR"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/RoyceAroc/edzy"
+    },
+    {
+      "text": "www.edzy.tech",
+      "url": "http://www.edzy.tech/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "EdZy | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up EdZy Faster YouTube, primarily for Education. Like 5 Comment Story Updates Download URL Keyboard Shortcuts Capabilities Example Implementation Track Education Inspiration I'm lazy. You read that right. Very lazy. I want things done fast, easy, quick. I was in bed, reading an online textbook, in a position where my hands didn't feel like touching the keyboard. Few minutes into my automata and complexity textbook, I had no clue what I was reading (maybe I should skip class less often). I knew the next best way to learn the concept was to watch a video. BUT HOW!? I'm nicely comfortable in a position I don't want to change to go on YouTube. WHAT DO I DO!? Ended up making EdZy at Hack Princeton as a solution to make my job easier. What it does It helps you find the answer to your topic/question instantly in the format of a video. It lands you in the exact timestamp matching the answer to your query using sophisticated algorithms. You can use Command + E (for Mac ONLY) and Ctrl + Q (for other devices) after highlighting the text you want to search to use the extension. Get results in 1-2 seconds. How I built it The frontend of the app was built using a chrome extension framework and APIs, as well as fundamental languages like HTML, CSS, JS, and Bootstrap. The server was hosted on an Azure T4 GPU, pros to being backed by Microsoft for Startups, and was used to run high inference implementation code. Prior to code base migration, the code was unit tested on a NVIDIA RTX laptop, provided by MLH. The algorithm utilizes parallelism in the pipeline to process multiple tasks at the same time. YouTube's search and transcript APIs are used to fetch the necessary data contents necessary. All-MiniLM-L6-v2 embeddings from HuggingsFace are used to extract chunks across the data. A novel algorithm is in place using turing machines, recursive divide and conquer sub-algorithms, and other inputs to extract answers based on queries. Challenges I ran into One challenge I ran into was getting access to an Azure T4 GPU. The GPU market is terrible and this one was hard to pull off after a lengthy email conversation and ticket. Another challenge was reducing the latency. When I started building this algorithm, it took nearly 30 seconds. Now it gets the job done in 1-2 seconds. This is all thanks to all the optimizations in place, from converting the model to ONNX files to using optimal data structures. Another challenge was limited time for testing. So I got my friends to test the product I made and give user feedback on areas where it failed. Based on feedback I received, for example limited context, I was able to expand on ideas; for example, the chrome extension takes more content than what you highlight under some scenarios (based on another semantic comparison algorithm) in order to produce more accurate results. One last challenge I faced, in addition to other multiple minor ones, was integrating the extension with OpenAI. Web scraping was a lengthy task and involved a lot of testing, rather than just writing code in one-go and compiling it in one-go, which took a lot of time, but the end product was really useful based on the feedback I received. Accomplishments that I'm proud of Having a 1-2 second latency to provide very accurate results is simply fascinating to me. Also, I'm not much of a video creator guy myself, and making the video on Canva was a fun experience and I loved the output video I made. Definitely one of my biggest accomplishments in this hackathon so far. What I learned How to optimize models using ONNX so save 2x runtime Implementing job queue on the server for requests Chrome Extension APIs in depth Implementing and evaluating models like TransDETR and other data extraction models How to make videos on Canva What's next for EdZy Turns out, everyones likes it (or maybe they are being nice about it). Anyways, look forward to a production version, around two weeks, once beta-testing and iteration over user feedback is over next week :) Also after talking with a few startup business owners, realized potential for a B2B solution using the algorithm I built in this. Built With bootstrapcanvachromeextensioncssgithubhtmlhuggingsfacejavascriptmicrosoftazurepythonragtextvisionmodelvectorembeddingsyoutubesearchapiyoutubetranscriptapi Try it out github.com www.edzy.tech Submitted to HackPrinceton Spring 2024 Winner Best Overall Created by Royce Arockiasamy Like 5 5 people like this: Share this project: Updates Royce Arockiasamy started this project — Mar 31, 2024 02:25 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

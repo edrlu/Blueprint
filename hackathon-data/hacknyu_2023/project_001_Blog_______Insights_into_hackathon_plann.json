@@ -1,0 +1,577 @@
+{
+  "title": "Blog\n      \n\n        Insights into hackathon planning and participation",
+  "url": "https://info.devpost.com/blog",
+  "description": "Learn how to run a hackathon and get new ideas, industry insights, and more on the Devpost blog",
+  "technologies": [],
+  "team_members": [],
+  "awards": [],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/64661dc4f21acc507effdea4_devpost-logo.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd291ff53ddbb53da1_logo-sm-devpost.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd291ff53ddbb53da1_logo-sm-devpost.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd3634a7dffdd5fc07_logo-sm-dft.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd291ff53ddbb53da1_logo-sm-devpost.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd3634a7dffdd5fc07_logo-sm-dft.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd291ff53ddbb53da1_logo-sm-devpost.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd3634a7dffdd5fc07_logo-sm-dft.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd291ff53ddbb53da1_logo-sm-devpost.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6477b3fd3634a7dffdd5fc07_logo-sm-dft.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/6793e10d60b29ed9fc570da8_arrow-right.svg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": "Text reads \"internal hackathon template and planning kit\" next to an abstract illustration of a woman adjusting a whiteboard-sized computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/64661dc4f21acc507effdea4_devpost-logo.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": "Text reads \"Devpost's managed services for public hackathons\" next to an abstract illustration of a person"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/64661dc4f21acc507effdea4_devpost-logo.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": "Text reads \"Google Cloud AI Accelerate Hackathon on Devpost\" next to Google Cloud, Elastic, and Fivetran logos"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/64661dc4f21acc507effdea4_devpost-logo.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67b4fb5ab2d1161a80aeb080_How%20internal%20hackathons%20drive%20AI%20transformation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67b4fb5ab2d1161a80aeb080_How%20internal%20hackathons%20drive%20AI%20transformation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/64661dc4f21acc507effdea4_devpost-logo.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": "Text reads \"internal hackathon template and planning kit\" next to an abstract illustration of a woman adjusting a whiteboard-sized computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68cc11283baf221c61892e08_Scaling%20AI%20adoption%20with%20customer%20hackathons%20and%20DFT.png",
+      "alt": "Text reads \"Fast-track AI adoption with customer hackathons\" next to an abstract image of a woman checking off tasks on al list"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68cc11283baf221c61892e08_Scaling%20AI%20adoption%20with%20customer%20hackathons%20and%20DFT.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": "Text reads \"Google Cloud AI Accelerate Hackathon on Devpost\" next to Google Cloud, Elastic, and Fivetran logos"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68beda084af254930ab5fd19_AWS%20AI%20Agent%20Global%20Hackathon%20on%20Devpost.png",
+      "alt": "Text reading 'AWS AI Agent Global Hackathon on Devpost' next to a branded thumbnail image from the hackathon"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68beda084af254930ab5fd19_AWS%20AI%20Agent%20Global%20Hackathon%20on%20Devpost.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68a8caaeb64103309a4b3ee4_Devpost%20for%20Teams%20Guest%20Features.png",
+      "alt": "Blog header image reading \"New guest tools for private hackathons\" next to an abstract image of two women working on a computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68a8caaeb64103309a4b3ee4_Devpost%20for%20Teams%20Guest%20Features.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6880ea0899d8e3f7b4d1a67d_Devpost%20for%20Teams%20Voting.png",
+      "alt": "\"Make voting easy in private hackathons with DFT\" next to an illustration of three people putting a voting ballot into a box"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6880ea0899d8e3f7b4d1a67d_Devpost%20for%20Teams%20Voting.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": "Text reads \"Devpost's managed services for public hackathons\" next to an abstract illustration of a person"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6839bc841cbd10d3cd8f6075_User%20Story%20Abhishek.png",
+      "alt": "A headshot of Abhishek next to text that reads \"User Spotlight Abhishek Nandy\""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6839bc841cbd10d3cd8f6075_User%20Story%20Abhishek.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/680fbcc77b875ceaff6972fd_How%20to%20get%20executive%20buy-in%20for%20internal%20hackathons.png",
+      "alt": "Text reads \"How to get exec buy-in for internal hackathons (With templates)\" next to an abstract illustration of a business man standing next to graphs charting upwards"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/680fbcc77b875ceaff6972fd_How%20to%20get%20executive%20buy-in%20for%20internal%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4cef0b69f3fa656e99082_How%20Devpost%20for%20Teams%20streamlines%20hackathon%20judging.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4cef0b69f3fa656e99082_How%20Devpost%20for%20Teams%20streamlines%20hackathon%20judging.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6877fa28ba3ced61cc6f87b5_DFT%20Q2%20Feature%20Release%20Roundup.png",
+      "alt": "\"New features for surveys, guests, judging setup (Q2 2025)\" next to the Devpost for Teams logo on a computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6877fa28ba3ced61cc6f87b5_DFT%20Q2%20Feature%20Release%20Roundup.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846e12897ded00d994e4982_DFT%20Post-hackathon%20survey%20features.png",
+      "alt": "Text reads \"Post-hackathon survey on Devpost for Teams\" next to an abstract illustration of a person"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846e12897ded00d994e4982_DFT%20Post-hackathon%20survey%20features.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": "Text reads \"internal hackathon template and planning kit\" next to an abstract illustration of a woman adjusting a whiteboard-sized computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f70ed989be9bdee0e7d213_Internal%20hackathon%20template%20and%20planning%20kit.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68cc11283baf221c61892e08_Scaling%20AI%20adoption%20with%20customer%20hackathons%20and%20DFT.png",
+      "alt": "Text reads \"Fast-track AI adoption with customer hackathons\" next to an abstract image of a woman checking off tasks on al list"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68cc11283baf221c61892e08_Scaling%20AI%20adoption%20with%20customer%20hackathons%20and%20DFT.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68a8caaeb64103309a4b3ee4_Devpost%20for%20Teams%20Guest%20Features.png",
+      "alt": "Blog header image reading \"New guest tools for private hackathons\" next to an abstract image of two women working on a computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68a8caaeb64103309a4b3ee4_Devpost%20for%20Teams%20Guest%20Features.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6880ea0899d8e3f7b4d1a67d_Devpost%20for%20Teams%20Voting.png",
+      "alt": "\"Make voting easy in private hackathons with DFT\" next to an illustration of three people putting a voting ballot into a box"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6880ea0899d8e3f7b4d1a67d_Devpost%20for%20Teams%20Voting.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": "Text reads \"Devpost's managed services for public hackathons\" next to an abstract illustration of a person"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846d92f38545e5ced3200db_Devpost%20public%20managed%20services.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/680fbcc77b875ceaff6972fd_How%20to%20get%20executive%20buy-in%20for%20internal%20hackathons.png",
+      "alt": "Text reads \"How to get exec buy-in for internal hackathons (With templates)\" next to an abstract illustration of a business man standing next to graphs charting upwards"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/680fbcc77b875ceaff6972fd_How%20to%20get%20executive%20buy-in%20for%20internal%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4cef0b69f3fa656e99082_How%20Devpost%20for%20Teams%20streamlines%20hackathon%20judging.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4cef0b69f3fa656e99082_How%20Devpost%20for%20Teams%20streamlines%20hackathon%20judging.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6877fa28ba3ced61cc6f87b5_DFT%20Q2%20Feature%20Release%20Roundup.png",
+      "alt": "\"New features for surveys, guests, judging setup (Q2 2025)\" next to the Devpost for Teams logo on a computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6877fa28ba3ced61cc6f87b5_DFT%20Q2%20Feature%20Release%20Roundup.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846e12897ded00d994e4982_DFT%20Post-hackathon%20survey%20features.png",
+      "alt": "Text reads \"Post-hackathon survey on Devpost for Teams\" next to an abstract illustration of a person"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6846e12897ded00d994e4982_DFT%20Post-hackathon%20survey%20features.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68138fd8fff050d83a36d638_DFT%20Q1%20Feature%20Release%20Roundup.png",
+      "alt": "\"New voting, guest access, & setup features (Q1 2025)\" written next to an illustration of a computer monitor with the Devpost for Teams logo on it"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68138fd8fff050d83a36d638_DFT%20Q1%20Feature%20Release%20Roundup.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67db2dff44750b9f66607640_6%20Ways%20to%20increase%20hackathon%20participation%20with%20DFT.png",
+      "alt": "'Boost hackathon sign-ups using Devpost for Teams' written next to an abstract illustration of a person looking at a computer screen and adding users"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67db2dff44750b9f66607640_6%20Ways%20to%20increase%20hackathon%20participation%20with%20DFT.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/674a29a4b27477841f5acc45_Everything%20you%20need%20to%20know%20about%20virtual%20hackathons.png",
+      "alt": "An abstract illustration of a man next to a computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/674a29a4b27477841f5acc45_Everything%20you%20need%20to%20know%20about%20virtual%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": "Text reads \"Google Cloud AI Accelerate Hackathon on Devpost\" next to Google Cloud, Elastic, and Fivetran logos"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68c9a54857cbeec2dbcadd5f_Google%20Cloud%20AI%20Accelerate%20Hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68beda084af254930ab5fd19_AWS%20AI%20Agent%20Global%20Hackathon%20on%20Devpost.png",
+      "alt": "Text reading 'AWS AI Agent Global Hackathon on Devpost' next to a branded thumbnail image from the hackathon"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/68beda084af254930ab5fd19_AWS%20AI%20Agent%20Global%20Hackathon%20on%20Devpost.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6839bc841cbd10d3cd8f6075_User%20Story%20Abhishek.png",
+      "alt": "A headshot of Abhishek next to text that reads \"User Spotlight Abhishek Nandy\""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6839bc841cbd10d3cd8f6075_User%20Story%20Abhishek.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/681a564674669020ac16ec56_Google%20Cloud%20AI%20in%20Action%20Hackathon.png",
+      "alt": "\"Google Cloud AI in Action Hackathon on Devpost\" next to hackathon thumbnail"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/681a564674669020ac16ec56_Google%20Cloud%20AI%20in%20Action%20Hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67d889e4a207dbbfe2edaa6c_User%20Story%20Oleksandr.png",
+      "alt": "Text reading \"User Spotlight: Oleksandr Arsentiev\" next to a photograph of a man looking into the camera"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67d889e4a207dbbfe2edaa6c_User%20Story%20Oleksandr.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67bc9cc75da1a8d426cc33b1_Hack%20hackathons_Join%20Devpost%20Discord.png",
+      "alt": "White text on a bright blue background that reads \"Hack hackathons: Join Devpost's Discord\" next to an illustration of a man sitting in front of a computer that has the Discord logo on the screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67bc9cc75da1a8d426cc33b1_Hack%20hackathons_Join%20Devpost%20Discord.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4c58f6b3b3805168e0902_User%20Story%20Increase.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67a4c58f6b3b3805168e0902_User%20Story%20Increase.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6750a5c5f26a016759f65bd3_User%20Story%20Yash.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6750a5c5f26a016759f65bd3_User%20Story%20Yash.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f3287d59b0b5520afe8cf7_Understanding%20hackathon%20submission%20and%20judging%20banner.png",
+      "alt": "Text reads \"Understanding hackathon submission & judging criteria\" next to an abstract image of two people checking tasks off a list"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66f3287d59b0b5520afe8cf7_Understanding%20hackathon%20submission%20and%20judging%20banner.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66abf952a072314375e22f6a_User%20Story%20Param.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66abf952a072314375e22f6a_User%20Story%20Param.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66db546523c97e5fd9ce3e73_User%20Story%20Helen.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66db546523c97e5fd9ce3e73_User%20Story%20Helen.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66d09f25ae92419f03f0b604_How%20to%20leverage%20ai%20in%20hackathon%20projects.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66d09f25ae92419f03f0b604_How%20to%20leverage%20ai%20in%20hackathon%20projects.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67bf8ca7a2295c1d041a2465_4%20Ways%20to%20use%20hackathons%20in%20your%20developer%20marketing%20strategy.png",
+      "alt": "Text reading \"4 Ways to use hackathons in dev marketing\" next to an abstract illustration of two people standing in front of a giant computer screen"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67bf8ca7a2295c1d041a2465_4%20Ways%20to%20use%20hackathons%20in%20your%20developer%20marketing%20strategy.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67b4fb5ab2d1161a80aeb080_How%20internal%20hackathons%20drive%20AI%20transformation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67b4fb5ab2d1161a80aeb080_How%20internal%20hackathons%20drive%20AI%20transformation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6753a69c1e18ed9ec462ecb3_Hackathon%20best%20practices%20Advice%20from%20internal%20hackathon%20organizers.png",
+      "alt": "Text reads \"Advice from expert internal hackathon organizers\" next to company logos from Okta, Toyota, Motorola Solutions, JLL/T, and Estee Lauder"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6753a69c1e18ed9ec462ecb3_Hackathon%20best%20practices%20Advice%20from%20internal%20hackathon%20organizers.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66abee4256a61c20236fb4cb_5%20Challenges%20your%20business%20can%20solve%20with%20hackathons.png",
+      "alt": "Text reads \"5 Challenges your business can solve with hackathons\" next to an abstract illustration of a man and woman pointing at a wireframe."
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/66abee4256a61c20236fb4cb_5%20Challenges%20your%20business%20can%20solve%20with%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/662a84c1f43ba2852d2b22ac_Devpost%20Driving%20AI%20Innovation%20Webinar.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/662a84c1f43ba2852d2b22ac_Devpost%20Driving%20AI%20Innovation%20Webinar.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67912955c9d8ac8d3c22e374_5%20Reasons%20private%20hackathons%20drive%20customer%20engagement.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/67912955c9d8ac8d3c22e374_5%20Reasons%20private%20hackathons%20drive%20customer%20engagement.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6581c548c722287ea2d86f16_Devpost%20year%20in%20review%20blog%20post%202023.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/6581c548c722287ea2d86f16_Devpost%20year%20in%20review%20blog%20post%202023.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/670592db4abca28d56cadf67_How%20AI%20is%20changing%20the%20world%20of%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/670592db4abca28d56cadf67_How%20AI%20is%20changing%20the%20world%20of%20hackathons.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/672d2773b9912fff5f345ea3_How%20to%20inspire%20a%20culture%20of%20innovation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/672d2773b9912fff5f345ea3_How%20to%20inspire%20a%20culture%20of%20innovation.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/672d2465d85f50aeed4c7f23_6%20Reasons%20to%20host%20a%20hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc0e2/672d2465d85f50aeed4c7f23_6%20Reasons%20to%20host%20a%20hackathon.png",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6465152b75f6f7f1c0dfc042/667d1857cbd52a56d54d0075_Blob%202.svg",
+      "alt": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for TeamsAccess your company’s private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Log in",
+      "url": "https://devpost.team/"
+    },
+    {
+      "text": "Devpost for TeamsAccess your company’s private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Log in",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    }
+  ],
+  "full_content": "Devpost Blog Join a hackathonDevpostParticipate in our public hackathonsHackathonsProjectsDevpost for TeamsAccess your company’s private hackathonsLog inHost a hackathonDevpostGrow your developer ecosystem and promote your platformHost a public hackathonDevpost for TeamsDrive innovation, collaboration, and retention within your organizationHost an internal hackathonBy use caseAI hackathonsCustomer hackathonsEmployee hackathonsPublic hackathonsResourcesBlogInsights into hackathon planning and participationCustomer storiesInspiration from peers and other industry leadersPlanning guidesBest practices for planning online and in-person hackathonsWebinars & eventsUpcoming events and on-demand recordingsHelp deskCommon questions and support documentationRun a hackathonJoin a hackathonDevpostParticipate in our public hackathonsHackathonsProjectsDevpost for TeamsAccess your company’s private hackathonsLog inHost a hackathonDevpostGrow your developer ecosystem and promote your platformHost a public hackathonDevpost for TeamsDrive innovation, collaboration, and retention within your organizationHost an internal hackathonBy use caseAI hackathonsCustomer hackathonsEmployee hackathonsPublic hackathonsResourcesBlogInsights into hackathon planning and participationCustomer storiesInspiration from peers and other industry leadersPlanning guidesBest practices for planning online and in-person hackathonsWebinars & eventsUpcoming events and on-demand recordingsHelp deskHow to use Devpost and Devpost for TeamsBlogLearn how to run a hackathon and get new ideas, industry insights, and more on the Devpost blogHackathon planningThe ultimate internal hackathon planning kitGet the tools and templates you need to kick-start your next company hackathon.Read moreHackathon planningHackathon planningUnlock hackathon success with Devpost’s managed servicesLearn how to take your hackathons to the next level with Devpost’s project management and marketing services.Read moreParticipant resourcesParticipant resourcesIgnite innovation in the AI Accelerate Google Cloud Multi-Partner HackathonExplore the future of AI in the cloud and build innovative solutions with Google Cloud, Elastic, and Fivetran in the AI Accelerate Hackathon on Devpost.Read moreBusiness impactBusiness impactHow internal hackathons drive AI transformationTransform your business in 2025 with internal AI hackathons.Read moreAll resourcesBlog postsCustomer storiesGuidesWebinars & eventsFilter by categoryAllThis is some text inside of a div block.This is some text inside of a div block.This is some text inside of a div block.This is some text inside of a div block.This is some text inside of a div block.This is some text inside of a div block.All postsHackathon planningParticipant resourcesBusiness impactAll postsHackathon planningThe ultimate internal hackathon planning kitGet the tools and templates you need to kick-start your next company hackathon.Read moreHackathon planningHow to scale AI adoption with customer hackathons and Devpost for TeamsCustomer hackathons turn AI interest into adoption—and Devpost for Teams makes them easy to run.Read moreParticipant resourcesIgnite innovation in the AI Accelerate Google Cloud Multi-Partner HackathonExplore the future of AI in the cloud and build innovative solutions with Google Cloud, Elastic, and Fivetran in the AI Accelerate Hackathon on Devpost.Read moreParticipant resourcesTurn ideas into reality in the AWS AI Agent Global HackathonBuild the next wave of intelligent solutions with over $45,000 in prizes.Read moreHackathon planningNew DFT guest features: Enhanced control for private hackathonsSee how the Guest Access Forms and Guest Organizer role give you more flexibility when including external participants.Read moreHackathon planningWhy voting is crucial to your private hackathon's successDiscover how integrating voting into your hackathon boosts engagement, keeps things fair, and spotlights truly impactful projects.Read moreHackathon planningUnlock hackathon success with Devpost’s managed servicesLearn how to take your hackathons to the next level with Devpost’s project management and marketing services.Read moreParticipant resourcesUser story: Abhishek’s journey from hackathon winner to Red Hat Principal ML EngineerWith 65+ hackathons under his belt, Abhishek Nandy turned a Red Hat and Intel AI Hackathon win into a career-defining opportunity at Red Hat.Read moreHackathon planningHow to get executive buy-in for your internal hackathons (With templates)Learn how to secure leadership approval for your internal hackathon—and get access to a business case template you can use to build your pitch.Read moreHackathon planningHow Devpost for Teams streamlines hackathon judgingLearn about the platform that brings you stress-free hackathon judging for internal events.Read moreHackathon planningNew in Devpost for Teams: Hackathon surveys, guest judging, and more guest management featuresSee the new post-hackathon surveys, guest judging, and guest management features released on DFT in Q2 2025.Read moreHackathon planningStreamline feedback with Devpost for Teams’ Post-Hackathon SurveysEasily collect feedback, measure outcomes, and prove the value of your internal hackathons with Post-hackathon Surveys.Read moreLoad moreHackathon planningHackathon planningThe ultimate internal hackathon planning kitGet the tools and templates you need to kick-start your next company hackathon.Read moreHackathon planningHow to scale AI adoption with customer hackathons and Devpost for TeamsCustomer hackathons turn AI interest into adoption—and Devpost for Teams makes them easy to run.Read moreHackathon planningNew DFT guest features: Enhanced control for private hackathonsSee how the Guest Access Forms and Guest Organizer role give you more flexibility when including external participants.Read moreHackathon planningWhy voting is crucial to your private hackathon's successDiscover how integrating voting into your hackathon boosts engagement, keeps things fair, and spotlights truly impactful projects.Read moreHackathon planningUnlock hackathon success with Devpost’s managed servicesLearn how to take your hackathons to the next level with Devpost’s project management and marketing services.Read moreHackathon planningHow to get executive buy-in for your internal hackathons (With templates)Learn how to secure leadership approval for your internal hackathon—and get access to a business case template you can use to build your pitch.Read moreHackathon planningHow Devpost for Teams streamlines hackathon judgingLearn about the platform that brings you stress-free hackathon judging for internal events.Read moreHackathon planningNew in Devpost for Teams: Hackathon surveys, guest judging, and more guest management featuresSee the new post-hackathon surveys, guest judging, and guest management features released on DFT in Q2 2025.Read moreHackathon planningStreamline feedback with Devpost for Teams’ Post-Hackathon SurveysEasily collect feedback, measure outcomes, and prove the value of your internal hackathons with Post-hackathon Surveys.Read moreHackathon planningWhat’s new in Devpost for Teams: New voting, guest access, and setup featuresTake a look at the new voting features, guest management, and enhanced hackathon setup features released in Q1 2025.Read moreHackathon planning6 Ways to boost hackathon participation with Devpost for TeamsEliminate participation barriers and boost innovation with an all-in-one hackathon platform.Read moreHackathon planningEverything you need to know about running virtual hackathonsYour go-to resource for planning, organizing, and hosting successful online hackathons that accelerate innovation and drive product adoption.Read moreLoad moreParticipant resourcesParticipant resourcesIgnite innovation in the AI Accelerate Google Cloud Multi-Partner HackathonExplore the future of AI in the cloud and build innovative solutions with Google Cloud, Elastic, and Fivetran in the AI Accelerate Hackathon on Devpost.Read moreParticipant resourcesTurn ideas into reality in the AWS AI Agent Global HackathonBuild the next wave of intelligent solutions with over $45,000 in prizes.Read moreParticipant resourcesUser story: Abhishek’s journey from hackathon winner to Red Hat Principal ML EngineerWith 65+ hackathons under his belt, Abhishek Nandy turned a Red Hat and Intel AI Hackathon win into a career-defining opportunity at Red Hat.Read moreParticipant resourcesDive into innovation: The AI in Action Google Cloud Multi-Partner Hackathon is hereLearn how to register, access key resources, and build innovative projects with Google Cloud, MongoDB, and GitLab.Read moreParticipant resourcesUser story: Oleksandr's secret to winning 7 out of 15 hackathonsGet to know Oleksandr and learn his tips and tricks for winning nearly half the hackathons he’s entered.Read moreParticipant resourcesHack hackathons: Join the Devpost Discord serverLearn about the benefits of joining the Devpost Discord to take your hackathon experience to the next level.Read moreParticipant resourcesUser story: Increase’s hackathon win took him from Nigeria to the USAGet to know Increase and learn how winning a hackathon took him to the US for the first time!Read moreParticipant resourcesUser story: How Yash hacked his way to GoogleGet to know Yash and learn how hackathons helped him land a job at Google.Read moreParticipant resourcesUnderstanding hackathon submission and judging criteria: What really countsDive deeper into what it takes to understand a hackathon’s submission and judging criteria.Read moreParticipant resourcesUser Story: Winning first place in one of the most competitive hackathons on DevpostGet to know Param, the first-place winner of the highly competitive AWS PartyRock Generative AI Hackathon.Read moreParticipant resourcesUser story: Inside the journey of the TikTok TechJam championGet to know Helen, the first-place winner in the highly competitive 2024 TikTok TechJam.Read moreParticipant resources4 Ways to use AI to elevate your hackathon projectsLearn how to enhance your hackathon submissions with AI—from ideation to presentation.Read moreLoad moreBusiness impactBusiness impact4 Ways to use hackathons in your developer marketing strategyLearn how to boost your developer marketing, drive product adoption, get product feedback, and build stronger developer relationships with hackathons.Read moreBusiness impactHow internal hackathons drive AI transformationTransform your business in 2025 with internal AI hackathons.Read moreBusiness impactAdvice from expert internal hackathon organizersGet insider tips and best practices from leading hackathon organizers for your next event.Read moreBusiness impact5 Challenges your business can solve with hackathonsLearn about using public and internal hackathons to solve some of the biggest business challenges.Read moreBusiness impactDriving AI innovation with internal hackathons [Webinar]Learn how to build your AI strategy with hackathons.Read moreBusiness impact5 Reasons private hackathons drive customer engagementHere’s how private customer hackathons reduce churn and drive revenue growth.Read moreBusiness impact2023 Year in review at DevpostGet an insider look at last year’s key hackathon statistics and see what’s trending for 2024.Read moreBusiness impactHow AI is changing the world of hackathons [Q&A recap]Hear from a panel of developer marketing experts on AI’s impact on their hackathons.Read moreBusiness impactHow to inspire a culture of innovation in light of AILearn how to promote innovation in the workplace to help tackle AI-related challenges.Read moreBusiness impact6 Reasons to host a hackathonHackathons inspire innovative, creative solutions—here’s why you should host one.Read moreMake a real impact on customer retention with hackathonsHere are 5 reasons to run customer hackathons.Learn MoreDevpostAboutCareersPressContactHelpHackathonsBrowse hackathonsExplore projectsHost a hackathonHackathon guidesPortfolioYour projectsYour hackathonsSettingsConnectTwitterLinkedInDiscordFacebook© YYYY Devpost, Inc. All rights reserved.Community guidelinesSecurityCA noticePrivacy policyTerms of service"
+}

@@ -1,0 +1,186 @@
+{
+  "title": "SustainaGO",
+  "url": "https://devpost.com/software/sustainago",
+  "description": "Devpost",
+  "technologies": [
+    "database",
+    "figma"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/080/datas/gallery.jpg",
+      "alt": "SustainaGO – screenshot 1"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/081/datas/gallery.jpg",
+      "alt": "SustainaGO – screenshot 2"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/082/datas/gallery.jpg",
+      "alt": "SustainaGO – screenshot 3"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/089/datas/gallery.jpg",
+      "alt": "SustainaGO – screenshot 4"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/602/188/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/531/535/datas/profile.jpg",
+      "alt": "Zubaida Kadir"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKySCbPNTGhfGQtv-fBNTqg_TFhrS-AxcUUwH8Gw4y6=s96-c?height=180&width=180",
+      "alt": "Varsha Boochay"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI2_PiZw9aenunmXNIlx_g-um4tuik0HuwpVxmEi3ts=s96-c?height=180&width=180",
+      "alt": "Tajin Ahmed"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/703/687/datas/profile.jpg",
+      "alt": "Samihah Tahsin"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucpixIIcULwJ90xUh52uKjw9oTh2Shd8wZMTkcJMtw=s96-c?type=square",
+      "alt": "Tasneem Ibrahim"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/531/535/datas/medium.jpg",
+      "alt": "Zubaida Kadir"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJxfgoL6wHPptxkS2_huti0cXOeqOy9tEt0EH_iZ=s96-c?type=square",
+      "alt": "Utsha Paul"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJzzPtWMaEVgeY7eH_AjMJmB5NR5faNqCvtg-phw=s96-c?type=square",
+      "alt": "Matthew Finamore"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/703/687/datas/medium.jpg",
+      "alt": "Samihah Tahsin"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI2_PiZw9aenunmXNIlx_g-um4tuik0HuwpVxmEi3ts=s96-c?type=square",
+      "alt": "Tajin Ahmed"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/531/535/datas/profile.jpg",
+      "alt": "Zubaida Kadir"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/080/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/081/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/082/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/089/datas/original.png"
+    },
+    {
+      "text": "www.figma.com",
+      "url": "https://www.figma.com/proto/tC8uEI09eTEt2ilk7TaMfn/Technica2023?type=design&node-id=12-348&t=cXWSUyPuBIRl6FoM-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A348"
+    },
+    {
+      "text": "replit.com",
+      "url": "https://replit.com/@samihahtahsin/SustainaGoTT#README.md"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "SustainaGO | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up SustainaGO Sustainability on the go! Like 6 Comment 2 Story Updates Inspiration Our inspiration for SustainaGO was found when we realized there needs to be more conscious decisions to make when traveling as college students. Climate change is an important issue that many of the younger generation feel a strong desire to fix before it is past the point of no return. With this in mind, as we continue our adventures in life, we want others to be able to make environmentally sustainable decisions when touring different places within the states. What it does SustainaGO helps users connect with the environment around them especially when touring new cities during travel. Instead of suggesting tourist traps that gain mass traction leading to over-tourism, our app will suggest more national parks and small locally funded events that are eco-friendly and raise awareness. There is a community tab to help build countless connections with not only your community but with strangers from around the states who wish to gain more exposure to their town/city. Not only can users find new events from here, but they can also add them directly to their future itinerary when planning to visit the city in the near future. Another key feature of our app is the How we built it We used Figma to help prototype and envision the app's future potential. Challenges we ran into One of the challenges we had was coming up with an idea and narrowing it down to help a specific need. We also were a group of not only two new beginner members to the hackathon world that had much to learn and become accustomed to the environment here. Another challenge we faced was creating a code that would work with our Figma prototype. Accomplishments that we're proud of We were successfully able to create a complete Figma prototype outlining the entire app's look and design. We made sure the ideas in our prototype fit all user's needs when traveling to new cities or old ones. What we learned As a group, we were able to do a lot of research on the effects of climate change and over-tourism. The concept of over-tourism is quite new and is defined by World Tourism Organization as \"the impact of tourism on a destination, or parts thereof, that excessively influences perceived quality of life of citizens and/or quality of visitors experiences in a negative way.\" What's next for SustainaGO With the sample database we were working on, we want to implement more data analytics into the app to show more visualization and appeal to a greater audience. We also want to create more code that will work hand in hand with the prototype created. Built With databasefigma Try it out www.figma.com replit.com Submitted to Technica 2023 Winner Best UI/UX Hack Created by Zubaida Kadir Varsha Boochay Tajin Ahmed Samihah Tahsin Hi! My name is Samihah (sa-me-ha) and I am currently pursuing a BA in Computer Science. Like 6 6 people like this: Share this project: Updates Zubaida Kadir started this project — Oct 22, 2023 10:58 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

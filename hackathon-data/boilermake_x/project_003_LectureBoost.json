@@ -1,0 +1,133 @@
+{
+  "title": "LectureBoost",
+  "url": "https://devpost.com/software/lectureboost",
+  "description": "Devpost",
+  "technologies": [
+    "amazon-web-services",
+    "flask",
+    "javascript",
+    "python",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://boilermake-x.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/333/485/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars1.githubusercontent.com/u/53661230?height=180&v=4&width=180",
+      "alt": "kckang1103"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/54817476?height=180&v=4&width=180",
+      "alt": "Samuel Tarr"
+    },
+    {
+      "src": "https://avatars1.githubusercontent.com/u/53661240?height=180&v=4&width=180",
+      "alt": "twiegan Wiegand"
+    },
+    {
+      "src": "https://avatars1.githubusercontent.com/u/53661230?type=square&v=4",
+      "alt": "kckang1103"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/59679921?type=square&v=4",
+      "alt": "Anna Shen"
+    },
+    {
+      "src": "https://avatars1.githubusercontent.com/u/53661240?height=180&v=4&width=180",
+      "alt": "twiegan Wiegand"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/kckang1103/LectureProcessing"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "LectureBoost | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up LectureBoost LectureBoost provides a quick method to study for class by cutting out downtime and quiet moments during presentations, leaving you more time to learn. Like 2 Comment 1 Story Updates Inspiration The idea behind LectureBoost was inspired by finals at Purdue. One of the best methods to review all the concepts covered in a class is to rewatch lectures from early in the semester to refresh your memory. However, lectures (and sometimes lecturers) can be extremely slow. Without so much downtime in a lecture there would be more time to get in all the studying you need before your big exams. What it does LectureBoost provides 3 main functionalities: white space removal, audio transcription/subtitle creation, video text recognition/notes compilation. All functionalities are brought together in a webpage hosted on AWS. White space removal: Edits out the downtime from a video. This removes spaces in between sentences and cuts out long pauses. Subtitle creation: Subtitles are matched up with the frames of the lecture and integrated into the video. Audio transcription: Audio from the video is converted to text at 10 second intervals and added to a downloadable text file. Notes Compilation: Unique frames from the video are added to a downloadable pdf file. Video text recognition: Text from unique frames of the video is recorded and added to a downloadable text file. How we built it White space removal: Separating the audio (.wav) from a video (.mp4) allows us to analyze it byte by byte. After a 4-byte \"data\" tag, following bytes represent sound amplitudes. Converting these data bytes into decibels allows us to cut out all values below our threshold. Then, finding contiguous bytes below our decibel threshold allows us to determine ranges that will be cut out of the video. Audio analysis is done by hand and video trimming is done with the moviepy python library. Subtitle creation/Audio transcription: Uses speech recognition to aggregate text from speech every interval. Decode the video and add subtitles using the aggregated text and also create a transcription text data with time stamps to allow users to search through lectures. The speech recognition is done by SpeechRecognition python library. Notes Compilation/Video text recognition: Uses text recognition on frames that are captured through out the video. To avoid duplication, a pair of frames are compared using Mean Squared Error on pixel values and sequence matching on text scraped from the frames. The feature creates a pdf file that appends all the frames from the lecture that includes text. It also generates a text file with time stamps that matches with the slides. Webpage: The webpage is built with a Reactjs frontend web-application where we can take mp4 files and other user input about preferences. The frontend relies on the python-flask-driven backend which performs the desired operations on the given video file. The backend then stores the new video file in an AWS S3 bucket where it can be accessed by the user. Challenges we ran into Accomplishments that we're proud of What we learned What's next for LectureBoost Built With amazon-web-servicesflaskjavascriptpythonreact Try it out github.com Submitted to BoilerMake X Winner 2nd Place Prize Created by kckang1103 Samuel Tarr twiegan Wiegand Like 2 2 people like this: Share this project: Updates twiegan Wiegand started this project — Jan 22, 2023 05:53 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Pascal",
+  "url": "https://devpost.com/software/pascal-4oyhjw",
+  "description": "Devpost",
+  "technologies": [
+    "beautiful-soup",
+    "cloverly",
+    "django",
+    "django-rest",
+    "plaid",
+    "react",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/083/datas/gallery.jpg",
+      "alt": "Pascal – screenshot 1"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucqz3tNzyN45rQrCFIg0NDILr5xVZGXiZxkM4WslHw=s96-c?height=180&width=180",
+      "alt": "Ria Sharma"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/f4039dcf37558d9e6a10b8c4d2300cc9?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Eric Chen"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/13385547?height=180&v=4&width=180",
+      "alt": "Brandon Wang"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/672f976b44a02440dc6c6f74c1206155?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Sahitya Senapathy"
+    },
+    {
+      "src": "https://avatars0.githubusercontent.com/u/13385547?type=square&v=4",
+      "alt": "Brandon Wang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/AFdZucqz3tNzyN45rQrCFIg0NDILr5xVZGXiZxkM4WslHw=s96-c?type=square",
+      "alt": "Ria Sharma"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/f4039dcf37558d9e6a10b8c4d2300cc9?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "Eric Chen"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/f4039dcf37558d9e6a10b8c4d2300cc9?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Eric Chen"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/083/datas/original.png"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Pascal | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Pascal Pascal helps you become carbon neutral in 1-click. Like 3 Comment Story Updates Inspiration What if you could carbon-neutral with 1-click? With the abundance of carbon offsets and credits available in recent years, the potential for individuals and businesses to lower their carbon footprint to net-zero has never been higher. But the biggest hurdle for many is the commitment to measure and offset their emissions on a regular basis. What it does Pascal is a tool for you to offset your carbon emissions to net-zero in 1-click. Pascal works with three simple steps: Connect your bank account via Plaid Measure your carbon footprint Automatically offset your carbon emissions As new transactions come in, Pascal will update your carbon footprint and offsets accordingly. How we built it We take your daily transaction data and convert it to CO2e data. For example, converting a $30 Uber ride to kg CO2e* For non-public vendors or merchants, we apply ML models using scientifically determined benchmark factors After aggregating your carbon contribution, we’ll enable you to either a) purchase individual carbon offsets from a broad selection of offset providers, b) enroll in automatic payments to offset a set percentage of your carbon emissions, or c) view recommendations for lower carbon intensive products/services to substitute your top emitting merchants. *To compute CO2e data conversions, we utilize a variety of data sources including emissions disclosures and financial SEC filings. Challenges and Accomplishments A core challenge was automating the process of sourcing carbon offsets, which requires integrating with the APIs of several marketplaces. Another challenge was utilizing Plaid to integrate live with the user’s bank transaction data. What's next for Pascal In the future, we will launch Pascal by partnering with banks to integrate Pascal’s APIs and UI into enterprise and commercial banking applications (e.g. Chase Mobile App). Built With beautiful-soupcloverlydjangodjango-restplaidreacttypescript Submitted to PennApps XXIII: Sustainability Winner (PennApps Track) Sustainability Prize Created by Code Ria Sharma Eric Chen Brandon Wang Sahitya Senapathy Like 3 3 people like this: Share this project: Updates Eric Chen started this project — Sep 03, 2022 02:42 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,164 @@
+{
+  "title": "bioCianoX",
+  "url": "https://devpost.com/software/biocianox-wireless-health-monitor",
+  "description": "Devpost",
+  "technologies": [
+    "flask",
+    "kitone",
+    "micropython",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/868/datas/gallery.jpg",
+      "alt": "bioCianoX  – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/844/datas/gallery.jpg",
+      "alt": "bioCianoX  – screenshot 2"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/843/datas/gallery.jpg",
+      "alt": "bioCianoX  – screenshot 3"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/873/datas/gallery.jpg",
+      "alt": "bioCianoX  – screenshot 4"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/42875448?height=180&v=4&width=180",
+      "alt": "John Wall"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/119709832?height=180&v=4&width=180",
+      "alt": "Elizabeth Holland"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/161/946/datas/medium.jpg",
+      "alt": "Na Wang"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/42875448?type=square&v=4",
+      "alt": "John Wall"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/119709832?type=square&v=4",
+      "alt": "Elizabeth Holland"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/119709832?height=180&v=4&width=180",
+      "alt": "Elizabeth Holland"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/868/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/844/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/843/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/873/datas/original.jpg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/johnny-stevie/HackTheBurgh2024/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "bioCianoX | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up bioCianoX Your nana's health is an app and microcontroller away Like 3 Comment Story Updates The web app The temperature sensor and display The log in page Inspiration To allow patients to monitor their biometric data in a user-friendly way, whilst also allowing family and medical personnel to access that data in real-time to better react in medical emergencies, we developed the bioCianoX telehealth monitoring system. We were inspired by our grandparents' difficulties accessing medical assistance, and our worries when unable to monitor their health while away at university. What it does A wearable set of biometric sensors collect and send data to the bioCianoX web app, where it is processed and displayed in a dashboard. The patient and authorized users can view this data. In case the biometric data reaches critical levels, an emergency alert is sent to authorized users. All users have limited time to respond to the emergency alert, after which emergency services are contacted. How we built it The ESP8622 microcontroller is connected to a waterproof DS18B20-Compatible temperature sensor and a ECG sensor. The data they collect is continuously sent to the bioCianoX backend, where it is processed and then displayed in the frontend as a dashboard The patient and authorized users can view this data if they are logged in. In case the biometric data reaches critical levels, an emergency alert is sent to authorized users to their personal devices. All users have limited time to respond to the emergency alert, after which emergency services are contacted. Challenges we ran into Setting up the firmware for the brand new ESP8622 and also trying to acquire an ECG sensor during the hackathon. Setting up the network connection for the ESP8622 microcontroller. Accomplishments that we're proud of bioCianoX can monitor temperature, ECG and pulse rate. What we learned Kat: new microcontroller technology, wifi-enabled microcontrollers, how to use ECG and temperature sensors Johnny: how to install firmware for a microcontroller and interact with it What's next for bioCianoX wireless health monitor Building a more compact circuit and adding more biometric sensors to make the telehealth monitor more wearable Improved patient privacy and data security Built With flaskkitonemicropythonreact Try it out github.com Submitted to HackTheBurgh X Winner Best Use of Kintone Created by I worked on the front and backend of the web application. John Wall Elizabeth Holland I love electronics and their application in healthcare Like 3 3 people like this: Share this project: Updates Elizabeth Holland started this project — Mar 03, 2024 02:29 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

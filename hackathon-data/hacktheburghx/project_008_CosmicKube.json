@@ -1,0 +1,162 @@
+{
+  "title": "CosmicKube",
+  "url": "https://devpost.com/software/cosmickube",
+  "description": "Devpost",
+  "technologies": [
+    "docker",
+    "go",
+    "godot",
+    "jenkins",
+    "kubernetes",
+    "nginx",
+    "openai",
+    "postgresql",
+    "rust"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/794/062/datas/gallery.jpg",
+      "alt": "CosmicKube – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/58223099?height=180&v=4&width=180",
+      "alt": "Steph Flower"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/832/982/datas/profile.jpg",
+      "alt": "Leo Durrant"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/797/851/datas/profile.png",
+      "alt": "Danny Piper"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/42206116?height=180&v=4&width=180",
+      "alt": "Charlie Aylott"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/26047565?height=180&v=4&width=180",
+      "alt": "Charlotte Ausel"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/797/851/datas/medium.png",
+      "alt": "Danny Piper"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/119709832?type=square&v=4",
+      "alt": "Elizabeth Holland"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/58223099?height=180&v=4&width=180",
+      "alt": "Steph Flower"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/794/062/datas/original.png"
+    },
+    {
+      "text": "happy-ground-01a840003.4.azurestaticapps.net",
+      "url": "https://happy-ground-01a840003.4.azurestaticapps.net/"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/pilksoc/CosmicKube"
+    },
+    {
+      "text": "hack.djpiper28.co.uk",
+      "url": "https://hack.djpiper28.co.uk/cache/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "CosmicKube | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up CosmicKube Massively multiplayer, scaling game where you put together the building blocks of the universe! Like 2 Comment Story Updates Inspiration Conway's game of life, Infinite Crafter, and Agar.io and Club Penguin (all the classics) What it does An extensible, free-for-all sandbox playground, where players work together to build the universe! You are a player on a blank canvas. Work together with other players to create new blocks from existing ones. New discoveries are generated by ChatGPT, so the game can go on forever! How we built it With bloody, toil, sweat and tears. We wrote a Rust backend to talk to the Godot frontend over Websockets and used a Go caching server to reduce our already sizable OpenAI bill. The software is deployed on a self hosted Kubernetes cluster and uses a Postgres database for persistence. Nginx and Azure static web apps are used for load balancing and static serving. This has been built with extensibility in mind from the start. If the server runs out of memory we can start another cluster. All OpenAI requests (and DALL-e requests for textures) are cached, so that the more people play the game, the bigger it gets. This also allows for fast results, and a consistent gameplay experience. Challenges we ran into Danny had a typo in his API key. It took 3 hours to debug! We had to do some hacky fixes Accomplishments that we're proud of Performant architecture, ready to scale as new players join. A unique and creative gameplay loop. What we learned Netcode is hard :( Games are hard :( Everyone wants to rate limit us. What's next for CosmicKube Scale it to the moon. More Kubernetes!! Built With dockergogodotjenkinskubernetesnginxopenaipostgresqlrust Try it out happy-ground-01a840003.4.azurestaticapps.net github.com hack.djpiper28.co.uk Submitted to HackTheBurgh X Winner GameDev Co-Op Winner System Administration Mastery Created by I created the Rust Websocket code and worked on the server-side game logic. This was my first time writing a program of this scale in Rust! I am a frontend developer by trade so this was outside of my comfort zone but I found it super fun. I had to design systems for a deterministic game communications system where the server is truth. Charlotte is my debugging bestie I also drew the little main character fella Steph Flower worked on creating all the ci/cd pipelines (on GH actions and Jenkins) to automate deployment, as well architecting the netcode between the client and server. Leo Durrant expert at sleeping, and drinking tea Provisioned some Kubernetes, Postgres and Jenkins stuff on my server. made the AI caching server. made many typos. Danny Piper Software Engineer at Motorola Solutions; home-lab enjoyer; enjoys writing Go, C, C++, Python. HATES writing JS/TS. Charlie Aylott Charlotte Ausel Like 2 2 people like this: Share this project: Updates Steph Flower started this project — Mar 02, 2024 08:11 PM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

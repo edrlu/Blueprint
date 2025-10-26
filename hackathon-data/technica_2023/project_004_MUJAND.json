@@ -1,0 +1,131 @@
+{
+  "title": "MUJAND",
+  "url": "https://devpost.com/software/mujand",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "html",
+    "javascript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/602/188/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/628/661/datas/profile.jpeg",
+      "alt": "Alesia Isaraj"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLlHtNNDri5_Zjtfby38YAFSA3p23E51HJc2ShePzNTaK8=s96-c?height=180&width=180",
+      "alt": "Zineb jakib"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLO9qQrEt_523nz7rbwcB6bDWQ2zHIxSwW40u__INg749aU=s96-c?type=square",
+      "alt": "Merita Isaraj"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLlHtNNDri5_Zjtfby38YAFSA3p23E51HJc2ShePzNTaK8=s96-c?type=square",
+      "alt": "Zineb jakib"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/628/661/datas/medium.jpeg",
+      "alt": "Alesia Isaraj"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLlHtNNDri5_Zjtfby38YAFSA3p23E51HJc2ShePzNTaK8=s96-c?height=180&width=180",
+      "alt": "Zineb jakib"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "super-amazing-project.alesiaisaraj.repl.co",
+      "url": "https://super-amazing-project.alesiaisaraj.repl.co/index.html"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "MUJAND | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up MUJAND Have you ever noticed why you see the exact same artists every day? Well, a big reason is discrimination and we are here to inform you about it and give recognition to local artists! Like 3 Comment 2 Story Updates Inspiration We both bonded over our shared love of music and this was a passion project to give recognition to unknown and local artists. What it does MUJAND can be used for many things like entertainment etc but its most important use is to teach people about different cultures and music all over the world. How we built it We used CSS,HTML and Javascript. Challenges we ran into The most challenging by far was the website design and the CSS arose many difficulties especially with the placing but fortunately we were successful at the end. Accomplishments that we're proud of We are really proud to be able to complete this website within the time limit. What we learned We learnt many things like creating a random generator and an interactive map but most importantly we improved our time managing skills. What's next for MUJAND We want to add new interactive features and complete our artist list. Built With csshtmljavascript Try it out super-amazing-project.alesiaisaraj.repl.co Submitted to Technica 2023 Winner Best Beginner Hack (Middle & High School) Created by Our workload was evenly distributed and we both worked on the HTML and CSS Alesia Isaraj Zineb jakib Like 3 3 people like this: Share this project: Updates Zineb jakib started this project — Oct 22, 2023 11:12 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

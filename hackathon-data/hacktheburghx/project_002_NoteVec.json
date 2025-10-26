@@ -1,0 +1,145 @@
+{
+  "title": "NoteVec",
+  "url": "https://devpost.com/software/notevec",
+  "description": "Devpost",
+  "technologies": [
+    "amazon-web-services",
+    "d3.js",
+    "github",
+    "mongodb",
+    "nextjs",
+    "s3",
+    "shadcn",
+    "tailwind"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/849/datas/gallery.jpg",
+      "alt": "NoteVec – screenshot 1"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/130/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hacktheburghx.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/592/182/datas/profile.png",
+      "alt": "Caterina Mammola"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/38633386?height=180&v=4&width=180",
+      "alt": "tomas Maillo"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/79703080?height=180&v=4&width=180",
+      "alt": "nkdem"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/106029014?height=180&v=4&width=180",
+      "alt": "Khalid Belhadj"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKiDrI8Q2keeg6SArWSdSeBPZ_0wih-cqgkdYVSSs18zHjoiiM=s96-c?type=square",
+      "alt": "Chinmayi Naik"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/38633386?height=180&v=4&width=180",
+      "alt": "tomas Maillo"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/793/849/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/khalidbelhadj/htbx"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "NoteVec | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up NoteVec Community based & serverless solution to sharing Uni notes! Search through all of your peers' notes via vectorised search, drag-and-drop your files and contribute to the discussion by comments. Like 1 Comment Story Updates Home view Inspiration As students, we've come to notice a common practice of relying on consensus when it comes to learning. When we make our notes, we consult various sources—lecture slides, textbooks, past student notes, and even materials from other universities - to strengthen our understanding and ensure comprehensive coverage. However, a frequent challenge arises: cognitive overload. The sheer volume of resources, often in the form of hundreds of low-quality PDFs, becomes overwhelming. Sorting through these materials to find specific information can be a daunting task. The more data there is, the harder it gets to interpret. That's where we come in! NoteVec empowers all students to share their notes with their classmates. These notes are quickly searchable and allow for communication between users. With NoteVec, the more data your class submits, the easier it gets to interpret. What it does Share: Simplify note-sharing with an easy drag-and-drop experience to share notes and access notes with other classmates. Search: Use our lightning-fast, vectorized search feature to quickly locate the precise note you need within the database. Visualise: Gain a comprehensive understanding by visually exploring the entire knowledge base with our graph visualisation. Collaborate: Enhance your learning by providing feedback and engaging in discussions through comments on your classmates' notes. Even the most non-technical people will be able to share their notes online and benefit from other student's resources How we built it Our main goal was to build an amazing UI to ease user experience and ensure scalability from the get-go. Our front-end is built with modern technologies of NextJS combined with TailwindCSS, Shadcn and D3js. To ensure our scalability we opted for a serverless approach, MongoDB for main document metadata storing, AWS S3 for pdf blob storing and serverless function for thumbnail generation. Challenges we ran into Storing and retrieving pdfs is surprisingly difficult due to encoding formats that different browsers use. For example, Chromium supports different formats than other browser engines causing for unexpected downloads of pdfs. Really hard solve! Our topic graph is built using different technologies than the rest of the site (D3js with physics vs React) causing for difficult compatibility between functions and types. To remedy for this, we ensured that the data being fed to the graph would never change shape. ....and one of our teammates got food poisoning from dinner! What's next for NoteVec Add embedding by paragraph to allow for more precise search! User accounts and classes Built With amazon-web-servicesd3.jsgithubmongodbnextjss3shadcntailwind Try it out github.com Submitted to HackTheBurgh X Winner HackTheBurgh X Challenge Winner Best Use of Cloud Created by Caterina Mammola tomas Maillo nkdem Khalid Belhadj Like 1 1 person likes this: Share this project: Updates tomas Maillo started this project — Mar 03, 2024 04:54 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

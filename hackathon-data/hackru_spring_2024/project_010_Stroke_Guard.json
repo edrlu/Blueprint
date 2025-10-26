@@ -1,0 +1,135 @@
+{
+  "title": "Stroke Guard",
+  "url": "https://devpost.com/software/stroke-guard",
+  "description": "Devpost",
+  "technologies": [
+    "css3",
+    "django",
+    "html5",
+    "javascript",
+    "python",
+    "pytorch",
+    "websockets"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/20084368?height=180&v=4&width=180",
+      "alt": "Joel Kinny"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/129607782?height=180&v=4&width=180",
+      "alt": "K. Francis"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKncA4PrqoLCWXvZF9eUXXOBmTzqFCBbXizYA8_mxG9=s96-c?height=180&width=180",
+      "alt": "bilal siddiqi"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKSCiaSeq_P7a1Mi1TKsHxq3BtaQNBQUXdqWfRqn5k5=s96-c?height=180&width=180",
+      "alt": "ALIOUNE GYAMERA"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/20084368?type=square&v=4",
+      "alt": "Joel Kinny"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/20084368?height=180&v=4&width=180",
+      "alt": "Joel Kinny"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/joelkny97/StrokeGuard/tree/main/strokedetector"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Stroke Guard | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Stroke Guard “StrokeGuard: Detect Stroke Risk. Save Lives!” Every 40 seconds, someone in the United States has a stroke. Act now! 💙🧠 Like 1 Comment Story Updates Inspiration Stroke is a fatal medical emergency and has affected many people including people close to me over the past year. In the event of strokes, timely detection and immediate medical attention is critical in saving the person's life and any delay in detection can lead to permanent damage and could also lead to a fatality. The goal of stroke detection through video recognition of a person can help save a life in such events. What it does The application uses live video camera feed and does a prediction of the person in view of the video camera in event of a stroke and sends an email notification to persons/medical emergency response teams for immediate action. How we built it The web application was built using the Django framework and the prediction model uses a deep learning model that was trained using publicly available datasets. The prediction uses the trained model data to make predictions on the new live image data to give notification of the stroke prediction. Challenges we ran into The challenges we ran into was the integration of the frontend video data with the backend for the online prediction. The implementation of the deep learning model and appropriate data preprocessing was also a challenge. Accomplishments that we're proud of We were able to develop a web application that captures images online, and the offline prediction model that is able to predict the classification of stroke image What we learned Django, JavaScript, ResNet Deep Learning model, Python, HTML, CSS, jQuery What's next for Stroke Detector Built With css3djangohtml5javascriptpythonpytorchwebsockets Try it out github.com Submitted to HackRU Spring 2024 Winner RUSA Presents: Best Rutgers Hack Created by Joel Kinny K. Francis bilal siddiqi ALIOUNE GYAMERA Like 1 1 person likes this: Share this project: Updates Joel Kinny started this project — Mar 24, 2024 12:25 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,210 @@
+{
+  "title": "WaterView",
+  "url": "https://devpost.com/software/waterview",
+  "description": "Devpost",
+  "technologies": [
+    "earthengine",
+    "figma",
+    "gcp",
+    "google-maps",
+    "mongodb",
+    "python",
+    "react",
+    "tailwindcss",
+    "usgs",
+    "vertexai"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/784/datas/gallery.jpg",
+      "alt": "WaterView – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/937/datas/gallery.jpg",
+      "alt": "WaterView – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/017/datas/gallery.jpg",
+      "alt": "WaterView – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/057/datas/gallery.jpg",
+      "alt": "WaterView – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/064/datas/gallery.jpg",
+      "alt": "WaterView – screenshot 5"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/ACNPEu8Mdl_RuLqxNyCz92dOVhO-v0btHIxw-bc6y79DXYc=s96-c?height=180&width=180",
+      "alt": "Prateek Mishra"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/ACNPEu_7sOF47rGZr5AT5Rc-xoHzweIUR_Kpcmd5RhQF=s96-c?height=180&width=180",
+      "alt": "Gaurang Goel"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7XR09KWvXspGULP2gS0bbS_JxMIioJCt6pdi9H=s96-c?height=180&width=180",
+      "alt": "Matt H"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu3oMW0t-DXmBupvXyc3y8YepVgdrd5HZ1Yf9eX3=s96-c?height=180&width=180",
+      "alt": "Prakul Singh"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/85623826?type=square&v=4",
+      "alt": "Visho Oli"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/844/650/datas/medium.png",
+      "alt": "Muhammad Hunain Khurram"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a-/ACNPEu8Mdl_RuLqxNyCz92dOVhO-v0btHIxw-bc6y79DXYc=s96-c?type=square",
+      "alt": "Prateek Mishra"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/439/866/datas/medium.jpg",
+      "alt": "Nicholas Zolton"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/867/406/datas/medium.jpeg",
+      "alt": "Timothy Naumov"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7XR09KWvXspGULP2gS0bbS_JxMIioJCt6pdi9H=s96-c?type=square",
+      "alt": "Matt H"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/988/592/datas/medium.jpg",
+      "alt": "Saige Moon Bock"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/4e7e0464356dd57d70a9cb714aed5600?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "Meeta S"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu3oMW0t-DXmBupvXyc3y8YepVgdrd5HZ1Yf9eX3=s96-c?type=square",
+      "alt": "Prakul Singh"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu3oMW0t-DXmBupvXyc3y8YepVgdrd5HZ1Yf9eX3=s96-c?height=180&width=180",
+      "alt": "Prakul Singh"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/784/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/937/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/017/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/057/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/064/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/jhinericusername/waterview"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "WaterView | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up WaterView The comprehensive water quality tool to visualize, track, and predict water quality levels around the world, leveraging machine learning and round-the-clock massive API integration. Like 9 Comment Story Updates Example AR Water Event/Metric Report Front-end/React App for Web Users High-level Diagram of Tech Stack Map Interface for Web Users GCP Project API Usage Inspiration 🐳 The inception of our platform was fueled by the growing water crises and the lack of accessible, real-time data on water quality. We recognized the urgent need for a tool that could offer immediate insights and predictive analyses on water quality. We aimed to bridge the gap between complex data and actionable insights, ensuring that every individual, community, and authority is equipped with precise information to make informed decisions. What it does❓ Our platform offers a dual solution of real-time water quality tracking and predictive analytics. It integrates data from 11 diverse sources, offering live, metric-based water quality indices. The predictive model, trained on a rich dataset of over 18,000 points, including 400 events, delivers 99.7% accurate predictions of water quality influenced by various parameters and events. Users can visualize these insights through intuitive heat maps and graphs, making the data accessible and actionable for a range of stakeholders, from concerned individuals and communities to governments and engineers. We also developed an AR experience that allows users to interact with and visualize real time data points that the application provides, in addition to heat map layering to demonstrate the effectiveness and strength of the model. How we built it 🛠️ We harnessed the power of big data analytics and machine learning to construct our robust platform. The real-time tracking feature consolidates data from 11 different APIs, databases, and datasets, utilizing advanced algorithms to generate live water quality indices. The predictive model is a masterpiece of regression analysis, trained on a dataset enriched with 18,000 data points on >400 events, webscraped from three distinct big data sources. Our technology stack is scalable and versatile, ensuring accurate predictions and visualizations that empower users to monitor, plan, and act upon water quality data effectively. Challenges we ran into 😣 Collecting and consolidating a large enough dataset from numerous sources to attain unbiased information, finding sufficiently detailed 3D models, vectorizing the 1000s of text-based data points into meaningful vectors, hyperparameter optimization of the model to reduce errors to negligible amounts (1x10^-6 margin of error for values 1-10), and using the model's predictions and mathematical calculations to interpolate heat maps to accurately represent and visualize the data. Accomplishments that we're proud of 🔥 A 99.7% accurate model that was self-trained on >18000 data points that we consolidated! Finding/scraping/consolidating data from turbidity indices & pH levels to social gatherings & future infrastructure projects! Providing intuitive, easily-understood visualizations of incredibly large and complex data sets! Using numerous GCP services ranging from compute, ML, satellite datasets, and more! What we learned 🤔 Blender, data sourcing, model optimization, and error handling were indubitably the greatest learning experiences for us over the course of these 36 hours! Built With earthenginefigmagcpgoogle-mapsmongodbpythonreacttailwindcssusgsvertexai Try it out github.com Submitted to HackHarvard 2023 Winner Earth and Space Prize Created by Worked on the backend, including data collection, processing, model training, vectorizing and heatmap generation Prateek Mishra Gaurang Goel Matt H Prakul Singh Like 9 9 people like this: Share this project: Updates Prakul Singh started this project — Oct 22, 2023 07:31 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

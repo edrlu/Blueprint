@@ -1,0 +1,129 @@
+{
+  "title": "Soteria",
+  "url": "https://devpost.com/software/soteria-1kp9s7",
+  "description": "Devpost",
+  "technologies": [
+    "nextjs",
+    "node.js",
+    "react",
+    "twilio"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hacknyu-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/961/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/58794797?height=180&v=4&width=180",
+      "alt": "Ali Shehbaz"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/68489799?height=180&v=4&width=180",
+      "alt": "Shizhan Li"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/53324229?height=180&v=4&width=180",
+      "alt": "Qianxi Chen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/68489799?type=square&v=4",
+      "alt": "Shizhan Li"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/58794797?height=180&v=4&width=180",
+      "alt": "Ali Shehbaz"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/qianxichen233/hacknyu-2023"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Soteria | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Soteria Soteria is a platform that allows hackers to search for hackathons based on the availability of inexpensive flights, not just in US, but all over the world. Like 1 Comment Story Updates Inspiration As a big hackathon fan who always wants to attend hackathons on the west coast and midwest, even though I live on the east coast, I have always found it difficult to book flights, pick the right prices, and wait for the prices to go lower and this process is especially difficult when there are MULTIPLE hackathons happening at the same time. Now you don't have to worry about this problem because we have Soteria. What it does Soteria lets you find hackathons and aggregates the information based on the inexpensive flights present. It presents you with the information in a very non-overwhelming manner! How we built it We built this with 100% dedication and no sleep (I know not good :/ ). Okay, now the technical part, we used NodeJS backend with ReactJS (NextJS) front end. We scrapped the data from MLH's events API to get the hackathon data. We had to use several other APIs just to piece together the flight price info. Challenges we ran into There are no proper flight prices-related APIs since google flights were shut down. The data we had to use is not easily available and since we wanted to keep everything live, we decided to use multiple APIs to get our work done Accomplishments that we're proud of We are proud of submitting the project on time and completing everything in less than 21 hours. while attending several workshops. What we learned We learned a lot next js while working on the project, we also learned about blockchain while trying to implement a reward system. What's next for Soteria Turn this into a one-stop hacker shop. Built With nextjsnode.jsreacttwilio Try it out github.com Submitted to HackNYU 2023 Winner Track: Inclusion Winner Best NYU Student Hack Created by Ali Shehbaz Shizhan Li Qianxi Chen Like 1 1 person likes this: Share this project: Updates Ali Shehbaz started this project — Feb 19, 2023 08:54 AM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

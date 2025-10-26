@@ -1,0 +1,216 @@
+{
+  "title": "Devil's Advocate",
+  "url": "https://devpost.com/software/devil-s-advocate",
+  "description": "Devpost",
+  "technologies": [
+    "fxml",
+    "java",
+    "javascript",
+    "scenebuilder"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/343/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 1"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/342/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 2"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/344/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 3"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/349/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 4"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/350/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 5"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/351/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 6"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/352/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 7"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/363/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 8"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/365/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 9"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/369/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 10"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/372/datas/gallery.jpg",
+      "alt": "Devil's Advocate – screenshot 11"
+    },
+    {
+      "src": "https://pennapps-xxiii.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/100249882?height=180&v=4&width=180",
+      "alt": "Jee Won Choi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/69886690?height=180&v=4&width=180",
+      "alt": "Nishant Wangneo"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/55508527?height=180&v=4&width=180",
+      "alt": "Kyndall Payton"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/100249882?type=square&v=4",
+      "alt": "Jee Won Choi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/69886690?height=180&v=4&width=180",
+      "alt": "Nishant Wangneo"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/343/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/342/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/344/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/349/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/350/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/351/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/352/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/363/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/365/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/369/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/210/372/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/nishatduke/devil"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Devil's Advocate | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Devil's Advocate In this game, you are new servant for Satan appointed to Hell's FinTech department: Dante's Bitferno. Your assignment is to build a blockchain that makes using the cryptocurrency easy and reliable. Like 1 Comment Story Updates Unused Sprite - Angry Satan Unused Sprite - Happy Pointing Satan Unused Sprite - Annoyed Satan Fashion Shop Grocery Shop Demon Shop Pet Shop Title page Ending page High-fidelity wireframe Unused sprite-hacker Inspiration We are a group of friends who are interested in cryptography and Bitcoin in general but did not have a great understanding. However, attending Sonr's panel gave us a lot of inspiration because they made the subject more digestible and easier to understand. We also wanted to do something similar but add a more personal touch by making an educational game on cryptography. Fun fact: the game is set in hell because our initial calculations yielded that we can buy approximately 6666 bananas ($3) with one bitcoin! What it does Devil's Advocate explains cryptography and Bitcoin, both complicated topics, in a fun and approachable way. And what says fun like games? The player is hired as Satan's advocate at her company Dante’s Bitferno, trying to run errands for her using bitcoins. During their journey, they face multiple challenges that also apply to bitcoins in real life and learn all about how blockchains work! How we built it We built by using JavaFX as the main groundwork for our application and had initially planned to embed it into a website using Velo by Wix but decided to focus our efforts on the game itself using JavaFX, HTML, and CSS. The main IDE we used was Intellij with git version control integration to make teamwork much easier and more efficient. Challenges we ran into Having to catch a flight from Durham right after our classes, we missed the opening ceremony and started later than most other teams. However, we were quickly able to catch up by setting a time limit for most things, especially brainstorming. Only one of our members knew how to use JavaFX, despite it being the main groundwork for our project. Luckily other members were able to pick it up fairly quickly and were able to move on to a divide and conquer strategy. Accomplishments that we're proud of We are most impressed by what we taught ourselves how to do in a day. For instance, some of our members learned how to use JavaFX others how to use various design software for UX/UI and graphic design. We are also proud of how the artwork turned out, considering that all of them were drawn by hand using Procreate. What we learned While learned a lot of things in such a short amount of time, it definitely took us the most time to learn how to use JavaFX to design fluent gameplay by integrating various elements such as text or images. We also had to research on cryptography to make sure that our knowledge on the subject was correct, considering that we are making an educational game. What's next for Devil's Advocate We plan to continue building more levels beyond the first level and offer explanations on other characteristics of blockchain, such as how it is decentralized, has smart contract, or utilizes a consensus algorithm. We also want to add more sprites to Satan to make her feel more expressive and provide a richer gameplay experience to users. Built With fxmljavajavascriptscenebuilder Try it out github.com Submitted to PennApps XXIII: Sustainability Winner (PennApps Track) Beginner Prize Created by General UX/UI Design, Graphic + Character Design, Story-writing Jee Won Choi Nishant Wangneo Kyndall Payton Like 1 1 person likes this: Share this project: Updates Nishant Wangneo started this project — Sep 03, 2022 04:10 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

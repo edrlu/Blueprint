@@ -1,0 +1,220 @@
+{
+  "title": "TeachXR",
+  "url": "https://devpost.com/software/teachxr",
+  "description": "Devpost",
+  "technologies": [
+    "cartesia",
+    "deepgram",
+    "gemini",
+    "javascript",
+    "mediapipe",
+    "ocr",
+    "react",
+    "singlestore",
+    "tailwind",
+    "vapi",
+    "xr"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/419/datas/gallery.jpg",
+      "alt": "TeachXR – screenshot 1"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/136/119/datas/gallery.jpg",
+      "alt": "TeachXR – screenshot 2"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/136/121/datas/gallery.jpg",
+      "alt": "TeachXR – screenshot 3"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/083/836/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/90380300?height=180&v=4&width=180",
+      "alt": "Duc Vu"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/52059467?height=180&v=4&width=180",
+      "alt": "Lam Pham"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/8723281?height=180&v=4&width=180",
+      "alt": "Vuong Ho"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/99789863?height=180&v=4&width=180",
+      "alt": "Hoang Le"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/275/895/datas/medium.png",
+      "alt": "Hung Hoang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLwjJtAyPNohZs_mqqK1ORtEl5d7zOgBbHO6-uoFq2Ng9hWAQ=s96-c?type=square",
+      "alt": "Mai Hong Nguyen"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/52059467?type=square&v=4",
+      "alt": "Lam Pham"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/252/760/datas/medium.jpg",
+      "alt": "Vishal Mehta"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/664/095/datas/medium.JPG",
+      "alt": "Enkhbold Ganbold"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/90380300?type=square&v=4",
+      "alt": "Duc Vu"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/8723281?type=square&v=4",
+      "alt": "Vuong Ho"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/99789863?type=square&v=4",
+      "alt": "Hoang Le"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKxI-0gd2rM4NOFiqta8lso899n67EOWw8t4yXPC6WB67MkhQ=s96-c?type=square",
+      "alt": "Vu Si Thang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocKhFyxh9ukCt5uTSJogEEgAauLE8kmRYYqcgs5mrh1K8ogJzG4a=s96-c?type=square",
+      "alt": "Thùy Linh Nguyễn"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/8723281?height=180&v=4&width=180",
+      "alt": "Vuong Ho"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/087/419/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/136/119/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/136/121/datas/original.jpg"
+    },
+    {
+      "text": "Research 1",
+      "url": "https://data.worldbank.org/indicator/SE.PRM.ENRL.TC.ZS"
+    },
+    {
+      "text": "Research 2",
+      "url": "https://read.oecd-ilibrary.org/education/education-at-a-glance-2023_e13bef63-en#page11"
+    },
+    {
+      "text": "Research 3",
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/much-more-than-just-shyness-the-impact-of-social-anxiety-disorder-on-educational-performance-across-the-lifespan/1E0D728FDAF1049CDD77721EB84A8724"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/VietRocHack/TeachXR-frontend/"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/VietRocHack/TeachXR-backend-dataflow"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/VietRocHack/TeachXR-backend-gesture"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "TeachXR | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up TeachXR World's First AI Study Assistant in Extended Reality Like 10 Comment 1 Story Updates Home Page Sample use cases Inspiration Across the globe, a critical shortage of qualified teachers poses a significant challenge to education. The average student-to-teacher ratio in primary schools worldwide stands at an alarming 23:1! In some regions of Africa, this ratio skyrockets to an astonishing 40:1. Research 1 and Research 2 As populations continue to explode, the demand for quality education has never been higher, yet the supply of capable teachers is dwindling. This results in students receiving neither the attention nor the personalized support they desperately need from their educators. Moreover, a staggering 20% of students experience social anxiety when seeking help from their teachers. This anxiety can severely hinder their educational performance and overall learning experience. Research 3 While many educational platforms leverage generative AI to offer personalized support, we envision something even more revolutionary. Introducing TeachXR—a fully voiced, interactive, and hyper-personalized AI teacher that allows students to engage just like they would with a real educator, all within the immersive realm of extended reality. Imagine a world where every student has access to a dedicated tutor who can cater to their unique learning styles and needs. With TeachXR, we can transform education, making personalized learning accessible to all. Join us on this journey to revolutionize education and bridge the gap in teacher shortages! What it does Introducing TeachVR: Your Interactive XR Study Assistant TeachVR is not just a simple voice-activated Q&A AI; it’s a fully interactive extended reality study assistant designed to enhance your learning experience. Here’s what it can do: Intuitive Interaction: Use natural hand gestures to circle the part of a textbook page that confuses you. Focused Questions: Ask specific questions about the selected text for summaries, explanations, or elaborations. Human-like Engagement: Interact with TeachVR just like you would with a real person, enjoying milliseconds response times and a human voice powered by Vapi.ai. Multimodal Learning: Visualize the concepts you’re asking about, aiding in deeper understanding. Personalized and Private: All interactions are tailored to your unique learning style and remain completely confidential. How to Ask Questions: Circle the Text: Point your finger and circle the paragraph you want to inquire about. OK Gesture: Use the OK gesture to crop the image and submit your question. TeachVR's Capabilities: Summarization: Gain a clear understanding of the paragraph's meaning. TeachVR captures both book pages to provide context. Examples: Receive relevant examples related to the paragraph. Visualization: When applicable, TeachVR can present a visual representation of the concepts discussed. Unlimited Queries: Feel free to ask anything! If it’s something your teacher can answer, TeachVR can too! Interactive and Dynamic: TeachVR operates just like a human. You can even interrupt the AI if you feel it’s not addressing your needs effectively! How we built it TeachXR: A Technological Innovation in Education TeachXR is the culmination of advanced technologies, built on a microservice architecture. Each component focuses on delivering essential functionalities: 1. Gesture Detection and Image Cropping We have developed and fine-tuned a hand gesture detection system that reliably identifies gestures for cropping based on MediaPipe gesture detection. Additionally, we created a custom bounding box cropping algorithm to ensure that the desired paragraphs are accurately cropped by users for further Q&A. 2. OCR (Word Detection) Utilizing Google AI OCR service, we efficiently detect words within the cropped paragraphs, ensuring speed, accuracy, and stability. Given our priority on latency—especially when simulating interactions like pointing at a book—this approach aligns perfectly with our objectives. 3. Real-time Data Orchestration Our goal is to replicate the natural interaction between a student and a teacher as closely as possible. As mentioned, latency is critical. To facilitate the transfer of image and text data, as well as real-time streaming from the OCR service to the voiced assistant, we built a robust data flow system using the SingleStore database. Its powerful real-time data processing and lightning-fast queries enable us to achieve sub-1-second cropping and assistant understanding for prompt question-and-answer interactions. 4. Voiced Assistant To ensure a natural interaction between students and TeachXR, we leverage Vapi, a natural voice interaction orchestration service that enhances our feature development. By using DeepGram for transcription, Google Gemini 1.5 flash model as the AI “brain,” and Cartesia for a natural voice, we provide a unique and interactive experience with your virtual teacher—all within TeachXR. Challenges we ran into Challenges in Developing TeachXR Building the architecture to keep the user-cropped image in sync with the chat on the frontend posed a significant challenge. Due to the limitations of the Meta Quest 3, we had to run local gesture detection directly on the headset and stream the detected image to another microservice hosted in the cloud. This required us to carefully adjust the size and details of the images while deploying a hybrid model of microservices. Ultimately, we successfully navigated these challenges. Another difficulty was tuning our voiced assistant. The venue we were working in was quite loud, making background noise inevitable. We had to fine-tune several settings to ensure our assistant provided a smooth and natural interaction experience. Accomplishments that we're proud of Achievements We are proud to present a complete and functional MVP! The cropped image and all related processes occur in under 1 second, significantly enhancing the natural interaction between the student and TeachVR. What we learned Developing a Great AI Application We successfully transformed a solid idea into reality by utilizing the right tools and technologies. There are many excellent pre-built solutions available, such as Vapi, which has been invaluable in helping us implement a voice interface. It provides a user-friendly and intuitive experience, complete with numerous settings and plug-and-play options for transcription, models, and voice solutions. What's next for TeachXR We’re excited to think of the future of TeachXR holds even greater innovations! we’ll be considering*adaptive learning algorithms* that tailor content in real-time based on each student’s progress and engagement. Additionally, we will work on integrating multi-language support to ensure that students from diverse backgrounds can benefit from personalized education. With these enhancements, TeachXR will not only bridge the teacher shortage gap but also empower every student to thrive, no matter where they are in the world! Built With cartesiadeepgramgeminijavascriptmediapipeocrreactsinglestoretailwindvapixr Try it out github.com github.com github.com Submitted to Cal Hacks 11.0 Winner Cal Hacks: Hackers' Choice Winner Vapi: Show us your Voice AI Created by Duc Vu Lam Pham Fullstack Developer Vuong Ho #VietRocHack Hoang Le Like 10 10 people like this: Share this project: Updates Vuong Ho started this project — Oct 20, 2024 01:12 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

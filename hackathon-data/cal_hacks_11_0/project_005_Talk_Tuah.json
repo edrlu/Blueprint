@@ -1,0 +1,180 @@
+{
+  "title": "Talk Tuah",
+  "url": "https://devpost.com/software/talk-tuah",
+  "description": "Devpost",
+  "technologies": [
+    "ar",
+    "arduino",
+    "c",
+    "deepgram",
+    "flask",
+    "hume",
+    "javascript",
+    "ngrok",
+    "python",
+    "raspberry-pi",
+    "react-native"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/083/836/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/331/652/datas/profile.png",
+      "alt": "Steven Mu"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/092/033/datas/profile.jpeg",
+      "alt": "Alex Wang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AAcHTtedL5IHjuAa75YI1ZuFNh7Wq_beJMvbjZFTzJFw8boLkw=s96-c?height=180&width=180",
+      "alt": "Rick Liu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLh2_Hm--qBcerYBHBTvyqmV5z2d7DPT_dEUimYz8OmdZreKQ=s96-c?height=180&width=180",
+      "alt": "Karthik Unnikrishnan"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocIGV6bhBmlMw_opsnTJnjTynLQHqPeC1gzhS3eexRAQ9bovODnALw=s96-c?type=square",
+      "alt": "Zachary McKay"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJ6OEQ7sfp2V9-E4YGlq0gdKzBCb2BawX_L-92tR880lAu9rTUksg=s96-c?type=square",
+      "alt": "Sebastian Silva"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/028/880/datas/medium.JPG",
+      "alt": "Sanjay Ramesh"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/092/033/datas/medium.jpeg",
+      "alt": "Alex Wang"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/331/652/datas/medium.png",
+      "alt": "Steven Mu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AAcHTtedL5IHjuAa75YI1ZuFNh7Wq_beJMvbjZFTzJFw8boLkw=s96-c?type=square",
+      "alt": "Rick Liu"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/664/095/datas/medium.JPG",
+      "alt": "Enkhbold Ganbold"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/105874877?type=square&v=4",
+      "alt": "Priyansh Shah"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111680940?type=square&v=4",
+      "alt": "Yong Thu La Wong"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/735/169/datas/medium.jpg",
+      "alt": "Kevin Wu"
+    },
+    {
+      "src": "https://cal-hacks-11-0.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/092/033/datas/profile.jpeg",
+      "alt": "Alex Wang"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/steven-mu12/talk-tuah/tree/main"
+    },
+    {
+      "text": "www.figma.com",
+      "url": "https://www.figma.com/design/JkaK6eYw329qaWfgYo9nFC/TalkTuah?node-id=14-123&t=oDez8OD6kFvl9xpN-1"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Talk Tuah | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Talk Tuah Ever struggled in social settings? Not knowing what to say next? Meet Talk Tuah, AR glasses with a built in AI chatbot trained in social etiquette, as long as a mobile app to review transcripts. Like 11 Comment 2 Story Updates Inspiration This idea came from one of our team members (who will remain unnamed) who struggles with talking to women. We wanted to build this product to help people who are introverts or socially awkward be able to find easy and positive responses to any conversation I person might face. What it does The AR glasses are built with a camera and microphone to capture the facial expressions and voice of anybody speaking to the user. Using an advanced algorithm our AI chatbot is able to determine the mood of the speaker based on audio and visual cues. This response is then transmitted back through an OLED display in the glasses and provides a response to which the user can say. All these interactions, including name, hobbies, likes, dislikes etc. are also stored in a server to train the AI in future conversations. Transcripts are stored in a separate mobile app which users can access to look back on previous conversations How we built it We used an openAI API to build and train our chatbot to determine the most socially responsible and positive response based on an input. We also used the Deepgram API to convert speech to text and determine the mood behind a secondary person's input. The mobile app was built using React Native and built the glasses using self bought parts. Challenges we ran into One major challenge we ran into was setting up the server to store personal data, of both the user and their chatters. We struggled to develop a secure inter-device connection between the data storage and the mobile app as speech data needed to be uploaded. We found a solution by using ngrok to allow the mobile device to connect. Accomplishments that we're proud of Our team is most proud of our implementation of the mobile app. We truly believe that the app was the perfect way to tie our product in and make it more accessible for people by allowing customization and including custom prompts. What we learned Many of us learned how to code in a language we didn't feel confident in or knew at all. This was a great learning experience that we all believe will carry us through our desired career paths and positions. What's next for Talk Tuah Creating a customizable chatbot brings a lot of creativity and opportunities for growth. We believe there are ample opportunities to apply this outside of simple day to day conversations, whether that is teachers determining what units their students are struggling on based vocal and facial expressions, to how to craft a speech on the fly based on your audience's response to certain topics/statements. Built With ararduinocdeepgramflaskhumejavascriptngrokpythonraspberry-pireact-native Try it out github.com www.figma.com Submitted to Cal Hacks 11.0 Winner Cal Hacks: Best Beginner Hack Winner Deepgram: Deepgram Voice Agent Quest Created by Hi, I’m Steven. I worked on the hardware and the corresponding firmware (C). Mostly worked with getting audio and video capture + the scripts everyone else wrote to run concurrently to achieve next to zero latency, from speech to response to display on the AR glasses, on a custom OS. Also designed the circuitry and physical hardware of the glasses Steven Mu Hi I’m Alex! I worked on training and prompting our AI chatbot (GPT-4) with conversational intelligence and various mood settings, which is determined using our advanced algorithmic reasoning around what we call the “sensibility score”. I also ensured our chatbot would have access to our custom built server stored with general information about the user and people in contact to create realistic and meaningful responses. Alex Wang he/him Hey I'm Rick! I was the dev for the mobile configuration app that takes in user info including personal details, a live voice recording, and conversation emotions. I also helped build the Flask backend with Karthik to conduct config file transfers in order to be used in post-processing for RAG. Check out the figma I made for the mobile app designs in our devpost! Rick Liu Hey I'm Karthik, I worked on integrating Deepgram to transcribe real-time conversations, Hume AI to detect emotions from facial expressions, and SpeechBrain with PyTorch to recognize user voices from sample audio. I also collaborated with Rick to develop our Flask backend for receiving user configurations from the mobile app Karthik Unnikrishnan Like 11 11 people like this: + 1 more Share this project: Updates Alex Wang started this project — Oct 20, 2024 12:53 PM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

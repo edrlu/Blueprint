@@ -1,0 +1,105 @@
+# ========================================
+# SECURITY - API KEYS AND SECRETS
+# ========================================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+*.env
+.env.*
+
+# Python config with keys
+api/config/settings.py
+config/settings.py
+
+# Backup files that might contain keys
+*.bak
+*.backup
+*.old
+
+# ========================================
+# PYTHON
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# ========================================
+# NODE / FRONTEND
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.next/
+out/
+.cache/
+.parcel-cache/
+
+# ========================================
+# IDE / EDITORS
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ========================================
+# OS
+# ========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ========================================
+# GENERATED DATA / OUTPUT
+# ========================================
+idea_generation_*/
+*_data_*/
+fraud_report_*.txt
+*.txt
+!requirements.txt
+
+# ========================================
+# LOGS
+# ========================================
+*.log
+logs/
+log/
+
+# ========================================
+# TEMPORARY FILES
+# ========================================
+tmp/
+temp/
+*.tmp
+*.temp

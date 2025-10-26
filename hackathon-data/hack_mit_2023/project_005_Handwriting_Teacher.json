@@ -1,0 +1,172 @@
+{
+  "title": "Handwriting Teacher",
+  "url": "https://devpost.com/software/handwriting-teacher",
+  "description": "Devpost",
+  "technologies": [
+    "chat-gpt",
+    "css",
+    "easyocr",
+    "flask",
+    "html5",
+    "javascript",
+    "p5.js",
+    "python"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/593/718/datas/gallery.jpg",
+      "alt": "Handwriting Teacher – screenshot 1"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/593/719/datas/gallery.jpg",
+      "alt": "Handwriting Teacher – screenshot 2"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/116/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/87266203?height=180&v=4&width=180",
+      "alt": "Hannah Park-Kaufmann"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/61572668?height=180&v=4&width=180",
+      "alt": "David Tejuosho"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/70046595?height=180&v=4&width=180",
+      "alt": "Arti Schmidt"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/v2/C4E03AQEhcdv8E6Q8LQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640996932288?e=1753920000&height=180&t=TrDJKmH-ZeB8DMvPf-wJowKe3juQ-k0UzKQ0RvfYwPk&v=beta&width=180",
+      "alt": "Elliot Harris"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLzvQFAK0rwCwo_VDKEYunz7VX-CjkMlF1B1HxCKXtVBM8x=s96-c?type=square",
+      "alt": "Achyuth S.S."
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/70046595?type=square&v=4",
+      "alt": "Arti Schmidt"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/v2/C4E03AQEhcdv8E6Q8LQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640996932288?e=1753920000&t=TrDJKmH-ZeB8DMvPf-wJowKe3juQ-k0UzKQ0RvfYwPk&type=square&v=beta",
+      "alt": "Elliot Harris"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/61572668?type=square&v=4",
+      "alt": "David Tejuosho"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-32-b1904d87f9b96daac9211badffd5f60d8f9a7b4715feb9b5e5e641bcf714733b.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/v2/C4E03AQEhcdv8E6Q8LQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640996932288?e=1753920000&height=180&t=TrDJKmH-ZeB8DMvPf-wJowKe3juQ-k0UzKQ0RvfYwPk&v=beta&width=180",
+      "alt": "Elliot Harris"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/70046595?height=180&v=4&width=180",
+      "alt": "Arti Schmidt"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/593/718/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/593/719/datas/original.jpg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/arcturus3/handwriting-teacher"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Handwriting Teacher | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Handwriting Teacher Refine your handwriting with AI Like 5 Comment Story Updates 1 Input in process on a fresh journey for learning! Well on our way to legible handwriting! Inspiration We are part of a generation that has lost the art of handwriting. Because of the clarity and ease of typing, many people struggle with clear shorthand. Whether you're a second language learner or public education failed you, we wanted to come up with an intelligent system for efficiently improving your writing. What it does We use an LLM to generate sample phrases, sentences, or character strings that target letters you're struggling with. You can input the writing as a photo or directly on the webpage. We then use OCR to parse, score, and give you feedback towards the ultimate goal of character mastery! How we built it We used a simple front end utilizing flexbox layouts, the p5.js library for canvas writing, and simple javascript for logic and UI updates. On the backend, we hosted and developed an API with Flask, allowing us to receive responses from API calls to state-of-the-art OCR, and the newest Chat GPT model. We can also manage user scores with Pythonic logic-based sequence alignment algorithms. Challenges we ran into We really struggled with our concept, tweaking it and revising it until the last minute! However, we believe this hard work really paid off in the elegance and clarity of our web app, UI, and overall concept. ..also sleep 🥲 Accomplishments that we're proud of We're really proud of our text recognition and matching. These intelligent systems were not easy to use or customize! We also think we found a creative use for the latest chat-GPT model to flex its utility in its phrase generation for targeted learning. Most importantly though, we are immensely proud of our teamwork, and how everyone contributed pieces to the idea and to the final project. What we learned 3 of us have never been to a hackathon before! 3 of us never used Flask before! All of us have never worked together before! From working with an entirely new team to utilizing specific frameworks, we learned A TON.... and also, just how much caffeine is too much (hint: NEVER). What's Next for Handwriting Teacher Handwriting Teacher was originally meant to teach Russian cursive, a much more difficult writing system. (If you don't believe us, look at some pictures online) Taking a smart and simple pipeline like this and updating the backend intelligence allows our app to incorporate cursive, other languages, and stylistic aesthetics. Further, we would be thrilled to implement a user authentication system and a database, allowing people to save their work, gamify their learning a little more, and feel a more extended sense of progress. Built With chat-gptcsseasyocrflaskhtml5javascriptp5.jspython Try it out github.com Submitted to HackMIT 2023 Winner Education Track Winner Created by Hannah Park-Kaufmann David Tejuosho Arti Schmidt Elliot Harris Like 5 5 people like this: Share this project: Updates Elliot Harris posted an update — Sep 18, 2023 11:18 PM EDT Handwriting Teacher took first place in the education track at HackMIT! More will come as we expand and turn this product from a 'hacky' demo to a more useful prototype. Log in or sign up for Devpost to join the conversation. Arti Schmidt started this project — Sep 17, 2023 10:54 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

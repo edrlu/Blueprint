@@ -1,0 +1,135 @@
+{
+  "title": "Immersive Firefighter Performance Review (VR + SLAM)",
+  "url": "https://devpost.com/software/firefighter-slam",
+  "description": "Devpost",
+  "technologies": [
+    "ar",
+    "c#",
+    "colmap",
+    "matlab",
+    "unity",
+    "vr"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/976/datas/gallery.jpg",
+      "alt": "Immersive Firefighter Performance Review (VR + SLAM) – screenshot 1"
+    },
+    {
+      "src": "https://hackprinceton-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111530419?height=180&v=4&width=180",
+      "alt": "Dylan Shukla"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu1ajLlRoCv25-YYtfX0i3HEtv7c579KbBCVJayg=s96-c?height=180&width=180",
+      "alt": "Pranav Wagh"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/10949560?type=square&v=3",
+      "alt": "Dhruv Gramopadhye"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111530419?height=180&v=4&width=180",
+      "alt": "Dylan Shukla"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/829/976/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/dylshukla/hackprinceton2024/tree/main"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Immersive Firefighter Performance Review (VR + SLAM) | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Immersive Firefighter Performance Review (VR + SLAM) Improving firefighter performance saves lives. That’s why using Immersive VR performance reviews lets firefighters enter reconstructed rooms during fire response, letting them evaluate performance. Like 1 Comment Story Updates Room view in editor mode Our project is on the healthcare track Inspiration About 350,000 house fires happen in the US each year. One teammate recently had a house fire, and thanks to the quick response from the fire department, many parts of the house were salvaged. In lieu of this recent event, we wondered how to help support the fire department through the use of technology to save others from the same experience. By allowing them to review their performance in a more immersive manner to prevent people like our teammate from going through such events. After speaking with our friend who works as a firefighter near our college’s campus, as well as extensive background research, we found out that the current system for performance reviews relies on personal experience and video footage. In order to enhance these reviews, we decided to use 3D modeling and virtual reality to transform the process. The lossy act of remembering one’s decisions in a life-or-death moment can then be replaced by interactive 3D reconstructions of mission history. So, an immersive replay of the fire response can thus prove to improve performance and save more lives in the future. What it does Our solution uses VR technology to create an immersive replay of the fire response. The reviewer puts on the headset and sees an information rich graph, alerting them to key moments in the fire response (special points of interest). Then they select these points in time and are teleported to the actions of the firefighters during this time. The firefighter's exact actions are captures using 3D reconstruction technology. Using monocular video data (single camera, like a firefighter helmet cam) we generated a point cloud using SLAM technology and then a 3D mesh through point meshing algorithm to detail the environment the fighter went through. We then implemented a graph on the user’s sidebar to examine the room’s temperature change, modeled from a realistic dataset created by simulation, over the fire’s duration. This is used to identify points of interest through the fire. Additionally, we simulated room temperature data spatially using a meshed plot. Our 3D model depicts how the temperature of a room could be displayed for a user to examine specific areas of the room that had high temperature peaks, and this used to identify areas of interest within the room for training exercises and performance reviews. How we built it Used Unity3D VR, MATLAB, Colmap Challenges we ran into In MATLAB, we had to overcome one technical challenge of exporting a 3D graph with interactive features in order to make a meaningful connection with the VR technology. We were able to make this important connection by creating a pipeline to convert the simulation to an interactive file that could be implemented in VR. This was very important for making the system efficient and user friendly. Accomplishments that we're proud of Figured out intricacies of Unity VR, found out how 3D room reconstruction works, getting seasoned with MATLAB What we learned Learned 3D room reconstruction, deepened VR skills, learned MATLAB (!!!!) Both members of our team learned more about areas of technology we were relatively unfamiliar with, including 3D plotting/mapping with MATLAB and generating direct SLAM point clouds. Generating the mapped environments involved learning about the computer vision ecosystem, especially when it comes to depth mapping and meshing together point clouds. We looked through many different pipelines, including OpenSLAM, multiSLAM, and more before finally settling on Colmaps. In addition, while our team was familiar with using Unity, we were new to integrating it with VR. Once the initial environment setup was done, figuring out how to code interactions pushed our understanding of VR. We developed new knowledge about the usages of VR in healthcare. An interesting avenue of education was choosing between various interaction technique (OpenXR vs OVR) and evaluating which was best for our hack. What's next for Firefighter SLAM Open source this project Addition of complete pipeline for multi-video to 3D mesh creation under the hood of a Unity-based app Adding more data streaming features into app 3D temperature visualizations Improve interaction methods with the data Features to Pause, Play, Rewind operations Built With arc#colmapmatlabunityvr Try it out github.com Submitted to HackPrinceton Spring 2024 Winner Best Healthcare Hack -- Track Prize Winner Best Use of MATLAB Prize by MathWorks Created by Dylan Shukla Pranav Wagh UNC Chapel Hill Like 1 1 person likes this: Share this project: Updates Dylan Shukla started this project — Mar 31, 2024 03:52 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

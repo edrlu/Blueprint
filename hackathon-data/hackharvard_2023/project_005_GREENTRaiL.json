@@ -1,0 +1,210 @@
+{
+  "title": "GREENTRaiL",
+  "url": "https://devpost.com/software/greentrail-neoujy",
+  "description": "Devpost",
+  "technologies": [
+    "figma",
+    "firebase",
+    "healthkit",
+    "ios",
+    "mapkit",
+    "swiftui"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/215/datas/gallery.jpg",
+      "alt": "GREENTRaiL – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/291/datas/gallery.jpg",
+      "alt": "GREENTRaiL – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/340/datas/gallery.jpg",
+      "alt": "GREENTRaiL – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/631/013/datas/gallery.jpg",
+      "alt": "GREENTRaiL – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/631/632/datas/gallery.jpg",
+      "alt": "GREENTRaiL – screenshot 5"
+    },
+    {
+      "src": "https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white",
+      "alt": "SwiftUI"
+    },
+    {
+      "src": "https://img.shields.io/badge/iOS-green?style=for-the-badge&logo=apple&logoColor=white",
+      "alt": "iOS"
+    },
+    {
+      "src": "https://img.shields.io/badge/Terra%20API-orange?style=for-the-badge",
+      "alt": "Terra API"
+    },
+    {
+      "src": "https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white",
+      "alt": "Firebase"
+    },
+    {
+      "src": "https://img.shields.io/badge/MapKit-red?style=for-the-badge&logo=maps&logoColor=white",
+      "alt": "MapKit"
+    },
+    {
+      "src": "https://img.shields.io/badge/HealthKit-purple?style=for-the-badge&logo=apple&logoColor=white",
+      "alt": "HealthKit"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJuD0Eme-XQj7neyy46_hYx1cc0qjZwSIuegY2Ia29iDAo=s96-c?height=180&width=180",
+      "alt": "Bird Drawer"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp6Jx8iVpt4aG3pnEot8JfS6hmJ1v9ZqrcYv0nzN=s96-c?height=180&width=180",
+      "alt": "Eloise Yalovitser"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7wWRLozq3Diji6Fkxkyhy8iA08zJqiiHludZ5z=s96-c?height=180&width=180",
+      "alt": "Luke Atkins"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/57331456?height=180&v=4&width=180",
+      "alt": "Tingwei Shi"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLKa4HG0ZTE5qoZ_F8EemsceRNBC9KBbEWqswEJknAnHA=s96-c?type=square",
+      "alt": "Angelina Li"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp5j4fdWXIMVyMaTR9IJZObT7zfm2JwvUVJN1LQ3Lw=s96-c?type=square",
+      "alt": "Pepi Ng"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7wWRLozq3Diji6Fkxkyhy8iA08zJqiiHludZ5z=s96-c?type=square",
+      "alt": "Luke Atkins"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp6Jx8iVpt4aG3pnEot8JfS6hmJ1v9ZqrcYv0nzN=s96-c?height=180&width=180",
+      "alt": "Eloise Yalovitser"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/215/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/291/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/630/340/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/631/013/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/631/632/datas/original.png"
+    },
+    {
+      "text": "https://www.figma.com/file/S9wlv984UYBPaX8IiPqRJe/greentrAIl?type=design&node-id=2%3A87&mode=design&t=mIexhgpxiinAegGd-1",
+      "url": "https://www.figma.com/file/S9wlv984UYBPaX8IiPqRJe/greentrAIl?type=design&node-id=2%3A87&mode=design&t=mIexhgpxiinAegGd-1"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/tiingweii-shii/GREENTRaiL"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "GREENTRaiL | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up GREENTRaiL let's explore together! Like 3 Comment Story Updates base presentation get recommended trails track hiking time and heart rate case studies GREENTRaiL Inspiration Hiking has exploded in popularity since the pandemic with more than 80 million Americans hiking in 2022 alone. There are many large mental and physical health benefits to hiking, however it can be daunting to select routes as a beginner. It is difficult to imagine how a route would feel before going on it, especially for those without past input. In addition, many times hikers also don't take into account wildlife when choosing routes. Animals such as elks have also been shown to change behavior up to 1 mile away from hiking trails, and this has far reaching implications to the greater biosphere. With climate change being a threat to traditional migration paths, increased human activity can be detrimental to the already fragile patterns. GREENTRaiL is an app that will give users personalized recommendations and help make hiking more eco-friendly. What it does Using biometric and environmental data, GREENTRaiL recommends users hiking trails based on average statistics of others who have completed the hike and synthesizes difficulty ratings. It will also use migratory and wildlife data to suggest less obtrusive hikes to local migratory patterns. How we built it UI/UX prototyping was sketched first traditionally, and then brought into Procreate to develop final color and brand identity. High fidelity wire-framing was then done on Figma, and then the final UI/UX was refined using those prototypes. GREENTRaiL was coded using Swift and integrates terraAPI to get wearable data and aggregate data of all the people who have taken the past trail. Challenges we ran into All of us were new to Swift, and one of us fully couldn't run Xcode on their computer. Our UX/UI designer had also never designed for IOS before either, so there was a bit of a learning curve. Our coders ran into a lot difficulty integrating the terra API into the code, as well as general problems with front end and back end integration. What we learned We learned how to develop using Swift, prototype for IOS on Figma and integrate terraAPI. What's next for GREENTRaiL Future areas of development include syncing with other nature apps such as iNaturalist's API and AllTrails to give the user even more comprehensive data on wildlife and qualitative description. Figma Design https://www.figma.com/file/S9wlv984UYBPaX8IiPqRJe/greentrAIl?type=design&node-id=2%3A87&mode=design&t=mIexhgpxiinAegGd-1 Technologies Used Built With figmafirebasehealthkitiosmapkitswiftui Try it out github.com Submitted to HackHarvard 2023 Winner Health & Fitness Prize (Sponsored by Terra API) Created by I worked on the back-end, connecting the APIs for Terra and Firebase to the app so that we are able to use data to provide better recommendations. Bird Drawer I worked on the UI/UX , design and conceptual research. Eloise Yalovitser I worked on transferring the UX/UI designs in Figma into functional SwiftUI experiences. I also aided in integrating the user profiles service from google firebase. Luke Atkins Tingwei Shi Like 3 3 people like this: Share this project: Updates Eloise Yalovitser started this project — Oct 22, 2023 03:19 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

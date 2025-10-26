@@ -1,0 +1,167 @@
+{
+  "title": "InSightAI",
+  "url": "https://devpost.com/software/insight-ai",
+  "description": "Devpost",
+  "technologies": [
+    "flask",
+    "google-web-speech-api",
+    "openai"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/194/datas/gallery.jpg",
+      "alt": "InSightAI – screenshot 1"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/195/datas/gallery.jpg",
+      "alt": "InSightAI – screenshot 2"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/196/datas/gallery.jpg",
+      "alt": "InSightAI – screenshot 3"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/116/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/569/448/datas/profile.jpg",
+      "alt": "Eidan Erlich"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/121345656?height=180&v=4&width=180",
+      "alt": "Elijah Umana"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJwYg5BaFKHA6ujZBHzLGIwGTGPib_o2shZ18i-a=s96-c?height=180&width=180",
+      "alt": "Victor Samsonov"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/121345656?type=square&v=4",
+      "alt": "Elijah Umana"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AATXAJwYg5BaFKHA6ujZBHzLGIwGTGPib_o2shZ18i-a=s96-c?type=square",
+      "alt": "Victor Samsonov"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-32-b1904d87f9b96daac9211badffd5f60d8f9a7b4715feb9b5e5e641bcf714733b.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/121345656?height=180&v=4&width=180",
+      "alt": "Elijah Umana"
+    },
+    {
+      "src": "https://hack-mit-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/569/448/datas/profile.jpg",
+      "alt": "Eidan Erlich"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/194/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/195/datas/original.jpeg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/602/196/datas/original.jpeg"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/ElijahUmana/InsightAI/tree/vic"
+    },
+    {
+      "text": "https://www.canva.com/design/DAFutDkRa9o/Y9CFPB8jERFJTvW6hWvxmw/view",
+      "url": "https://www.canva.com/design/DAFutDkRa9o/Y9CFPB8jERFJTvW6hWvxmw/view"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "InSightAI | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up InSightAI Empowering anyone, anywhere to seamlessly follow their curiosity Like 3 Comment 1 Story Updates 1 Inspiration: Our inspiration stemmed from the realization that the pinnacle of innovation occurs at the intersection of deep curiosity and an expansive space to explore one's imagination. Recognizing the barriers faced by learners—particularly their inability to gain real-time, personalized, and contextualized support—we envisioned a solution that would empower anyone, anywhere to seamlessly pursue their inherent curiosity and desire to learn. What it does: Our platform is a revolutionary step forward in the realm of AI-assisted learning. It integrates advanced AI technologies with intuitive human-computer interactions to enhance the context a generative AI model can work within. By analyzing screen content—be it text, graphics, or diagrams—and amalgamating it with the user's audio explanation, our platform grasps a nuanced understanding of the user's specific pain points. Imagine a learner pointing at a perplexing diagram while voicing out their doubts; our system swiftly responds by offering immediate clarifications, both verbally and with on-screen annotations. How we built it: We architected a Flask-based backend, creating RESTful APIs to seamlessly interface with user input and machine learning models. Integration of Google's Speech-to-Text enabled the transcription of users' learning preferences, and the incorporation of the Mathpix API facilitated image content extraction. Harnessing the prowess of the GPT-4 model, we've been able to produce contextually rich textual and audio feedback based on captured screen content and stored user data. For frontend fluidity, audio responses were encoded into base64 format, ensuring efficient playback without unnecessary re-renders. Challenges we ran into: Scaling the model to accommodate diverse learning scenarios, especially in the broad fields of maths and chemistry, was a notable challenge. Ensuring the accuracy of content extraction and effectively translating that into meaningful AI feedback required meticulous fine-tuning. Accomplishments that we're proud of: Successfully building a digital platform that not only deciphers image and audio content but also produces high utility, real-time feedback stands out as a paramount achievement. This platform has the potential to revolutionize how learners interact with digital content, breaking down barriers of confusion in real-time. One of the aspects of our implementation that separates us from other approaches is that we allow the user to perform ICL (In Context Learning), a feature that not many large language models don't allow the user to do seamlessly. What we learned: We learned the immense value of integrating multiple AI technologies for a holistic user experience. The project also reinforced the importance of continuous feedback loops in learning and the transformative potential of merging generative AI models with real-time user input. Built With flaskgoogle-web-speech-apiopenai Try it out github.com Submitted to HackMIT 2023 Winner Arrowstreet Capital - Best Generative AI Data Analysis Hack Created by Model + Pipeline development Eidan Erlich In the backend, I designed RESTful APIs within a Flask application that interfaces seamlessly with user input and machine learning models. I integrated Google's Speech-to-Text during an onboarding process to transcribe users' learning preferences from audio files, while also incorporating the Mathpix API for image content extraction. To bridge user interactions, I employed the GPT-4 model, generating context-rich textual and audio responses based on image content and stored user data. Enhancing frontend interactivity, I encoded audio responses into base64 format, allowing for streamlined playback in the React framework without unwanted re-renders. Elijah Umana Full-Stack Software & Machine Learning engineer leveraging AI for smarter solutions. Thrives on innovation and continuous learning Full-Stack development. Integrated routing and inference using React and Flask. Designed the architecture of the project, focusing on a scalable and resilient solution. Used prior Deep Learning experience to optimize the solution, leveraged Mathpix, Google cloud, TensorFlow and LangChain. Victor Samsonov Like 3 3 people like this: Share this project: Updates Elijah Umana started this project — Sep 17, 2023 10:59 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Eidan Erlich posted an update — Sep 17, 2023 10:57 AM EDT https://www.canva.com/design/DAFutDkRa9o/Y9CFPB8jERFJTvW6hWvxmw/view Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

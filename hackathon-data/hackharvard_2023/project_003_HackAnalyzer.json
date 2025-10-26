@@ -1,0 +1,194 @@
+{
+  "title": "HackAnalyzer",
+  "url": "https://devpost.com/software/hackanalyzer",
+  "description": "Devpost",
+  "technologies": [
+    "javascript",
+    "next",
+    "openai",
+    "react",
+    "sql"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/318/datas/gallery.jpg",
+      "alt": "HackAnalyzer – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/319/datas/gallery.jpg",
+      "alt": "HackAnalyzer – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/638/719/datas/gallery.jpg",
+      "alt": "HackAnalyzer – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/638/718/datas/gallery.jpg",
+      "alt": "HackAnalyzer – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/49722313?height=180&v=4&width=180",
+      "alt": "Tshetrim (Tim) Lhendup"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI5bTF3yOQErj4yzZx4x2mWexEWJo5MR8EkDymtIdeQYKQ=s96-c?height=180&width=180",
+      "alt": "Nylan Raufaste"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/90652862?height=180&v=4&width=180",
+      "alt": "Ange Blecon"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/636/379/datas/profile.png",
+      "alt": "Hadi Fawad"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp6prtae68F5ZHDGhKuDvbqOZzeAj25ilaZQ-4ne=s96-c?type=square",
+      "alt": "Uzair Mohammed"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocI5bTF3yOQErj4yzZx4x2mWexEWJo5MR8EkDymtIdeQYKQ=s96-c?type=square",
+      "alt": "Nylan Raufaste"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/636/379/datas/medium.png",
+      "alt": "Hadi Fawad"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/988/592/datas/medium.jpg",
+      "alt": "Saige Moon Bock"
+    },
+    {
+      "src": "https://lh4.googleusercontent.com/-3S83dS5RTS8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmztccNov5cboXYaGu83Ti3cB0vPg/c/photo.jpg?type=square",
+      "alt": "Divya Lakshmi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/84759114?type=square&v=4",
+      "alt": "Abdul Hadi Fawad"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/637/695/datas/medium.jpg",
+      "alt": "Shalif Shaoul"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/49722313?height=180&v=4&width=180",
+      "alt": "Tshetrim (Tim) Lhendup"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/636/379/datas/profile.png",
+      "alt": "Hadi Fawad"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/318/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/319/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/638/719/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/638/718/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/angeblecon/hackharvard-project"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "HackAnalyzer | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up HackAnalyzer Empower Hackathon Judges and Hackers with AI-driven insights to enhance project evaluation and selection. This application can impartially analyze and quantify various aspects of hackathon projects. Like 7 Comment Story Updates 1 Landing Page Inspiration In the exciting world of hackathons, where innovation meets determination, participants like ourselves often ask \"Has my idea been done before?\" While originality is the cornerstone of innovation, there's a broader horizon to explore - the evolution of an existing concept. Through our AI-driven platform, hackers can gain insights into the uniqueness of their ideas. By identifying gaps or exploring similar projects' functionalities, participants can aim to refine, iterate, or even revolutionize existing concepts, ensuring that their projects truly stand out. For judges, the evaluation process is daunting. With a multitude of projects to review in a short time frame, ensuring an impartial and comprehensive assessment can become extremely challenging. The introduction of an AI tool doesn't aim to replace the human element but rather to enhance it. By swiftly and objectively analyzing projects based on certain quantifiable metrics, judges can allocate more time to delve into the intricacies, stories, and the passion driving each team What it does This project is a smart tool designed for hackathons. The tool measures the similarity and originality of new ideas against similar projects if any exist, we use web scraping and OpenAI to gather data and draw conclusions. For hackers: Idea Validation: Before diving deep into development, participants can ascertain the uniqueness of their concept, ensuring they're genuinely breaking new ground. Inspiration: By observing similar projects, hackers can draw inspiration, identifying ways to enhance or diversify their own innovations. For judges: Objective Assessment: By inputting a project's Devpost URL, judges can swiftly gauge its novelty, benefiting from AI-generated metrics that benchmark it against historical data. Informed Decisions: With insights on a project's originality at their fingertips, judges can make more balanced and data-backed evaluations, appreciating true innovation. How we built it Frontend: Developed using React JS, our interface is user-friendly, allowing for easy input of ideas or Devpost URLs. Web Scraper: Upon input, our web scraper dives into the content, extracting essential information that aids in generating objective metrics. Keyword Extraction with ChatGPT: OpenAI's ChatGPT is used to detect keywords from the Devpost project descriptions, which are used to capture project's essence. Project Similarity Search: Using the extracted keywords, we query Devpost for similar projects. It provides us with a curated list based on project relevance. Comparison & Analysis: Each incoming project is meticulously compared with the list of similar ones. This analysis is multi-faceted, examining the number of similar projects and the depth of their similarities. Result Compilation: Post-analysis, we present users with an 'originality score' alongside explanations for the determined metrics, keeping transparency. Output Display: All insights and metrics are neatly organized and presented on our frontend website for easy consumption. Challenges we ran into Metric Prioritization: Given the timeline restricted nature of a hackathon, one of the first challenges was deciding which metrics to prioritize. Striking the balance between finding meaningful data points that were both thorough and feasible to attain were crucial. Algorithmic Efficiency: We struggled with concerns over time complexity, especially with potential recursive scenarios. Optimizing our algorithms, prompt engineering, and simplifying architecture was the solution. Finding a good spot to sleep. Accomplishments that we're proud of We took immense pride in developing a solution directly tailored for an environment we're deeply immersed in. By crafting a tool for hackathons, while participating in one, we felt showcases our commitment to enhancing such events. Furthermore, not only did we conceptualize and execute the project, but we also established a robust framework and thoughtfully designed architecture from scratch. Another general Accomplishment was our team's synergy. We made efforts to ensure alignment, and dedicated time to collectively invest in and champion the idea, ensuring everyone was on the same page and were equally excited and comfortable with the idea. This unified vision and collaboration were instrumental in bringing HackAnalyzer to life. What we learned We delved into the intricacies of full-stack development, gathering hands-on experience with databases, backend and frontend development, as well as the integration of AI. Navigating through API calls and using web scraping were also some key takeaways. Prompt Engineering taught us to meticulously balance the trade-offs when leveraging AI, especially when juggling cost, time, and efficiency considerations. What's next for HackAnalyzer We aim to amplify the metrics derived from the Devpost data while enhancing the search function's efficiency. Our secondary and long-term objective is to transition the application to a mobile platform. By enabling students to generate a QR code, judges can swiftly access HackAnalyzer data, ensuring a more streamlined and effective evaluation process. Built With javascriptnextopenaireactsql Try it out github.com Submitted to HackHarvard 2023 Winner 2nd Best Overall Hack Winner Most Creative Use of GitHub Created by Contributed to the full-stack development of the project, focusing primarily on database caching and crafting the landing page using React, Next.js, and PostgreSQL. Tshetrim (Tim) Lhendup My work was focused on prompt engineering, UX/UI for mock-up development, and project messaging. Nylan Raufaste I contributed to both the front-end and back-end development of the application, working with technologies like React.js, Next.js, and PostgreSQL. Ange Blecon Worked on the UI/UX Design, Devpost, Project Architecture, Prompt Engineering & development in React. Hadi Fawad Like 7 7 people like this: Share this project: Updates Tshetrim (Tim) Lhendup posted an update — Oct 25, 2023 12:30 PM EDT Updated the post with a video to show the running demo and some screenshots. Log in or sign up for Devpost to join the conversation. Hadi Fawad started this project — Oct 22, 2023 07:23 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

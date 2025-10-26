@@ -1,0 +1,146 @@
+{
+  "title": "NutriPal",
+  "url": "https://devpost.com/software/nutripal-ue6kmf",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "flask",
+    "html",
+    "python",
+    "tailwind"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackru-spring-2024.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/034/datas/medium.jpeg",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111184168?height=180&v=4&width=180",
+      "alt": "Dhruv Daiya"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/159596512?height=180&v=4&width=180",
+      "alt": "Hriday Adani"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/143897109?height=180&v=4&width=180",
+      "alt": "Het Patel"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/1571ec786dc455f465f39c708dfe7b47?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Dev Amin"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/143897109?type=square&v=4",
+      "alt": "Het Patel"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/159596512?type=square&v=4",
+      "alt": "Hriday Adani"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/1571ec786dc455f465f39c708dfe7b47?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-32.png&s=32",
+      "alt": "Dev Amin"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111184168?type=square&v=4",
+      "alt": "Dhruv Daiya"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/111184168?height=180&v=4&width=180",
+      "alt": "Dhruv Daiya"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/Dhruvedd/Nutripal"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "NutriPal | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up NutriPal NutriPal is an AI-powered nutrition tracker that lets you set nutritional goals, view your progress every time you eat, and give recommendations based on your eating habits! Like 4 Comment Story Updates Inspiration As one eats food, one must think about nutrition and health. It is wise to plan out one's nutritional goals and track your progress toward them. Of course, It helps when you have a pal to advise you on your dietary needs. What it does You can input your daily nutritional goal regarding Calories, Protein, Fats, Sugar, Fiber, and Carbs. Afterward, you can use a text input to add your meals for the day. It takes in any and all food items(default quantity = 100g) and returns nutritional data regarding them. That data is used to track your progress toward the goal that you specified for that day. For example, if your daily calorific goal is 2000 calories and you input something that contains 500 calories then your progress will be increased by 500. Starting at 0, that would put it at 500/2000. You can keep adding things you have eaten into NutriPal and it will keep track of your progress. And now for what this app can do with your progress data. At the end of the day when you have added all of the food items and your progress toward your daily goal has been recorded, you can ask NutriPal to give you dietary advice. NutriPal will take your progress and your initial daily goal and generate a custom prompt for GPT-4. This will provide you with important information on how to improve your dietary habits to bring you closer to your nutritional goal. Additionally, it will also give you suggestions on common food items that you can consume to achieve your goals. Another thing that NutriPal can help you with is when you are out food shopping and are feeling a bit health conscious. NutriPal can give you the exact nutritional value of whatever food item you are thinking of buying, letting you make a more informed purchasing decision regarding your health. How we built it The front end is built upon vanilla HTML-CSS and JS while using TailWind. The Backend is built upon the Flask Framework in Python. All the functionality including the API requests and custom prompt generator are being handled by Flask or Python. Challenges we ran into One of the biggest challenges we ran into was integrating the front end with the back end. There was a lot of debugging required to successfully render some of the HTML files using Flask. Another challenge would be to integrate Firebase into our application which we failed to do within the 24-hour time-frame. Correctly rendering the login page did not work out very well and ultimately that and the Firebase integration was scraped before making it into the final version. Accomplishments that we're proud of Overall, we are relatively proud to have built NutriPal in such a short space of time considering that Flask, Python, and Tailwind were foreign concepts to us before starting work on NutriPal. Specific features that we take pride in are: The custom prompt generator that takes processed data from the nutrition API to get advice using GPT-4, the progress bars on the home page to track the user's progress and the item search that returns the nutritional value of any food item. What we learned New things that we learned were Flask, Python, and Tailwind CSS Built With cssflaskhtmlpythontailwind Try it out github.com Submitted to HackRU Spring 2024 Winner Health Track Winner Best Failure to Launch Created by I worked on the backend with the api calls and the data management. It was quite a daunting task, being it my first time with Python and with Flask. But overall I learned a lot through the experience. Dhruv Daiya Hriday Adani Het Patel Dev Amin Like 4 4 people like this: Share this project: Updates Dhruv Daiya started this project — Mar 24, 2024 11:59 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

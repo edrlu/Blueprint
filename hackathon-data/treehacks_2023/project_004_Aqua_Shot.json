@@ -1,0 +1,210 @@
+{
+  "title": "Aqua Shot",
+  "url": "https://devpost.com/software/aquashot",
+  "description": "Devpost",
+  "technologies": [
+    "aptos",
+    "c++",
+    "ipfs",
+    "opencv",
+    "pinata",
+    "python",
+    "react",
+    "teensy",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/521/datas/gallery.jpg",
+      "alt": "Aqua Shot – screenshot 1"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/536/datas/gallery.jpg",
+      "alt": "Aqua Shot – screenshot 2"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/567/datas/gallery.jpg",
+      "alt": "Aqua Shot – screenshot 3"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/764/datas/gallery.jpg",
+      "alt": "Aqua Shot – screenshot 4"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/765/datas/gallery.jpg",
+      "alt": "Aqua Shot – screenshot 5"
+    },
+    {
+      "src": "https://treehacks-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/331/982/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/21025973?height=180&v=4&width=180",
+      "alt": "Arjun Oberoi"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/78980541?height=180&v=4&width=180",
+      "alt": "Daniel Kim"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/88997737?height=180&v=4&width=180",
+      "alt": "jjjudyliuuu"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp6JQIGwm-iRm2i32qmDnRJrT6qBMN8Awr_4w1EP=s96-c?height=180&width=180",
+      "alt": "Amy Hoang"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/79354255?type=square&v=4",
+      "alt": "Mauricio Curiel"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/88997737?type=square&v=4",
+      "alt": "jjjudyliuuu"
+    },
+    {
+      "src": "https://lh5.googleusercontent.com/-8uwLK6OfRIk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBGEvO1ha976ykEHcAX-rVuOUW4w/c/photo.jpg?type=square",
+      "alt": "Catherine Rasgaitis"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/78980541?type=square&v=4",
+      "alt": "Daniel Kim"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/60076597?type=square&v=4",
+      "alt": "Brian Wu"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/21025973?height=180&v=4&width=180",
+      "alt": "Arjun Oberoi"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/521/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/536/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/567/datas/original.jpg"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/764/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/390/765/datas/original.png"
+    },
+    {
+      "text": "website",
+      "url": "https://aquashot.tech/"
+    },
+    {
+      "text": "aquashot.tech",
+      "url": "https://aquashot.tech/"
+    },
+    {
+      "text": "cad.onshape.com",
+      "url": "https://cad.onshape.com/documents/03805a9bbe24ba5ad9c62b00/w/7cfb6b459d202ef476449828/e/e7fc0acb00867afb99c004e1?renderMode=0&uiState=63f23341dc3584418755d9df"
+    },
+    {
+      "text": "youtu.be",
+      "url": "https://youtu.be/kSxTMCTiuvo"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/FourSauces/TheWaterboarders"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Aqua Shot | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Aqua Shot Spray your friends, and make NFT's that we'll send! Interact with and cherish memories with creators through physical interactions that turn into NFTs. Like 5 Comment 1 Story Updates Mockups of our product box for placement and planning. CAD model of our tapered nozzle and base to increase distance and accuracy. Judy's genuine reaction to our NFT captured memory. Custom electronics board with Teensy 4.0, MOSFETs for pump and LED control, power distribution, and servo output headers. Our 2-tiered setup before we added water. Inspiration This project was inspired by our curious naïveté in integrating interdisciplinary technologies… and the desperate need to wake up a certain friend incapable of waking up to any traditional alarm. Every Thursday at 5am, everyone but him within a 2 room radius would wake up to his alarm. We were drawn to the use of water as a potential alternative to a traditional alarm. Thinking beyond an alarm, we found an opportunity to use robots to augment livestreams and strengthen the bond between content creators and consumers. As users donate to control the robot and interact with a creator, they receive NFTs of moments that can be cherished far into the future. We came to see a use case in the realm of virtual human interactions. Particularly, we focused on how to foster a more meaningful connection between streamers and their audience, which platforms such as Twitch are constantly trying to find innovations in. By getting people more involved in the moments, we are able to create not only those interactions, but also create an in-person anchor point for the people, representing key components streaming sites have yet to utilize: the warmth and intimacy that real-world interactions and memories can provide. What it does Users pay using Aptos for a water turret to spray water at somebody’s face. The user interacts with the website we made, which has integration for Aptos' Petra wallet, as well as a livestream showing what a creator is doing. We mounted a separate webcam on a turret, which uses facial recognition to track people, and aims the water nozzle at their face. When someone donates through the site, the pump activates, and a recording of the moment is made into an NFT and sent back to the user's wallet. Overall, the interaction between our hardware and software (Web3 integration, CV, motor controls) is what drives the user experience. How we built it We designed and fabricated the aqua shooter (our water-spraying turret-targeting robot) using 3D printing, laser cutting, soldering, and manual fabrication using various other tools. We used many libraries and programming languages to program the various parts of our project. We used Typescript, HTML, Python, and C++ programming languages, along with the most notable packages we used being React for the website, Aptos SDK for Aptos integration, OpenCV alongside the face_recognition package for face tracking, and Pinata-python for uploading videos to IPFS. Challenges we ran into The biggest challenge was integrating the software and hardware. With complex software and hardware components, we had to find ways to bring them all together at the last moment. Some of these included the installing of different software packages, the design of complex small parts, and finally the integration of everything after we had tested each individual component of the project and needed to tune it. Overall, the unpredictable results, or lack thereof, from these different components interacting was stress-test for communication, planning, and technical precision. Accomplishments that we're proud of In a project with so many different parts, we are proud that we could integrate many different disciplines together and successfully come up with this unique system that brings both joy and utility to its users. What we learned We learned many aspects in Aptos, OpenCV, and robotics through this compiled fun project! In addition, we learned how to integrate these very different disciplines into a complete project, ensuring precision on all fronts before piecing together the puzzle. What's next for AquaShot Although we were only able to create one new avenue of physical interaction, we hope to continue expanding the ways that meaningful physical interactions can be included in virtual interactions. While this project’s goal was a mix of futuristic technologies for fun shenanigans, we look to bring these tools forward for the purpose of bridging the connectivity gap between the physical and virtual worlds. Indeed, the Aqua Shot should not be seen as a standalone, but rather an example feature of what the product could include. In addition, there remains the possibility for an entirely new type of investment/trade market. On one hand, streamers will opt in on these technologies due to promises of higher donation revenue. On the other, viewers will be actively placing bets on moments and memories that will stand as valuable to the community, making them active entertainers as well. As a result, we envision an entirely new type of engagement in entertainment and human relationships. Built With aptosc++ipfsopencvpinatapythonreactteensytypescript Try it out aquashot.tech cad.onshape.com youtu.be github.com Submitted to TreeHacks 2023 Winner Most Creative Hack: 4 x Sonos Roam Winner Best Use of Aptos: $1000 Created by I made the electronics board, wrote the interface for Aptos and the electronics board, integrated the software, and worked on the functionality of the website. Arjun Oberoi Designed overall layout, 3D modeled and printed necessary pieces, and assembled hardware components for two-servo motor turret. Daniel Kim jjjudyliuuu Amy Hoang Like 5 5 people like this: Share this project: Updates Arjun Oberoi started this project — Feb 19, 2023 12:55 PM EST Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

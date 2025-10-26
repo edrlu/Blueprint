@@ -1,0 +1,217 @@
+{
+  "title": "Study Conquest",
+  "url": "https://devpost.com/software/study-conquest",
+  "description": "Devpost",
+  "technologies": [
+    "css",
+    "html",
+    "javascript",
+    "react"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/586/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 1"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/587/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 2"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/588/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 3"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/589/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 4"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/590/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 5"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/591/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 6"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/592/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 7"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/593/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 8"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/594/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 9"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/595/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 10"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/596/datas/gallery.jpg",
+      "alt": "Study Conquest – screenshot 11"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/602/188/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLDqoBX3XPmNGDiN5hRqFBcXGeglsz-qQjShkctjQ9stA=s96-c?height=180&width=180",
+      "alt": "Valen Van Dyne"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/109252402?height=180&v=4&width=180",
+      "alt": "Laxmi vaka"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/148649889?height=180&v=4&width=180",
+      "alt": "Emily Heng"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/no-avatar-180-0301cf28954e6ce8ef036798be3a87b1f79306010122c2356cb9133bb10ed28d.png",
+      "alt": "Private user"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocLDqoBX3XPmNGDiN5hRqFBcXGeglsz-qQjShkctjQ9stA=s96-c?height=180&width=180",
+      "alt": "Valen Van Dyne"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/586/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/587/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/588/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/589/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/590/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/591/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/592/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/593/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/594/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/595/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/596/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/midoriengineer/Study-Conquest-Technica-2023"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "Study Conquest | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up Study Conquest W Study Conquest, struggling with obstacles other peers may not expererience is a thing of the past: students with ADHD can seamlessly transfer notes to create an interactive learning experience Like Comment Story Updates Posted in comments Built With csshtmljavascriptreact Try it out github.com Submitted to Technica 2023 Winner Best Education Hack Winner Bloomberg: Best Hack Promoting Education or Public Health Created by Students with ADHD consistently struggle to meet academic expectations in conventional educational environments, as these spaces often lack the necessary accommodations for their specific needs. This issue poses a significant concern, as it can ultimately place students with ADHD at a disadvantage when studying and completing their education. As someone who has struggled with ADHD, our designer (Valen Van Dyne) has intimate experience with the difficulties that come with the disorder. Focusing on tasks for long periods of time and studying effectively are often difficulties described by students with ADHD, and despite the many available study apps in the market, students still find it hard to maintain focus for long periods of time due to lack of stimulus, thus resulting in low note retention/effectiveness. After finding this inspiration, our designer conducted two interviews with college age students that asked about studying habits and strengths and weaknesses of their currently available/frequently used study apps. Responses found that current studying methods and applications pose limitations to students with ADHD due to a lack of interactive stimuli and effective use of class material. After identifying these concerns, our team of developers (Naomi Williams, Emily Heng, and Laxmi Vaka) built our app: a study program that scans and translates class notes into an interactive system that utilizes both an AI chat “study partner” and games such as matching and quizzes. The AI chat was created using an open AI API, in which the model was instructed to answer questions in forms that were more accessible to students who often report lack of focus and engagement when studying. React was additionally utilized to build the front end, with open AI used for the back end. A request was made to the website to access data in preset models, which was then used within the model of our own app. One of the most prominent issues encountered when developing the app was prompting the AI chat to produce more accessible responses. Initially, the AI gave long responses that were in-concise and often unrelated to the question, which can be an issue for students who already may have difficulty maintaining focus on study material. User interviews showed that students prefer content to be very “to the point” and quick to read, which was not our first result with the AI chat. To fix this, our developer Naomi initiated code that explained to the model how to more concisely respond to user questions. Through the process of trial and error and adjusted prompting, she was then able to guide the AI into developing responses to students’ questions about content in their notes that was conducive to better understanding of the material in an easily digestible form. As is expected with such a short scale project, there were several limitations that were encountered during the creation of our app. Several other games were planned to be implemented for our design, but upon understanding what wasn’t feasible for our time period, many ideas had to be cut down in order to depict the main important features that helped demonstrate the importance and use of our app. We were also unable to demonstrate several screens/app features such as other topics and how they would be translated into games (as certain topics may have different set ups based on the topic/type of material used), as well as what would happen if students got wrong answers or what happens if notes don’t have the necessary information from the notes needed to answer a user’s question. In the future, if given more time, we would love to explore these features and incorporate these important designs to better improve the user experience. Valen Van Dyne I worked on Game part. Initially all levels are locked. The questions are fetched from OpenAI using the key. Based on the correct answers, student is moved to next level. Laxmi vaka Emily Heng Private user Like Share this project: Updates Valen Van Dyne started this project — Oct 22, 2023 11:24 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

@@ -1,0 +1,181 @@
+{
+  "title": "giraffe.study",
+  "url": "https://devpost.com/software/giraffe-study",
+  "description": "Devpost",
+  "technologies": [
+    "api",
+    "css3",
+    "elevenlabs",
+    "html",
+    "javascript",
+    "node.js",
+    "python",
+    "react",
+    "shell"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/273/datas/gallery.jpg",
+      "alt": "giraffe.study – screenshot 1"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/277/datas/gallery.jpg",
+      "alt": "giraffe.study – screenshot 2"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/786/datas/gallery.jpg",
+      "alt": "giraffe.study – screenshot 3"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/905/datas/gallery.jpg",
+      "alt": "giraffe.study – screenshot 4"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/906/datas/gallery.jpg",
+      "alt": "giraffe.study – screenshot 5"
+    },
+    {
+      "src": "https://hackharvard-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/580/396/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJHjWijQdZiHxmiYVNdZR3kW_f_K9PI1bVyok8SDV23lw=s96-c?height=180&width=180",
+      "alt": "Veronika Kitsul"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ALm5wu2C4UozfEGEw-RbfAu_ZUar03kBm6mzqYHpCvXetw=s96-c?height=180&width=180",
+      "alt": "Maksym Bondarenko"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/43344086?height=180&v=4&width=180",
+      "alt": "Artem Yushko"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AItbvmkjQk9dTVu-4I343NyPK3QEM4XvSEd6HQIYAd3HPA=s96-c?type=square",
+      "alt": "Aaron Ang"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp7R9ZCbcwezCzid6frL_JdQSy1Lvnv-1nvhWKlyow=s96-c?type=square",
+      "alt": "mohamed amine hamed"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/AEdFTp5v4zdTe77m3gN0VOzHQI6ZgMhp38i81zBQkLOHHg=s96-c?type=square",
+      "alt": "Devan Shah"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/a/ACg8ocJHjWijQdZiHxmiYVNdZR3kW_f_K9PI1bVyok8SDV23lw=s96-c?height=180&width=180",
+      "alt": "Veronika Kitsul"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/273/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/277/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/786/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/905/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/632/906/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/Giraffe-AI/giraffe"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "giraffe.study | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up giraffe.study giraffe.study is revolutionizing the way we learn by creating customized video content for your needs as a learner, a creator enhancing production, or a researcher distilling complex papers. Like 3 Comment Story Updates Landing page Our generated video example and prompt for asking further questions about it For learners page For creators page For researchers page Inspiration One of the best ways to learn about a new and complex topic is through a good video explainer. After all, video has the highest bandwidth of communication, involving visual, textual and auditory information to aid in understanding. One example of this is a channel like 3Blue1Brown, a channel familiar to many of us. However, it can take weeks for creators like 3Blue1Brown, to research, script and animate a single video, meaning such videos are actually in short supply, with especially low coverage for advanced academic topics. We recognized this gap and felt inspired to bridge it by building an AI video generation tool that can both autonomously generate explainer videos on any topic, and boost efficiency for existing creators. What it does Imagine a world where any academic or conceptual query is met with a detailed, visually rich video explanation—almost instantly. That's the world giraffe.study aims to build. Our tool is perfect for: Learners: Get on-demand, AI-generated video explanations in the style of 3Blue1Brown. Content Creators: Boost your productivity! Create content at tenfold speed, ensuring consistency and quality. Researchers: Ever been daunted by a research paper's complexity? Just upload the PDF, and let our tool generate a concise video summary for you. Our tool is designed for learners to ask about any topic and get an AI-generated video-explainer in 3Blue1Brown style; for content creators to streamline and speed up their content creation process, and for researchers to be able to upload a pdf of a paper and get a quick video explanation of it. How we built it At the current time AI generated video is at the very frontier of what’s possible, and it’s currently impossible to use AI to produce a coherent video longer than a minute. However, we managed to harness recent advances in code-generation models such as GPT4 and open source libraries such as manim to make coherent video explanations possible, by generating videos through code rather than as images. To achieve this, we create an agent using Open AI API that autonomously plans a lesson, writes code to produce visualizations, and catches its own mistakes. Our process starts with topic input, which GPT-4 uses to generate a detailed script. This script then informs the creation of individual video segments, which are seamlessly stitched together. The finishing touch? A lifelike narration courtesy of the text-to-speech API from Eleven Labs. Challenges we ran into It was hard to link all of the files to the backend and a little tricky to manage this big and modular project for a small team. However, we got everything to work! Accomplishments that we're proud of There are currently no tools on the market that offer AI-generated videos longer than 1 min. It takes a human about a week to create a 3-min video with 3Blue1Brown style, while it takes us around 5 min. Yes, the quality of our app is not as good as the human-generated videos, but we can do it ~90x faster. Additionally, our team has worked super smoothly and collaboratively on managing this big project. The journey from a conceptual Figma prototype to a fully functional platform was exhilarating. We're particularly proud of the behind-the-scenes magic: the files that craft video scripts, create individual video segments, add narration, and bring it all together into a cohesive video—without the user ever sensing the complexity. What we learned Firstly, handling a project of this magnitude taught us the importance of modular design, effective communication, and the art of smooth software deployment. From the technical perspective, we have learned to use Node.js to write backend, create a localhost, parallelize code and make it more efficient, manage bigger modular projects, use API from OpenAI and from ElevenLabs, write Bash scripts, smoothly streamline software development and deployment. What's next for giraffe.study Firstly, we would like to improve on the code that we wrote in 36 hours, some of which we spent sleeping, eating, and relaxing, as the horizon is vast for giraffe.study. We're excited about the prospect of adding multilingual support, making knowledge accessible across linguistic barriers. To support more learning styles and offer diverse video styles for everyone, we envision collaborations with renowned educational content creators. Additionally, with the integration of academic databases, giraffe.study could become the go-to platform for video summaries of the latest research breakthroughs. We're not just creating videos; we're crafting the future of education. Built With apicss3elevenlabshtmljavascriptnode.jspythonreactshell Try it out github.com Submitted to HackHarvard 2023 Winner So You Think You Can Do It Better Prize Created by Aside from developing the entire website design prototype in Figma, I worked on under-the-hood technologies to enable video generation and link it with the real-time narration from Eleven Labs through their API. I have also produced bash scripts to smoothly run all of the processes and ease the execution process for the user. Veronika Kitsul Developed the app's primary feature, a video creation pipeline using a plan-check-rewrite approach. Enhanced the usage of GPT4 to increase precision and reduce expenses. Also, optimized the video-generation script for parallel processing, resulting in a fivefold increase in speed Maksym Bondarenko Artem Yushko Like 3 3 people like this: Share this project: Updates Veronika Kitsul started this project — Oct 22, 2023 07:59 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}

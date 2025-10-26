@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venvScriptspython.exe -c \"from api.server import app; from services.idea_generator import IdeaGenerator; from services.devpost_scraper import DevpostScraper; from services.claude_analyzer import ClaudeAnalyzer; from utils.data_utils import extract_main_topics; from config.settings import CLAUDE_API_KEY; from config.constants import COMMON_TABS; print(''All imports successful!'')\")",
+      "Bash(python -c:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm install:*)",
+      "Bash(.venv/Scripts/python.exe -c \"import anthropic; print(''anthropic imported successfully'')\")",
+      "Bash(.venvScriptspython.exe -c \"from api.server import app; from api.services.similarity_reports import HackathonFraudDetector; print(''✓ All imports successful! No syntax errors.'')\")",
+      "Bash(.venv/Scripts/python.exe:*)",
+      "Bash(pip install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

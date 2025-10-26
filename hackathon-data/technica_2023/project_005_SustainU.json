@@ -1,0 +1,230 @@
+{
+  "title": "SustainU",
+  "url": "https://devpost.com/software/sustainu",
+  "description": "Devpost",
+  "technologies": [
+    "ai",
+    "figma",
+    "next.js",
+    "python",
+    "typescript"
+  ],
+  "team_members": [],
+  "awards": [
+    "Winner",
+    "Winner"
+  ],
+  "images": [
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-25d0005ec83e3b9ef6fce93235bb6d642d7c828f31758ebdb5b7ee87de7d45c3.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost logo"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg",
+      "alt": "Devpost"
+    },
+    {
+      "src": "https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/dft-logo-mobile-ab66dd5a4f4b2f045ad86d0e5f432dc85974c3d778b353d32213c24ca176484b.svg",
+      "alt": "Devpost for Teams logo"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/848/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 1"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/849/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 2"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/856/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 3"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/850/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 4"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/877/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 5"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/090/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 6"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/880/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 7"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/888/datas/gallery.jpg",
+      "alt": "SustainU – screenshot 8"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/602/188/datas/medium.png",
+      "alt": "image"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/587/626/datas/profile.jpg",
+      "alt": "Irene Zhang"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/760/396/datas/profile.PNG",
+      "alt": "Ishwarya Sundhararajan"
+    },
+    {
+      "src": "https://www.gravatar.com/avatar/cc4555ab5c77c86f1d93c6e8ab0d7be4?d=https%3A%2F%2Fd2dmyh35ffsxbl.cloudfront.net%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180",
+      "alt": "Jenna Rowan"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/559/203/datas/profile.jpg",
+      "alt": "Mahzabin Rashid Fariha"
+    },
+    {
+      "src": "https://avatars2.githubusercontent.com/u/7201014?type=square&v=4",
+      "alt": "Christina Banks"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/86592082?type=square&v=4",
+      "alt": "Tanvir Ahmed"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/559/203/datas/medium.jpg",
+      "alt": "Mahzabin Rashid Fariha"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/760/396/datas/medium.PNG",
+      "alt": "Ishwarya Sundhararajan"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/760/396/datas/profile.PNG",
+      "alt": "Ishwarya Sundhararajan"
+    },
+    {
+      "src": "https://technica-2023.devpost.com//d112y698adiu2z.cloudfront.net/photos/production/user_photos/001/760/396/datas/profile.PNG",
+      "alt": "Ishwarya Sundhararajan"
+    }
+  ],
+  "links": [
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Devpost for Teams\nAccess your company's private hackathons",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "Login",
+      "url": "https://devpost.team"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/848/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/849/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/856/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/850/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/877/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/634/090/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/880/datas/original.png"
+    },
+    {
+      "text": "",
+      "url": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/633/888/datas/original.png"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/jennarowan/SustainU"
+    },
+    {
+      "text": "github.com",
+      "url": "https://github.com/users/iSundhararajan/projects/5/views/1"
+    },
+    {
+      "text": "www.figma.com",
+      "url": "https://www.figma.com/file/JuVy9E6vlqnWJ8dkoxZS6P/Technica-2023?type=design&node-id=0%3A1&mode=design&t=XUbxmkPiUehmZq32-1"
+    },
+    {
+      "text": "www.canva.com",
+      "url": "https://www.canva.com/design/DAFx_Vm2iIc/SyQVcO8g2SGUj56IQvvZPQ/edit?utm_content=DAFx_Vm2iIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "text": "https://youtu.be/tLb5XlMFv5A",
+      "url": "https://youtu.be/tLb5XlMFv5A"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/devpost"
+    },
+    {
+      "text": "Discord",
+      "url": "https://discord.com/invite/HP4BhW3hnp"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/devposthacks"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/devpost/"
+    }
+  ],
+  "full_content": "SustainU | Devpost Log in Sign up Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Join a hackathon Devpost Participate in our public hackathons Hackathons Projects Devpost for Teams Access your company's private hackathons Login Host a hackathon Devpost Grow your developer ecosystem and promote your platform Host a public hackathon Devpost for Teams Drive innovation, collaboration, and retention within your organization Host an internal hackathon By use case AI hackathons Customer hackathons Employee hackathons Public hackathons Resources Blog Insights into hackathon planning and participation Customer stories Inspiration from peers and other industry leaders Planning guides Best practices for planning online and in-person hackathons Webinars & events Upcoming events and on-demand recordings Help desk Common questions and support documentation Log in Sign up SustainU An interactive platform that approaches climate change in an innovative manner Like 4 Comment Story Updates 1 Landing page Registration Onboarding questions Weekly task page Community task page Donations page Example task Completing task Inspiration Did you know that if every person on Earth made just one small eco-friendly change in their daily routine, we could collectively make a colossal impact on our planet's future? Inspired by the urgent need to address climate change we are on a mission to turn awareness into action by making eco-conscious choices accessible and rewarding through gamification, community engagement, personalized suggestions, and AI-powered creativity. SustainU is a passionate response to the climate crisis, aiming to harness the incredible potential of individual actions, both big and small, to create a sustainable future. What it does SustainU is a multifaceted platform designed to inspire and empower individuals to take meaningful actions to combat climate change and promote sustainability. Upon entering the platform, users are prompted to register or create an account, after which they can immediately begin their journey towards sustainable living. After completing a survey, users are presented with a variety of tasks, from simple daily actions to larger eco-friendly initiatives, earning points for each completed task. These tasks are personalized for each user with the help of AI. Financial contributions to climate action projects also contribute to points, fostering financial support for sustainability efforts. Community engagement is encouraged through volunteer events. Points can be redeemed for rewards, adding a gamification aspect to the platform. The app fosters a sense of community and showcases the real-world impact of individual actions, promoting awareness and sustainability in an engaging and user-friendly way. How we built it UX/UI: Figma Front-end: Next.js, Tailwind CSS Back-end: Flask, Typescript Most Creative Use of GitHub We are using GitHub for the following reasons: Collaboration: GitHub makes it easy to share code with others and greatly helps in collaboration. GitHub Project: We also used GitHub for planning and keeping track of our project and its progress with the help of the GitHub project management tool. Implementing the CI/CD workflow: GitHub makes it easy to implement the CI/CD workflow and makes the deployment process easy. Using PRs and Issues: We are doing multiple PRs and building numerous issues to keep the project on track. Best Domain Name from GoDaddy The domain name we used is sustainu.co Challenges we ran into Coming up with an innovative idea, with unique features Originally, we planned to make a mobile app but since none of us had experience with building a mobile app, we had to switch to making a web platform First time working with Next.js Accomplishments that we're proud of Collaborating together as a team (even though we were in a hybrid format) Completing the project within the given time frame Being able to implement most of the technical features What we learned Efficient time management and collaboration Prioritization Problem-solving abilities Prototyping and creating an MVP What's next for SustainU Adding more new features (we had limited time, so we couldn't implement all the features we wanted to) Make the web app responsive Building a mobile app Iterate and improve the features we already have Built With aifigmanext.jspythontypescript Try it out github.com github.com www.figma.com www.canva.com Submitted to Technica 2023 Winner Best Social Good Hack Winner Optiver: Best Hack for Sustainability Created by Created the UI/UX design for SustainU's web application Irene Zhang APM @ Workday | Designer @ TCS | UBC BCom 24 Ishwarya Sundhararajan Jenna Rowan Mahzabin Rashid Fariha Like 4 4 people like this: Share this project: Updates Ishwarya Sundhararajan posted an update — Oct 22, 2023 11:50 AM EDT Here's our video(devpost had issues attaching the video in time): https://youtu.be/tLb5XlMFv5A Log in or sign up for Devpost to join the conversation. Ishwarya Sundhararajan started this project — Oct 22, 2023 10:24 AM EDT Leave feedback in the comments! Log in or sign up for Devpost to join the conversation. Devpost About Careers Contact Help Hackathons Browse hackathons Explore projects Host a hackathon Hackathon guides Portfolio Your projects Your hackathons Settings Connect Twitter Discord Facebook LinkedIn © 2025 Devpost, Inc. All rights reserved. Community guidelines Security CA notice Privacy policy Terms of service"
+}
